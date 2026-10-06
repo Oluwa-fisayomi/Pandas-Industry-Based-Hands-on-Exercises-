@@ -1,0 +1,3013 @@
+Customer ID,City,Customer Type,Monthly Consumption,Account Status,Energy Source
+EN00001,Abuja,Residential,111.5,Active,Grid Electricity
+EN00002,Lagos,Residential,104.0,Active,Grid Electricity
+EN00003,Lagos,Residential,671.5,Active,Grid Electricity
+EN00004,Abuja,Residential,172.6,Active,Grid Electricity
+EN00005,Port Harcourt,Small Business,440.9,Active,Grid + Solar
+EN00006,Lagos,Commercial,3113.6,Active,Generator
+EN00007,Ibadan,Small Business,403.6,Suspended,Grid + Solar
+EN00008,Lagos,Residential,206.8,Pending,Grid Electricity
+EN00009,Ibadan,Residential,Unknown,Active,Grid Electricity
+EN00010,Enugu,Residential,213.4,Active,Grid Electricity
+EN00011,Enugu,Small Business,421.0,Active,Grid Electricity
+EN00012,Port Harcourt,Residential,170.5,Active,Generator
+EN00013,Enugu,Residential,76.7,Active,Grid Electricity
+EN00014,Ibadan,Commercial,858.6,Active,Grid Electricity
+EN00015,Enugu,Residential,N/A,Active,Grid Electricity
+EN00016,Ibadan,Public Institution,948.7,Active,Grid Electricity
+EN00017,Kano,Residential,169.2,Active,Grid Electricity
+EN00018,Abuja,Commercial,964.5,Active,Grid Electricity
+EN00019,Abuja,Small Business,517.1,Active,Grid + Solar
+EN00020,Port Harcourt,Residential,151.4,Active,Grid Electricity
+EN00021,Lagos,Commercial,1094.9,Active,Grid Electricity
+EN00022,Ibadan,Residential,105.7,Active,Grid + Solar
+EN00023,Aba,Residential,198.6,Active,Generator
+EN00024,Ibadan,Small Business,842.0,Active,Grid Electricity
+EN00025,Abuja,Residential,768.8,Active,Grid Electricity
+EN00026,Abuja,Commercial,836.8,Active,Grid + Solar
+EN00027,Enugu,Residential,238.0,Active,Grid Electricity
+EN00028,Abuja,Commercial,1848.5,Active,Grid Electricity
+EN00029,Benin City,Residential,555.5,Active,Grid Electricity
+EN00030,Ibadan,Small Business,905.0,Active,Grid Electricity
+EN00031,Lagos,Residential,461.6,Active,Grid Electricity
+EN00032,Port Harcourt,Small Business,938.6,Active,Grid Electricity
+EN00033,Abuja,Small Business,1456.5,Inactive,Grid Electricity
+EN00034,Port Harcourt,Residential,674.4,Active,Grid Electricity
+EN00035,Abuja,Residential,570.0,Active,Grid Electricity
+EN00036,Kano,Small Business,1072.6,Pending,
+EN00037,Port Harcourt,Residential,402.3,Active,Grid Electricity
+EN00038,Port Harcourt,Residential,287.5,Inactive,Grid Electricity
+EN00039,Benin City,Industrial,14071.3,Suspended,Grid Electricity
+EN00040,Lagos,Residential,471.6,Active,Grid Electricity
+EN00041,Benin City,Residential,73.5,Active,Grid Electricity
+EN00042,Jos,Small Business,593.5,Active,Grid + Generator
+EN00043,Abuja,Residential,338.2,Active,Solar
+EN00044,Lagos,Residential,83.0,Suspended,Grid Electricity
+EN00045,Kano,Small Business,836.6,Inactive,Grid + Solar
+EN00046,Kano,Small Business,595.3,Active,Grid + Generator
+EN00047,Abuja,Small Business,678.6,Active,Grid Electricity
+EN00048,Enugu,Small Business,430.0,Active,Grid + Solar
+EN00049,Abuja,Residential,141.8,Active,Grid + Generator
+EN00050,Kano,Commercial,1254.2,Inactive,Generator
+EN00051,Lagos,Residential,321.3,Active,Grid + Solar
+EN00052,Jos,Residential,187.7,Active,Grid Electricity
+EN00053,Ibadan,Residential,107.6,Active,Grid Electricity
+EN00054,Aba,Residential,309.7,Active,Solar
+EN00055,Jos,Small Business,480.9,Active,Grid Electricity
+EN00056,Benin City,Residential,448.2,Suspended,Grid + Generator
+EN00057,Kaduna,Residential,293.4,Inactive,Solar
+EN00058,Abuja,Residential,405.4,Active,Solar
+EN00059,Aba,Residential,352.4,Inactive,Grid Electricity
+EN00060,Abuja,Residential,740.2,Active,Grid Electricity
+EN00061,Kaduna,Small Business,483.6,Active,Generator
+EN00062,Benin City,Residential,155.1,Active,Grid Electricity
+EN00063,Abuja,Small Business,231.3,Inactive,Grid + Generator
+EN00064,Lagos,Industrial,1393.0,Active,Grid Electricity
+EN00065,Lagos,Residential,374.1,Active,Grid Electricity
+EN00066,Abuja,Industrial,7140.6,Active,Grid + Solar
+EN00067,Kano,Small Business,522.0,Active,Grid Electricity
+EN00068,Ibadan,Residential,294.9,Active,Grid Electricity
+EN00069,Ibadan,Industrial,1747.5,Active,Grid + Solar
+EN00070,Abuja,Public Institution,1602.9,Active,
+EN00071,Kano,Residential,173.8,Inactive,Generator
+EN00072,Port Harcourt,Commercial,3919.1,Inactive,Grid Electricity
+EN00073,Kano,Residential,83.1,Inactive,Grid Electricity
+EN00074,Port Harcourt,Residential,207.2,Suspended,Grid Electricity
+EN00075,Ibadan,Residential,428.9,Pending,Grid Electricity
+EN00076,Lagos,Residential,98.1,Active,Grid Electricity
+EN00077,Kano,Residential,125.6,Active,
+EN00078,Lagos,Residential,106.3,Active,Grid Electricity
+EN00079,Jos,Commercial,2081.9,Active,Grid Electricity
+EN00080,Abuja,Residential,231.8,Active,Grid + Solar
+EN00081,Lagos,Residential,79.0,Active,Grid Electricity
+EN00082,Lagos,Small Business,483.6,Active,Grid + Solar
+EN00083,Enugu,Small Business,No Reading,Active,Grid Electricity
+EN00084,Benin City,Residential,162.4,Active,Grid Electricity
+EN00085,Aba,Commercial,1920.9,Inactive,Grid + Solar
+EN00086,Kano,Residential,Error,Active,Generator
+EN00087,Port Harcourt,Residential,324.8,Active,Grid Electricity
+EN00088,Abuja,Residential,568.5,Active,Grid Electricity
+EN00089,Ibadan,Residential,181.9,Inactive,Grid Electricity
+EN00090,Port Harcourt,Commercial,2142.4,Active,Grid Electricity
+EN00091,Aba,Residential,350.0,Inactive,Solar
+EN00092,Lagos,Residential,Unknown,Active,Grid + Generator
+EN00093,Lagos,Public Institution,840.0,Active,Grid Electricity
+EN00094,Kano,Commercial,2840.3,Active,Grid Electricity
+EN00095,Kano,Industrial,5989.0,Active,Grid + Solar
+EN00096,Benin City,Residential,138.7,Pending,Solar
+EN00097,Aba,Residential,209.9,Active,Grid + Generator
+EN00098,Lagos,Commercial,1071.4,Active,Grid Electricity
+EN00099,Benin City,Residential,75.9,Active,Grid + Solar
+EN00100,Benin City,Public Institution,588.0,Active,Grid Electricity
+EN00101,Kaduna,Small Business,815.8,Active,Grid Electricity
+EN00102,Kano,Commercial,2006.1,Active,Generator
+EN00103,Lagos,Residential,147.5,Active,Grid Electricity
+EN00104,Abuja,Industrial,3290.1,Active,Grid + Generator
+EN00105,Port Harcourt,Commercial,5161.5,Active,Grid + Solar
+EN00106,Kano,Residential,144.4,Active,Generator
+EN00107,Kano,Residential,55.8,Active,Grid Electricity
+EN00108,Lagos,Small Business,No Reading,Active,Generator
+EN00109,Benin City,Residential,265.3,Active,Grid Electricity
+EN00110,Ibadan,Residential,471.2,Active,Grid + Generator
+EN00111,Abuja,Residential,643.2,Active,Grid Electricity
+EN00112,Ibadan,Public Institution,204.2,Active,Grid + Solar
+EN00113,Jos,Small Business,701.9,Active,Solar
+EN00114,Ibadan,Commercial,447.6,Suspended,Grid Electricity
+EN00115,Port Harcourt,Residential,209.2,Active,Grid Electricity
+EN00116,Abuja,Commercial,1305.3,Active,Grid Electricity
+EN00117,Kano,Residential,1158.9,Suspended,Generator
+EN00118,Ibadan,Commercial,783.6,Active,Grid Electricity
+EN00119,Jos,Residential,124.1,Active,Solar
+EN00120,Kano,Industrial,3918.8,Active,Grid Electricity
+EN00121,Ibadan,Residential,434.8,Active,Grid + Solar
+EN00122,Kaduna,Residential,356.2,Pending,Solar
+EN00123,Ibadan,Residential,223.3,Active,Grid Electricity
+EN00124,Kano,Residential,323.2,Active,Grid Electricity
+EN00125,Lagos,Small Business,970.2,Active,Grid Electricity
+EN00126,Abuja,Residential,437.5,Suspended,Grid Electricity
+EN00127,Ibadan,Residential,330.4,Active,Grid + Solar
+EN00128,Port Harcourt,Residential,115.6,Active,Generator
+EN00129,Port Harcourt,Residential,154.8,Pending,Grid + Solar
+EN00130,Lagos,Residential,942.8,Active,Solar
+EN00131,Benin City,Public Institution,1219.3,Active,Solar
+EN00132,Abuja,Small Business,689.9,Active,Grid + Solar
+EN00133,Abuja,Residential,158.7,Suspended,Grid Electricity
+EN00134,Lagos,Industrial,5878.6,Active,Grid + Solar
+EN00135,Abuja,,1507.8,Active,Grid + Generator
+EN00136,Kaduna,Public Institution,1548.7,Active,Generator
+EN00137,Benin City,Residential,240.5,Inactive,Grid Electricity
+EN00138,Lagos,Residential,167.8,Suspended,Grid + Solar
+EN00139,,Residential,248.0,Active,Grid + Solar
+EN00140,Lagos,Industrial,9854.9,Active,Grid Electricity
+EN00141,Abuja,Residential,267.1,Suspended,Grid Electricity
+EN00142,Ibadan,Commercial,977.5,Active,Grid + Solar
+EN00143,Lagos,Residential,192.6,Pending,Grid Electricity
+EN00144,Lagos,Residential,398.9,Active,Solar
+EN00145,Lagos,Residential,139.4,Active,Grid + Solar
+EN00146,Port Harcourt,Residential,69.7,Active,Grid Electricity
+EN00147,Lagos,Commercial,1802.0,Active,Generator
+EN00148,Jos,Small Business,374.0,Active,Grid Electricity
+EN00149,Jos,Residential,162.8,Pending,Grid Electricity
+EN00150,Port Harcourt,Residential,366.0,Active,Solar
+EN00151,Lagos,Residential,125.2,Active,Solar
+EN00152,Jos,Residential,Unknown,Active,Grid Electricity
+EN00153,Kano,Small Business,905.5,Active,Grid Electricity
+EN00154,Enugu,Small Business,,Inactive,Generator
+EN00155,Port Harcourt,Residential,62.8,Active,Grid Electricity
+EN00156,Lagos,Residential,86.4,Active,Grid + Generator
+EN00157,Port Harcourt,Small Business,263.9,Active,Grid Electricity
+EN00158,Kano,Small Business,1177.3,Active,Grid Electricity
+EN00159,Lagos,Small Business,756.8,Active,Grid + Solar
+EN00160,Aba,Small Business,837.0,Active,Grid Electricity
+EN00161,Abuja,Small Business,399.2,Active,Generator
+EN00162,Kano,Residential,380.9,Active,Grid Electricity
+EN00163,Port Harcourt,Small Business,926.6,Suspended,Grid Electricity
+EN00164,Lagos,Public Institution,No Reading,Active,Grid Electricity
+EN00165,Lagos,Small Business,453.5,Active,Generator
+EN00166,Jos,Residential,12O,Suspended,Grid Electricity
+EN00167,Benin City,Commercial,1542.0,Pending,Grid Electricity
+EN00168,Benin City,Industrial,4031.8,Suspended,Grid Electricity
+EN00169,Lagos,Residential,338.7,Active,Grid + Solar
+EN00170,Port Harcourt,Industrial,4534.3,Inactive,Generator
+EN00171,Lagos,Residential,348.8,Active,Grid Electricity
+EN00172,Port Harcourt,Commercial,2676.1,Active,Grid Electricity
+EN00173,Enugu,Industrial,3381.3,Active,Grid Electricity
+EN00174,Port Harcourt,Commercial,0,Pending,Grid Electricity
+EN00175,Kaduna,Small Business,791.7,Active,Generator
+EN00176,Kaduna,Residential,297.2,Inactive,Grid Electricity
+EN00177,Kaduna,Public Institution,,Active,Solar
+EN00178,Abuja,Residential,215.0,Active,Grid Electricity
+EN00179,Port Harcourt,Residential,198.6,Active,Grid Electricity
+EN00180,Port Harcourt,Small Business,417.9,Active,Grid Electricity
+EN00181,Port Harcourt,Residential,308.7,Active,Grid + Generator
+EN00182,Enugu,Small Business,762.4,Active,Grid Electricity
+EN00183,Lagos,Residential,154.3,Active,Grid Electricity
+EN00184,Kano,Commercial,Error,Active,Grid Electricity
+EN00185,Abuja,Residential,234.8,Suspended,Solar
+EN00186,,Industrial,18014.6,Active,Grid + Solar
+EN00187,Benin City,Residential,200.4,Active,Grid Electricity
+EN00188,Port Harcourt,Residential,914.5,Active,Grid Electricity
+EN00189,Lagos,Residential,1081.5,Active,Grid Electricity
+EN00190,Ibadan,Commercial,2413.0,Active,Grid Electricity
+EN00191,Jos,Commercial,2146.6,Active,Solar
+EN00192,Enugu,Commercial,"5,2O0",Active,Grid Electricity
+EN00193,Kano,Residential,272.2,Active,Grid + Generator
+EN00194,Kaduna,Residential,"5,2O0",Active,Grid + Solar
+EN00195,Lagos,Small Business,1004.5,Active,Grid Electricity
+EN00196,Ibadan,Residential,106.5,Suspended,Grid Electricity
+EN00197,Benin City,Residential,149.0,Active,Grid Electricity
+EN00198,Ibadan,Industrial,18503.2,Active,Grid Electricity
+EN00199,Ibadan,Small Business,867.6,Active,Grid Electricity
+EN00200,Ibadan,Residential,No Reading,Active,Grid Electricity
+EN00201,Lagos,Residential,160.6,Inactive,Grid Electricity
+EN00202,Lagos,Small Business,413.5,Active,Solar
+EN00203,Port Harcourt,Residential,574.4,Active,Grid Electricity
+EN00204,Port Harcourt,Residential,208.7,Active,Generator
+EN00205,Benin City,Small Business,,Suspended,Grid Electricity
+EN00206,Kaduna,Residential,144.5,Active,Grid + Solar
+EN00207,Lagos,Small Business,460.1,Active,Grid Electricity
+EN00208,Lagos,Residential,200.8,Active,Grid + Generator
+EN00209,Kano,Small Business,815.3,Active,Generator
+EN00210,Kano,Small Business,347.5,Active,Grid Electricity
+EN00211,Lagos,Industrial,,Active,Grid Electricity
+EN00212,Lagos,Residential,132.2,Active,Grid Electricity
+EN00213,Port Harcourt,Residential,495.9,Active,Grid Electricity
+EN00214,Enugu,Residential,172.7,Active,Generator
+EN00215,Kano,Small Business,1459.2,Active,Grid Electricity
+EN00216,Lagos,Commercial,1782.5,Active,Grid Electricity
+EN00217,Abuja,Commercial,3284.2,Active,Grid Electricity
+EN00218,Ibadan,Small Business,602.9,Inactive,Grid Electricity
+EN00219,Kano,Industrial,16480.4,Active,Grid + Generator
+EN00220,Ibadan,Residential,199.9,Suspended,Grid Electricity
+EN00221,Lagos,Industrial,2093.8,Active,Grid Electricity
+EN00222,Port Harcourt,Residential,96.6,Active,Grid Electricity
+EN00223,Ibadan,Small Business,1268.6,Active,Grid Electricity
+EN00224,Lagos,Small Business,944.0,Suspended,Grid Electricity
+EN00225,Lagos,Residential,179.6,Active,Grid Electricity
+EN00226,Abuja,Residential,,Active,Grid + Solar
+EN00227,Ibadan,Public Institution,1403.1,Active,Grid Electricity
+EN00228,Ibadan,Residential,101.0,Suspended,Grid Electricity
+EN00229,Abuja,Public Institution,902.1,Active,Grid Electricity
+EN00230,Ibadan,Residential,304.7,Active,Grid + Solar
+EN00231,Abuja,Small Business,1554.3,Active,Grid Electricity
+EN00232,Abuja,Residential,256.2,Active,Grid Electricity
+EN00233,Lagos,Residential,294.8,Active,Grid Electricity
+EN00234,Lagos,Commercial,445.9,Active,Grid Electricity
+EN00235,Benin City,Residential,188.9,Active,Grid Electricity
+EN00236,Lagos,Residential,161.5,Active,Generator
+EN00237,,Small Business,528.2,Active,Generator
+EN00238,Ibadan,Residential,141.3,Active,Grid Electricity
+EN00239,Abuja,Residential,501.4,Active,Generator
+EN00240,Ibadan,Residential,845.7,Active,Grid Electricity
+EN00241,Kaduna,Industrial,1826.3,Pending,Grid + Generator
+EN00242,Ibadan,Commercial,1014.6,Inactive,Grid Electricity
+EN00243,Aba,Small Business,648.9,Active,Grid Electricity
+EN00244,Aba,Residential,252.3,Inactive,Grid Electricity
+EN00245,Abuja,Residential,395.3,Active,Grid Electricity
+EN00246,Benin City,Residential,369.9,Active,Generator
+EN00247,Ibadan,Small Business,1094.6,Suspended,Grid + Generator
+EN00248,Ibadan,Residential,228.3,Active,Grid Electricity
+EN00249,Abuja,Commercial,3019.6,Active,Generator
+EN00250,Lagos,Small Business,522.5,Inactive,Grid + Solar
+EN00251,Ibadan,Residential,320.2,Pending,Grid Electricity
+EN00252,Port Harcourt,Industrial,6938.0,Suspended,Solar
+EN00253,Benin City,Commercial,2279.3,Active,Solar
+EN00254,Enugu,Small Business,404.8,Active,Grid Electricity
+EN00255,Kano,Small Business,202.2,Active,Grid Electricity
+EN00256,Lagos,Residential,311.8,Active,Grid Electricity
+EN00257,Kano,Residential,107.5,Active,Solar
+EN00258,Lagos,Small Business,323.7,Active,Solar
+EN00259,Lagos,Residential,162.1,Active,Grid + Solar
+EN00260,Ibadan,Residential,249.0,Active,Solar
+EN00261,Abuja,Commercial,649.6,Active,Grid Electricity
+EN00262,Aba,Residential,549.5,Active,Grid Electricity
+EN00263,Abuja,Commercial,1579.6,Suspended,Grid Electricity
+EN00264,Port Harcourt,Residential,322.1,Active,Grid Electricity
+EN00265,Port Harcourt,Industrial,6068.4,Active,Grid + Solar
+EN00266,Kano,Small Business,228.2,Active,Grid Electricity
+EN00267,Lagos,Residential,313.4,Inactive,Grid Electricity
+EN00268,Lagos,Small Business,1223.9,Active,Grid + Solar
+EN00269,Ibadan,Residential,214.7,Active,Generator
+EN00270,Kano,Small Business,424.8,Active,Grid + Solar
+EN00271,Aba,Commercial,1415.0,Active,Grid Electricity
+EN00272,Abuja,Commercial,638.0,Active,Grid Electricity
+EN00273,Port Harcourt,Small Business,819.6,Active,Grid Electricity
+EN00274,Port Harcourt,Small Business,444.5,Active,Grid Electricity
+EN00275,Kano,Small Business,685.2,Active,Grid Electricity
+EN00276,Kano,Public Institution,479.6,Active,Grid + Solar
+EN00277,Enugu,Residential,242.5,Active,Grid Electricity
+EN00278,Kano,Small Business,157.3,Active,Generator
+EN00279,Lagos,Residential,520.7,Active,
+EN00280,Ibadan,Commercial,2971.4,Active,Generator
+EN00281,Enugu,Public Institution,1008.9,Active,
+EN00282,Ibadan,Small Business,1507.2,Pending,Generator
+EN00283,Lagos,Residential,68.4,Active,Solar
+EN00284,Lagos,Small Business,,Active,Grid Electricity
+EN00285,Kaduna,Residential,430.6,Active,Generator
+EN00286,Enugu,Residential,349.4,Active,Grid Electricity
+EN00287,Lagos,Residential,Pending,Active,Grid Electricity
+EN00288,Abuja,Small Business,243.0,Active,Grid Electricity
+EN00289,Lagos,Residential,31.5,Active,Grid Electricity
+EN00290,Aba,Residential,140.6,Active,Grid Electricity
+EN00291,Abuja,Small Business,1058.6,Active,Grid Electricity
+EN00292,Port Harcourt,Residential,312.6,Active,Grid + Solar
+EN00293,Ibadan,Industrial,7281.1,Active,Grid + Solar
+EN00294,Aba,Residential,72.2,Active,Generator
+EN00295,Lagos,Residential,406.2,Active,Generator
+EN00296,Lagos,Residential,Unknown,Active,Grid Electricity
+EN00297,Abuja,Residential,191.5,Active,Grid Electricity
+EN00298,Ibadan,Residential,537.9,Inactive,Grid + Generator
+EN00299,Enugu,Commercial,1662.1,Inactive,Grid + Solar
+EN00300,Benin City,Small Business,918.0,Active,Grid + Solar
+EN00301,Port Harcourt,Residential,266.1,Active,Grid Electricity
+EN00302,Lagos,Small Business,486.8,Active,Grid Electricity
+EN00303,Aba,Residential,Unknown,Inactive,Grid + Solar
+EN00304,Kano,Residential,217.9,Active,Generator
+EN00305,Lagos,Small Business,269.1,Active,Grid + Solar
+EN00306,Port Harcourt,Commercial,3249.4,Active,Grid Electricity
+EN00307,Port Harcourt,Commercial,1044.0,Active,Solar
+EN00308,Ibadan,Small Business,276.5,Active,Grid Electricity
+EN00309,Benin City,Small Business,702.7,Suspended,Solar
+EN00310,Kano,Commercial,3656.6,Active,Grid + Solar
+EN00311,Benin City,Small Business,484.4,Inactive,Grid Electricity
+EN00312,Benin City,Residential,,Active,Grid Electricity
+EN00313,Port Harcourt,Public Institution,1280.7,Inactive,Solar
+EN00314,Lagos,Small Business,901.8,Active,Grid Electricity
+EN00315,Ibadan,Public Institution,Pending,Inactive,Grid Electricity
+EN00316,Kaduna,Residential,175.1,Active,Grid Electricity
+EN00317,Abuja,Small Business,1205.4,Active,Grid Electricity
+EN00318,Kaduna,Small Business,1224.5,Active,Solar
+EN00319,Abuja,Public Institution,802.6,Active,Grid Electricity
+EN00320,Kano,Residential,254.9,Active,Grid Electricity
+EN00321,Abuja,Small Business,,Active,Grid Electricity
+EN00322,Jos,Residential,232.1,Active,Solar
+EN00323,Lagos,Commercial,4425.4,Active,Grid Electricity
+EN00324,Jos,Residential,648.7,Active,Generator
+EN00325,Port Harcourt,Commercial,2097.8,Suspended,Grid Electricity
+EN00326,Port Harcourt,Commercial,831.8,Pending,Grid Electricity
+EN00327,Enugu,Commercial,2084.9,Active,Grid Electricity
+EN00328,Port Harcourt,Small Business,441.9,Active,Grid Electricity
+EN00329,Ibadan,Residential,126.3,Active,Grid + Generator
+EN00330,Abuja,Residential,89.6,Active,Grid + Solar
+EN00331,Ibadan,Residential,644.6,Inactive,Grid Electricity
+EN00332,Abuja,Residential,131.2,Active,Grid + Solar
+EN00333,Benin City,Small Business,1080.2,Active,Generator
+EN00334,Port Harcourt,Residential,78.2,Active,Grid Electricity
+EN00335,Lagos,Residential,591.6,Active,Grid + Generator
+EN00336,Enugu,Public Institution,1257.9,Active,Solar
+EN00337,Kano,Commercial,1878.5,Pending,Solar
+EN00338,Benin City,Small Business,771.1,Active,Grid + Solar
+EN00339,Enugu,Commercial,1292.7,Active,Generator
+EN00340,Enugu,Residential,453.1,Suspended,Grid Electricity
+EN00341,Abuja,Commercial,3308.0,Active,Solar
+EN00342,Kano,Commercial,1480.5,Active,Grid + Generator
+EN00343,Port Harcourt,Commercial,613.5,Active,Grid + Generator
+EN00344,Port Harcourt,Industrial,3785.9,Active,Grid Electricity
+EN00345,Kano,Industrial,5268.2,Active,Grid Electricity
+EN00346,Lagos,Residential,102.2,Active,Grid Electricity
+EN00347,Jos,Commercial,3914.3,Active,Solar
+EN00348,Lagos,Residential,507.7,Active,Generator
+EN00349,Kano,Small Business,,Active,Grid Electricity
+EN00350,Benin City,Residential,215.0,Active,Grid Electricity
+EN00351,Ibadan,Public Institution,509.0,Inactive,Grid + Solar
+EN00352,Lagos,Small Business,681.2,Active,Generator
+EN00353,Port Harcourt,Residential,121.7,Active,Solar
+EN00354,Abuja,Residential,431.7,Active,Grid Electricity
+EN00355,Jos,Industrial,3110.1,Inactive,Grid Electricity
+EN00356,Ibadan,Residential,199.1,Active,Grid Electricity
+EN00357,Aba,Commercial,1862.4,Active,Solar
+EN00358,Port Harcourt,Residential,170.5,Active,Grid + Solar
+EN00359,Lagos,Residential,135.3,Active,Grid + Solar
+EN00360,Abuja,Residential,153.1,Active,Generator
+EN00361,Abuja,Residential,917.6,Inactive,Grid Electricity
+EN00362,Kano,Residential,651.6,Active,Generator
+EN00363,Abuja,Residential,481.2,Active,Grid Electricity
+EN00364,Port Harcourt,Public Institution,1356.5,Active,Grid Electricity
+EN00365,Ibadan,Commercial,1431.5,Suspended,Grid Electricity
+EN00366,Benin City,Small Business,527.0,Active,Grid Electricity
+EN00367,Lagos,Small Business,455.5,Active,Grid + Solar
+EN00368,Lagos,Residential,466.4,Active,Grid Electricity
+EN00369,Port Harcourt,Small Business,490.3,Suspended,Generator
+EN00370,Lagos,Residential,259.0,Suspended,Grid + Solar
+EN00371,Benin City,Residential,126.5,Active,Grid Electricity
+EN00372,Kano,Residential,461.9,Inactive,Grid Electricity
+EN00373,Port Harcourt,Public Institution,697.3,Active,Grid Electricity
+EN00374,Port Harcourt,Public Institution,697.5,Active,Grid + Generator
+EN00375,Jos,Residential,173.1,Active,Grid Electricity
+EN00376,,Small Business,931.4,Active,Generator
+EN00377,,Residential,425.6,Active,Grid Electricity
+EN00378,Enugu,Residential,484.5,Active,Grid Electricity
+EN00379,Kano,Commercial,0,Active,Grid Electricity
+EN00380,Port Harcourt,Residential,619.2,Active,Grid Electricity
+EN00381,Benin City,Small Business,998.8,Inactive,
+EN00382,Jos,Residential,81.7,Active,Grid Electricity
+EN00383,Aba,Residential,143.0,Active,Grid Electricity
+EN00384,Benin City,Industrial,4159.3,Active,Grid Electricity
+EN00385,Ibadan,Small Business,2059.2,Active,Grid Electricity
+EN00386,Lagos,Commercial,514.1,Active,Grid + Generator
+EN00387,Lagos,Commercial,813.6,Active,Grid Electricity
+EN00388,Abuja,Residential,,Active,Generator
+EN00389,Jos,Residential,324.7,Active,Grid + Solar
+EN00390,Kano,Commercial,2235.9,Active,Grid Electricity
+EN00391,Lagos,Small Business,472.6,Inactive,Grid + Solar
+EN00392,Kano,Residential,172.5,Active,Grid Electricity
+EN00393,Port Harcourt,Commercial,280.5,Suspended,Generator
+EN00394,Port Harcourt,Public Institution,634.9,Active,Grid Electricity
+EN00395,Kaduna,Residential,160.7,Inactive,Grid Electricity
+EN00396,Ibadan,Residential,725.8,Active,Generator
+EN00397,Ibadan,Industrial,2531.7,Active,Grid + Generator
+EN00398,Kano,Residential,38.1,Active,Solar
+EN00399,Jos,Residential,313.1,Active,Generator
+EN00400,Aba,Residential,N/A,Suspended,Grid Electricity
+EN00401,Kano,Residential,507.0,Active,Grid Electricity
+EN00402,Abuja,Small Business,1819.0,Active,Grid + Solar
+EN00403,Abuja,Commercial,4720.6,Active,Grid Electricity
+EN00404,Abuja,Commercial,877.6,Active,Grid Electricity
+EN00405,,Commercial,3941.3,Inactive,Grid Electricity
+EN00406,Enugu,Residential,1044.5,Active,Grid Electricity
+EN00407,Ibadan,Residential,87.9,Active,Generator
+EN00408,Kaduna,Commercial,1654.4,Suspended,Grid Electricity
+EN00409,Port Harcourt,Public Institution,872.7,Active,Grid + Generator
+EN00410,Kano,Public Institution,1019.5,Active,Grid Electricity
+EN00411,Port Harcourt,Residential,337.4,Active,Grid Electricity
+EN00412,Abuja,Public Institution,1618.3,Active,Generator
+EN00413,Abuja,Commercial,779.1,Active,Solar
+EN00414,Kano,Residential,110.6,Active,Grid Electricity
+EN00415,Port Harcourt,Industrial,7682.2,Suspended,Grid Electricity
+EN00416,Enugu,Industrial,2828.7,Pending,Grid + Solar
+EN00417,Abuja,Residential,475.2,,Grid + Solar
+EN00418,Port Harcourt,Residential,183.7,Active,Grid + Solar
+EN00419,Benin City,Residential,117.3,Active,Grid Electricity
+EN00420,Kano,Small Business,273.4,Inactive,Grid + Solar
+EN00421,Ibadan,Residential,347.6,Active,Grid + Solar
+EN00422,Lagos,Residential,545.1,Active,Grid + Generator
+EN00423,Lagos,Small Business,933.7,Active,Grid Electricity
+EN00424,Ibadan,Commercial,649.4,Active,Generator
+EN00425,Lagos,Residential,278.6,Suspended,Grid Electricity
+EN00426,Lagos,Residential,159.4,Active,Grid Electricity
+EN00427,Port Harcourt,Commercial,551.5,Active,Grid Electricity
+EN00428,Port Harcourt,Residential,217.2,Inactive,Solar
+EN00429,Kaduna,Public Institution,493.7,Active,Grid + Solar
+EN00430,,Residential,N/A,Active,Grid Electricity
+EN00431,Kano,Small Business,596.8,Suspended,Grid Electricity
+EN00432,Abuja,Residential,60.1,Active,Grid Electricity
+EN00433,Ibadan,Industrial,1989.5,Active,Grid Electricity
+EN00434,Abuja,Small Business,292.4,Active,Grid Electricity
+EN00435,Benin City,Residential,176.1,Active,Grid + Solar
+EN00436,Kaduna,Small Business,419.2,Active,Grid Electricity
+EN00437,Port Harcourt,Public Institution,1577.1,Active,Solar
+EN00438,Benin City,Small Business,1101.6,Active,Solar
+EN00439,Abuja,Small Business,1184.0,Active,Generator
+EN00440,Port Harcourt,Commercial,1740.2,Active,Grid Electricity
+EN00441,Kaduna,Residential,309.6,Active,Grid Electricity
+EN00442,Port Harcourt,Commercial,1841.8,Active,Grid Electricity
+EN00443,Jos,Small Business,,Active,Grid + Solar
+EN00444,Ibadan,Commercial,1404.9,Active,Grid + Solar
+EN00445,Lagos,Residential,288.5,Suspended,Generator
+EN00446,Abuja,Industrial,14629.2,Active,Generator
+EN00447,Lagos,Residential,215.9,Active,Generator
+EN00448,Kaduna,Commercial,1117.9,Active,Grid Electricity
+EN00449,Lagos,Residential,173.8,Active,Grid Electricity
+EN00450,Aba,Residential,437.0,Inactive,Grid Electricity
+EN00451,Port Harcourt,Residential,122.0,Pending,Grid Electricity
+EN00452,Aba,Residential,540.3,Inactive,Generator
+EN00453,Lagos,Residential,431.3,Active,Grid + Solar
+EN00454,Lagos,Small Business,332.3,Active,Grid + Generator
+EN00455,Lagos,Residential,92.6,Active,Generator
+EN00456,Kano,Residential,94.9,Active,Grid Electricity
+EN00457,Abuja,Industrial,13025.2,Active,Grid + Generator
+EN00458,Enugu,Residential,117.7,Active,Grid Electricity
+EN00459,Kano,Residential,153.1,Active,Generator
+EN00460,Lagos,Residential,486.7,Active,Grid + Solar
+EN00461,Port Harcourt,Residential,,Active,Generator
+EN00462,Enugu,Residential,332.7,Active,Grid + Solar
+EN00463,Benin City,Small Business,710.3,Active,Grid Electricity
+EN00464,Lagos,Small Business,717.7,Active,Grid Electricity
+EN00465,Ibadan,Residential,186.1,Active,Grid Electricity
+EN00466,Enugu,Residential,287.5,Active,Solar
+EN00467,Aba,Residential,40.1,Active,Grid Electricity
+EN00468,Ibadan,Residential,289.6,Active,Grid Electricity
+EN00469,Kano,Residential,823.7,Pending,Grid Electricity
+EN00470,Benin City,Commercial,663.4,Active,Solar
+EN00471,Lagos,Residential,61.3,Active,Grid Electricity
+EN00472,Jos,Commercial,2046.1,Active,Grid Electricity
+EN00473,Enugu,Residential,334.6,Active,Solar
+EN00474,Kano,Residential,90.7,Active,Grid Electricity
+EN00475,Kaduna,Residential,309.8,Active,Grid Electricity
+EN00476,Ibadan,Commercial,1943.0,Active,Grid + Solar
+EN00477,Enugu,Residential,143.8,Active,Generator
+EN00478,Kaduna,Residential,355.6,Active,Grid Electricity
+EN00479,Abuja,Small Business,688.8,Active,Grid Electricity
+EN00480,Enugu,Residential,515.4,Active,Grid + Generator
+EN00481,Lagos,Residential,201.3,Inactive,Grid Electricity
+EN00482,Enugu,Residential,0,Active,Grid + Solar
+EN00483,Ibadan,Residential,233.4,Active,Grid Electricity
+EN00484,Ibadan,Residential,108.7,Active,Grid Electricity
+EN00485,Aba,Residential,308.4,Active,Grid Electricity
+EN00486,Abuja,Small Business,726.7,Active,Grid Electricity
+EN00487,Ibadan,Residential,273.1,Active,Grid + Solar
+EN00488,Ibadan,Residential,352.4,Active,Solar
+EN00489,Port Harcourt,Small Business,571.6,Active,Grid + Solar
+EN00490,Port Harcourt,Public Institution,,Active,Grid + Generator
+EN00491,Abuja,Public Institution,900.6,Active,Grid Electricity
+EN00492,Kano,Commercial,2815.5,Active,Grid + Solar
+EN00493,Abuja,Residential,377.3,Active,Grid + Generator
+EN00494,Lagos,Residential,108.7,Active,Grid Electricity
+EN00495,Enugu,Residential,205.1,Suspended,Grid Electricity
+EN00496,Ibadan,,1271.4,Active,Solar
+EN00497,Port Harcourt,Industrial,11478.9,Active,Solar
+EN00498,Jos,Residential,,Active,Grid Electricity
+EN00499,Lagos,Commercial,585.4,Inactive,Grid Electricity
+EN00500,Kano,Residential,193.0,Active,Grid Electricity
+EN00501,Lagos,Residential,265.2,Active,Grid + Solar
+EN00502,Abuja,Residential,136.3,Inactive,Grid Electricity
+EN00503,Lagos,Industrial,27784.1,Active,Grid + Solar
+EN00504,Abuja,Residential,335.5,Active,Grid + Solar
+EN00505,Port Harcourt,Residential,407.3,Active,Grid Electricity
+EN00506,Lagos,Commercial,,Active,Solar
+EN00507,Benin City,Industrial,4263.7,Active,Grid Electricity
+EN00508,Kano,Public Institution,914.9,Pending,Grid Electricity
+EN00509,Aba,Small Business,978.0,Pending,Solar
+EN00510,Port Harcourt,Commercial,1409.1,Active,Grid Electricity
+EN00511,Kano,Residential,,Active,Grid Electricity
+EN00512,Lagos,Residential,426.8,Active,Grid Electricity
+EN00513,,Residential,113.6,Active,Grid Electricity
+EN00514,Ibadan,Industrial,9804.7,Active,Grid Electricity
+EN00515,Lagos,Residential,131.6,Active,Grid Electricity
+EN00516,Benin City,Residential,431.4,Active,Grid Electricity
+EN00517,Aba,Public Institution,1397.0,Active,Generator
+EN00518,Enugu,Residential,332.9,Inactive,Grid Electricity
+EN00519,Port Harcourt,Residential,250.1,Active,Grid + Solar
+EN00520,Kaduna,Residential,202.2,Active,Grid Electricity
+EN00521,Abuja,Industrial,1086.1,Active,Grid Electricity
+EN00522,Port Harcourt,Residential,192.8,Inactive,Grid + Solar
+EN00523,Ibadan,Small Business,243.0,Active,Solar
+EN00524,Ibadan,Commercial,3891.8,Suspended,Grid + Solar
+EN00525,Benin City,Residential,538.6,Active,Grid Electricity
+EN00526,Abuja,Public Institution,625.2,Active,Grid Electricity
+EN00527,Benin City,Residential,394.3,Active,Grid + Solar
+EN00528,Enugu,Residential,189.1,Active,Grid Electricity
+EN00529,Port Harcourt,Residential,103.5,Active,Grid Electricity
+EN00530,Lagos,Residential,182.2,Active,Generator
+EN00531,Abuja,Commercial,1021.3,Active,Grid Electricity
+EN00532,Enugu,Residential,80.4,Active,Grid Electricity
+EN00533,Lagos,Small Business,617.1,Active,Grid Electricity
+EN00534,Abuja,Residential,292.3,Active,Grid Electricity
+EN00535,Kaduna,Residential,422.3,Active,Grid Electricity
+EN00536,Port Harcourt,Small Business,441.7,Suspended,Grid Electricity
+EN00537,Kano,Residential,779.3,Active,Solar
+EN00538,Lagos,Small Business,1166.3,,Grid Electricity
+EN00539,Enugu,Residential,392.7,Active,Grid Electricity
+EN00540,Port Harcourt,Small Business,423.8,Active,Solar
+EN00541,Lagos,Residential,359.7,Active,Grid Electricity
+EN00542,Abuja,Residential,172.6,Active,Grid Electricity
+EN00543,Lagos,Public Institution,1520.9,Active,Grid Electricity
+EN00544,Port Harcourt,Residential,843.2,Active,Generator
+EN00545,Lagos,Residential,249.3,Active,Grid Electricity
+EN00546,Kano,Commercial,1533.4,Active,Grid + Solar
+EN00547,Ibadan,Residential,53.0,Active,Solar
+EN00548,Enugu,Residential,372.3,Active,Grid + Solar
+EN00549,Enugu,Residential,Unknown,Inactive,Grid Electricity
+EN00550,Lagos,Commercial,1786.7,Active,Generator
+EN00551,Enugu,Residential,134.3,Active,Grid Electricity
+EN00552,Benin City,Residential,Pending,Active,Grid Electricity
+EN00553,Abuja,Industrial,3300.7,Active,Grid Electricity
+EN00554,Aba,Small Business,256.5,Pending,Grid Electricity
+EN00555,Lagos,Small Business,1512.4,Active,Solar
+EN00556,Kano,Public Institution,3196.0,Active,Generator
+EN00557,Abuja,Commercial,669.5,Active,Grid Electricity
+EN00558,Abuja,Residential,369.7,Active,Grid Electricity
+EN00559,Ibadan,Commercial,740.3,Active,Grid Electricity
+EN00560,Lagos,Residential,145.4,Active,Generator
+EN00561,Kano,Small Business,1386.1,Active,Solar
+EN00562,Ibadan,Small Business,387.1,Active,Grid Electricity
+EN00563,Lagos,Small Business,311.9,Active,Generator
+EN00564,Aba,Small Business,"5,2O0",Active,Grid Electricity
+EN00565,Enugu,Commercial,8039.7,Active,Grid Electricity
+EN00566,Abuja,Residential,428.7,Suspended,Grid + Solar
+EN00567,Benin City,Commercial,1140.6,Pending,Grid Electricity
+EN00568,Enugu,Residential,163.2,Active,Grid Electricity
+EN00569,Kaduna,Commercial,321.7,Active,Grid Electricity
+EN00570,Enugu,Small Business,476.6,Active,Grid Electricity
+EN00571,Port Harcourt,Residential,202.3,Active,Grid + Generator
+EN00572,Ibadan,Residential,237.3,Inactive,Grid Electricity
+EN00573,Kano,Small Business,1025.4,Active,Grid Electricity
+EN00574,Lagos,Industrial,20271.7,Active,Grid + Solar
+EN00575,Ibadan,Residential,265.9,Pending,Grid + Solar
+EN00576,Port Harcourt,Residential,105.5,Active,Grid + Solar
+EN00577,Ibadan,Small Business,668.5,Active,Grid Electricity
+EN00578,Kaduna,Residential,118.6,Active,Grid Electricity
+EN00579,Enugu,Public Institution,285.6,Active,Grid + Generator
+EN00580,Kaduna,Residential,405.9,Active,Grid Electricity
+EN00581,Kano,Commercial,1119.0,Active,Grid Electricity
+EN00582,Ibadan,Residential,531.4,Active,Grid Electricity
+EN00583,Port Harcourt,Residential,241.4,Suspended,Grid Electricity
+EN00584,Kano,Residential,1059.2,Active,Grid Electricity
+EN00585,Port Harcourt,Residential,457.0,Inactive,Solar
+EN00586,Ibadan,Residential,121.4,Active,Grid Electricity
+EN00587,Lagos,Residential,394.6,Active,Grid + Solar
+EN00588,Lagos,Small Business,838.3,Active,Generator
+EN00589,Kano,Small Business,202.4,Inactive,Grid Electricity
+EN00590,Lagos,Residential,167.5,Active,Grid Electricity
+EN00591,Lagos,Commercial,3149.7,Active,Grid + Generator
+EN00592,Abuja,Public Institution,1132.0,Active,Grid Electricity
+EN00593,Ibadan,Commercial,1222.3,Active,Grid Electricity
+EN00594,Abuja,Residential,160.8,Active,Grid + Solar
+EN00595,Kano,Commercial,755.5,Active,Solar
+EN00596,Ibadan,Small Business,577.9,Active,Grid + Solar
+EN00597,Jos,Small Business,885.4,Active,Grid Electricity
+EN00598,Kano,Residential,405.0,Suspended,Grid Electricity
+EN00599,Kaduna,Residential,539.9,Active,Grid Electricity
+EN00600,Kaduna,Small Business,799.6,Active,Grid Electricity
+EN00601,Aba,Residential,212.4,Pending,Grid + Solar
+EN00602,Ibadan,Residential,176.1,Inactive,Grid Electricity
+EN00603,Abuja,Public Institution,1088.0,Active,Grid Electricity
+EN00604,Enugu,Residential,315.5,Suspended,Grid Electricity
+EN00605,Port Harcourt,Small Business,421.0,Pending,Generator
+EN00606,Aba,Commercial,2246.0,Active,Grid Electricity
+EN00607,Kaduna,Small Business,779.3,Active,Grid Electricity
+EN00608,Lagos,Residential,433.6,Active,Grid + Generator
+EN00609,Kano,Residential,686.7,Active,Generator
+EN00610,Kaduna,Residential,200.6,Active,Grid Electricity
+EN00611,Benin City,Residential,256.7,Active,Grid Electricity
+EN00612,Aba,Small Business,872.3,Active,Grid Electricity
+EN00613,Ibadan,Residential,582.5,Active,Grid Electricity
+EN00614,Enugu,Small Business,578.3,Active,Grid Electricity
+EN00615,Enugu,Commercial,2580.9,Active,Grid Electricity
+EN00616,Benin City,Public Institution,1488.4,Suspended,Generator
+EN00617,Jos,Residential,265.3,Suspended,Grid + Solar
+EN00618,Abuja,Residential,228.8,Active,Solar
+EN00619,Ibadan,Residential,188.3,Active,Solar
+EN00620,Lagos,Small Business,Pending,Active,Grid Electricity
+EN00621,Lagos,Residential,115.6,Active,Grid Electricity
+EN00622,Abuja,Industrial,15265.7,Active,Grid Electricity
+EN00623,Abuja,Residential,350.8,Active,Grid Electricity
+EN00624,Benin City,Residential,310.0,Pending,Grid Electricity
+EN00625,Abuja,Small Business,621.6,Suspended,Grid Electricity
+EN00626,Lagos,Small Business,332.4,Active,Grid Electricity
+EN00627,Aba,Commercial,1794.6,Active,Grid + Solar
+EN00628,Kaduna,Residential,140.2,Active,Solar
+EN00629,Port Harcourt,Small Business,608.2,Active,Grid Electricity
+EN00630,Enugu,Industrial,2167.2,Active,Generator
+EN00631,Lagos,Residential,515.1,Active,Solar
+EN00632,Lagos,Industrial,4436.4,Active,Generator
+EN00633,Benin City,Residential,285.8,Active,Generator
+EN00634,Port Harcourt,Public Institution,736.6,Active,Grid Electricity
+EN00635,Lagos,Residential,153.2,Active,Grid Electricity
+EN00636,Enugu,Small Business,1232.6,Suspended,Grid + Solar
+EN00637,Lagos,Residential,257.8,Active,Generator
+EN00638,Benin City,Small Business,594.5,Inactive,Grid + Solar
+EN00639,Lagos,Public Institution,2141.8,Active,Grid Electricity
+EN00640,Abuja,Industrial,Error,Active,Grid Electricity
+EN00641,Lagos,Residential,288.1,Active,Generator
+EN00642,Ibadan,Residential,134.1,Suspended,Grid + Solar
+EN00643,Abuja,Residential,362.3,Active,Generator
+EN00644,Lagos,Small Business,366.4,Active,Generator
+EN00645,Lagos,,250.3,Active,Grid + Generator
+EN00646,Port Harcourt,Residential,327.1,Active,Grid Electricity
+EN00647,Port Harcourt,Residential,382.7,Active,Solar
+EN00648,Abuja,Commercial,3844.5,Active,Grid + Solar
+EN00649,Aba,Residential,205.9,Active,Generator
+EN00650,Abuja,Residential,350.0,Active,Solar
+EN00651,Enugu,Residential,506.9,Active,Grid Electricity
+EN00652,Lagos,Small Business,697.4,Active,Grid Electricity
+EN00653,Port Harcourt,Residential,255.1,Active,Generator
+EN00654,Lagos,Industrial,37433.9,Active,Generator
+EN00655,Enugu,Small Business,1019.8,Active,Grid Electricity
+EN00656,Kaduna,Small Business,371.5,Suspended,Grid Electricity
+EN00657,Abuja,Small Business,1576.5,Inactive,Grid Electricity
+EN00658,Port Harcourt,Commercial,1070.0,Active,Generator
+EN00659,Port Harcourt,Commercial,2026.1,Suspended,Generator
+EN00660,Lagos,Commercial,1953.4,Active,Grid Electricity
+EN00661,Abuja,Residential,117.2,Suspended,Grid + Generator
+EN00662,Aba,Small Business,,Inactive,Grid Electricity
+EN00663,Lagos,Small Business,738.4,Active,Grid + Solar
+EN00664,Aba,Small Business,754.5,Inactive,Grid Electricity
+EN00665,Enugu,Residential,570.0,Active,Grid Electricity
+EN00666,Lagos,Residential,40.4,Active,Grid Electricity
+EN00667,Kaduna,Residential,378.8,Active,Grid Electricity
+EN00668,Lagos,Small Business,548.3,Active,Grid Electricity
+EN00669,Port Harcourt,Commercial,905.6,Active,Grid Electricity
+EN00670,Benin City,Commercial,1362.7,Active,Grid Electricity
+EN00671,Lagos,Public Institution,680.6,Active,Grid Electricity
+EN00672,Kano,Commercial,1336.8,Active,Grid Electricity
+EN00673,Abuja,Commercial,1495.8,Active,Solar
+EN00674,Kaduna,Residential,144.3,Active,Grid + Solar
+EN00675,Ibadan,Residential,86.7,Active,Grid Electricity
+EN00676,Lagos,Industrial,3603.9,Active,Solar
+EN00677,Benin City,Commercial,2530.3,Active,Solar
+EN00678,Jos,Small Business,617.2,Active,Generator
+EN00679,Abuja,Residential,103.1,Active,Grid Electricity
+EN00680,Jos,Residential,166.9,Active,Solar
+EN00681,Aba,Commercial,1913.8,Inactive,Grid + Solar
+EN00682,Lagos,Residential,543.6,Active,Generator
+EN00683,Aba,Residential,358.5,Active,Grid + Generator
+EN00684,Lagos,,141.6,Active,Generator
+EN00685,Kano,Residential,130.5,Active,Grid Electricity
+EN00686,Port Harcourt,Residential,261.2,Active,Grid + Solar
+EN00687,Kano,Small Business,400.6,Active,Grid Electricity
+EN00688,Jos,Residential,Pending,Active,Generator
+EN00689,Ibadan,Residential,460.8,Active,Grid Electricity
+EN00690,Abuja,Residential,89.7,Active,Grid Electricity
+EN00691,Abuja,Residential,343.1,Active,Grid + Solar
+EN00692,Kano,Residential,303.0,Active,Grid Electricity
+EN00693,Ibadan,Residential,463.5,Active,Generator
+EN00694,Kano,Residential,Pending,Active,Grid Electricity
+EN00695,,Residential,404.1,Active,Grid Electricity
+EN00696,Kano,Commercial,961.0,Suspended,Grid Electricity
+EN00697,Lagos,Small Business,1592.0,Active,
+EN00698,Enugu,Residential,,Active,Grid + Solar
+EN00699,,Residential,303.2,Active,Generator
+EN00700,Kano,Residential,880.6,Inactive,Grid + Solar
+EN00701,Lagos,Commercial,963.0,Active,Solar
+EN00702,Kano,Industrial,5639.6,Active,Generator
+EN00703,Aba,Commercial,1521.8,Active,Grid Electricity
+EN00704,Jos,Small Business,288.3,Active,Grid + Generator
+EN00705,Port Harcourt,Industrial,9727.5,Active,Generator
+EN00706,Enugu,Residential,174.6,Active,Grid Electricity
+EN00707,Ibadan,Residential,,Active,Grid Electricity
+EN00708,Benin City,Residential,189.8,Pending,Grid Electricity
+EN00709,Lagos,Residential,77.9,Active,Grid Electricity
+EN00710,Abuja,Residential,322.5,Active,Generator
+EN00711,Jos,Residential,323.6,Active,Grid Electricity
+EN00712,Lagos,Residential,60.1,Inactive,Grid Electricity
+EN00713,Kano,Small Business,1434.1,Active,Grid Electricity
+EN00714,Lagos,Public Institution,3342.6,Inactive,Grid Electricity
+EN00715,Lagos,Commercial,1840.6,Active,Solar
+EN00716,Lagos,Residential,98.5,Suspended,Grid Electricity
+EN00717,Kaduna,Commercial,1279.5,Active,Grid + Solar
+EN00718,Lagos,Commercial,1472.2,Active,Grid Electricity
+EN00719,Enugu,Industrial,,Active,Grid Electricity
+EN00720,Kaduna,Residential,217.2,Inactive,Grid Electricity
+EN00721,Lagos,Residential,135.2,Active,Generator
+EN00722,Kaduna,Residential,199.5,Active,Grid + Generator
+EN00723,Kano,Residential,412.2,Active,Grid Electricity
+EN00724,Ibadan,Small Business,837.3,Active,Solar
+EN00725,Port Harcourt,Residential,389.0,Inactive,Grid + Solar
+EN00726,Lagos,Residential,94.5,Active,Grid + Solar
+EN00727,Port Harcourt,Commercial,798.1,Active,Grid Electricity
+EN00728,Port Harcourt,Residential,138.4,Active,Grid + Solar
+EN00729,Aba,Residential,139.9,Inactive,Grid Electricity
+EN00730,Abuja,Industrial,18882.7,Active,Grid Electricity
+EN00731,Benin City,Residential,229.5,Active,Grid Electricity
+EN00732,Benin City,Commercial,495.7,Active,Grid + Solar
+EN00733,Benin City,Industrial,3127.0,Active,Grid + Generator
+EN00734,Enugu,Residential,435.1,Active,Solar
+EN00735,Enugu,Residential,50.4,Active,Generator
+EN00736,Abuja,Residential,247.2,Active,Grid + Solar
+EN00737,Enugu,Residential,160.5,Active,Grid Electricity
+EN00738,Enugu,Commercial,1262.6,Active,Generator
+EN00739,Lagos,Industrial,1171.0,Active,Grid + Solar
+EN00740,Aba,Commercial,1543.6,Active,Grid Electricity
+EN00741,Lagos,Residential,371.9,Active,Grid + Solar
+EN00742,,Small Business,Unknown,Active,Solar
+EN00743,Kano,Residential,342.0,Active,Grid + Solar
+EN00744,Abuja,Residential,229.8,Inactive,Grid Electricity
+EN00745,Port Harcourt,Residential,273.3,Suspended,Solar
+EN00746,Lagos,Commercial,451.2,Active,Grid Electricity
+EN00747,Ibadan,Residential,649.8,Pending,Grid Electricity
+EN00748,Kaduna,Residential,428.9,Active,Grid Electricity
+EN00749,Enugu,Residential,103.6,Active,Grid Electricity
+EN00750,Port Harcourt,Residential,98.6,Suspended,Generator
+EN00751,Kano,Residential,137.0,Active,Generator
+EN00752,Ibadan,Residential,104.1,Active,Generator
+EN00753,Lagos,Residential,141.7,Active,Generator
+EN00754,Port Harcourt,Residential,146.1,Active,Generator
+EN00755,Lagos,Industrial,6848.9,Active,Grid Electricity
+EN00756,Kano,Commercial,801.7,Active,Solar
+EN00757,Lagos,Small Business,,Active,Generator
+EN00758,Benin City,Residential,256.8,Pending,Grid Electricity
+EN00759,Aba,Commercial,869.1,Active,Grid + Solar
+EN00760,Jos,Small Business,287.0,Active,Generator
+EN00761,Lagos,Residential,98.2,Active,Grid Electricity
+EN00762,Abuja,Public Institution,1948.7,Active,Generator
+EN00763,Lagos,Public Institution,1080.5,Active,Grid + Solar
+EN00764,Port Harcourt,Residential,173.7,Active,Grid Electricity
+EN00765,Lagos,Commercial,684.8,Active,Solar
+EN00766,Ibadan,Small Business,2103.6,Active,Grid + Generator
+EN00767,Lagos,Commercial,511.0,Active,Solar
+EN00768,Jos,Residential,269.5,Active,Grid Electricity
+EN00769,Port Harcourt,Commercial,3346.1,Inactive,Grid Electricity
+EN00770,Lagos,Residential,170.6,Active,Grid Electricity
+EN00771,Benin City,Small Business,1464.6,Active,Grid Electricity
+EN00772,Port Harcourt,Small Business,582.0,Active,Grid + Solar
+EN00773,Benin City,Residential,176.4,Active,Grid Electricity
+EN00774,Abuja,Residential,105.6,Active,Generator
+EN00775,Lagos,Commercial,,Active,Grid + Solar
+EN00776,Lagos,Industrial,9625.0,Active,Solar
+EN00777,Kaduna,Residential,401.5,Active,Grid Electricity
+EN00778,Kano,Residential,486.9,Active,Grid Electricity
+EN00779,Kaduna,Small Business,347.3,Suspended,Grid Electricity
+EN00780,Lagos,Residential,256.6,Active,Grid Electricity
+EN00781,Enugu,Residential,746.8,Active,Grid Electricity
+EN00782,Kaduna,Residential,564.0,Inactive,Grid + Solar
+EN00783,Abuja,Residential,129.7,Active,Grid + Solar
+EN00784,Kano,Public Institution,723.5,Active,Solar
+EN00785,Lagos,Residential,208.2,Active,Grid Electricity
+EN00786,Abuja,Residential,254.2,Active,Grid Electricity
+EN00787,Port Harcourt,Residential,390.4,Active,Grid Electricity
+EN00788,Kano,Residential,390.5,Active,Grid Electricity
+EN00789,Kaduna,Residential,342.8,Active,Grid Electricity
+EN00790,Kaduna,Residential,471.0,Active,Grid + Solar
+EN00791,Benin City,Residential,125.3,Pending,Grid + Solar
+EN00792,Abuja,Small Business,512.9,Active,Grid Electricity
+EN00793,Benin City,Residential,No Reading,Active,Grid Electricity
+EN00794,Kaduna,Residential,89.2,Active,Solar
+EN00795,Jos,Residential,90.3,Active,Grid + Generator
+EN00796,Enugu,Residential,462.3,Active,Grid Electricity
+EN00797,Port Harcourt,Industrial,19865.4,Active,Generator
+EN00798,Port Harcourt,Residential,N/A,Suspended,Grid Electricity
+EN00799,Kaduna,Residential,225.5,Active,Solar
+EN00800,Lagos,Small Business,596.3,Active,Grid Electricity
+EN00801,Kano,Small Business,880.7,Active,Grid + Solar
+EN00802,Abuja,Residential,464.2,Active,Solar
+EN00803,Kano,Residential,185.9,Active,Grid Electricity
+EN00804,Port Harcourt,Industrial,2457.3,Active,Grid + Solar
+EN00805,Enugu,Small Business,413.6,Active,Grid + Solar
+EN00806,Port Harcourt,Public Institution,738.5,Active,Grid + Solar
+EN00807,Ibadan,Commercial,337.4,Active,Grid + Generator
+EN00808,Abuja,Small Business,759.5,Active,Grid Electricity
+EN00809,Lagos,Residential,267.5,Suspended,Grid + Generator
+EN00810,Lagos,Residential,474.7,,Grid Electricity
+EN00811,Enugu,Commercial,2329.8,Active,Grid Electricity
+EN00812,Lagos,Industrial,3818.6,Active,Grid Electricity
+EN00813,Jos,Residential,761.8,Active,Grid Electricity
+EN00814,,Residential,294.5,Active,
+EN00815,Port Harcourt,Residential,118.9,Active,Generator
+EN00816,Port Harcourt,Small Business,317.4,Active,Grid Electricity
+EN00817,Port Harcourt,Residential,1616.9,Active,Grid Electricity
+EN00818,Abuja,Commercial,972.3,Active,Grid Electricity
+EN00819,Lagos,Residential,155.0,Active,Grid Electricity
+EN00820,Abuja,Residential,262.5,Active,Grid Electricity
+EN00821,Aba,Commercial,1817.6,Active,Grid Electricity
+EN00822,Lagos,Residential,241.8,Active,Grid + Generator
+EN00823,Lagos,,218.7,Active,Generator
+EN00824,Kano,Commercial,1995.1,Active,Grid + Solar
+EN00825,Port Harcourt,Industrial,7004.8,Inactive,Solar
+EN00826,Lagos,Residential,276.1,Active,Grid Electricity
+EN00827,Port Harcourt,Residential,172.5,Active,Grid + Solar
+EN00828,Lagos,Small Business,628.9,Suspended,Grid Electricity
+EN00829,Abuja,Residential,213.8,Active,Grid + Solar
+EN00830,Abuja,Public Institution,889.1,Active,Grid Electricity
+EN00831,Kano,Commercial,,Inactive,Grid Electricity
+EN00832,Port Harcourt,Residential,196.6,Active,Grid + Solar
+EN00833,Enugu,Commercial,966.7,Active,Grid + Solar
+EN00834,Lagos,Commercial,1538.6,Active,Generator
+EN00835,Benin City,Industrial,2890.5,Active,Grid Electricity
+EN00836,Ibadan,Commercial,969.3,Active,Grid Electricity
+EN00837,Benin City,Residential,206.4,Active,Grid Electricity
+EN00838,Kano,Small Business,2009.0,Active,Grid Electricity
+EN00839,Ibadan,Small Business,1172.3,Active,Grid Electricity
+EN00840,Lagos,Residential,212.8,Active,Solar
+EN00841,Jos,Residential,468.0,Active,Grid Electricity
+EN00842,Port Harcourt,Residential,255.3,Active,Grid Electricity
+EN00843,Port Harcourt,Commercial,1525.9,Active,Grid Electricity
+EN00844,Ibadan,Small Business,360.7,Active,Grid + Solar
+EN00845,Abuja,Small Business,964.2,Active,Grid + Solar
+EN00846,Lagos,Commercial,3832.1,Active,Generator
+EN00847,Lagos,Commercial,1135.3,Active,Grid Electricity
+EN00848,Kano,Commercial,1893.1,Active,Grid Electricity
+EN00849,Abuja,Small Business,710.2,Active,Grid Electricity
+EN00850,Kano,Residential,274.9,Active,Grid Electricity
+EN00851,Ibadan,Residential,578.4,Inactive,Grid Electricity
+EN00852,Abuja,Public Institution,409.2,Active,Grid Electricity
+EN00853,Jos,Residential,198.1,Suspended,Solar
+EN00854,Port Harcourt,Public Institution,936.5,Active,Grid Electricity
+EN00855,,Residential,199.6,Active,Grid Electricity
+EN00856,Lagos,Residential,340.5,Active,Grid Electricity
+EN00857,,Residential,187.8,Inactive,Grid + Solar
+EN00858,Benin City,Industrial,2423.5,Active,Grid Electricity
+EN00859,Port Harcourt,Small Business,756.7,Active,Grid Electricity
+EN00860,Port Harcourt,Small Business,499.5,Active,Grid Electricity
+EN00861,Port Harcourt,Industrial,2895.1,Active,Grid Electricity
+EN00862,Lagos,Residential,,Active,Grid + Solar
+EN00863,Abuja,Industrial,5618.4,Active,Solar
+EN00864,Jos,Commercial,1646.0,Active,Solar
+EN00865,Ibadan,Commercial,,Active,Grid + Solar
+EN00866,Aba,Residential,315.6,Active,Grid + Solar
+EN00867,Benin City,Small Business,626.5,Active,Grid Electricity
+EN00868,Kano,Residential,465.3,Active,Grid + Solar
+EN00869,Jos,Residential,##VALUE!,Active,Grid Electricity
+EN00870,Kano,Small Business,513.4,Active,Grid + Generator
+EN00871,Port Harcourt,Industrial,,Active,Grid + Solar
+EN00872,Enugu,Residential,139.4,,Grid Electricity
+EN00873,Lagos,Residential,307.7,Active,Grid + Solar
+EN00874,Abuja,Residential,125.4,Active,Grid Electricity
+EN00875,Ibadan,Small Business,829.7,Suspended,Grid Electricity
+EN00876,Port Harcourt,Residential,616.9,Pending,Grid Electricity
+EN00877,Aba,Small Business,446.2,Active,Generator
+EN00878,Kano,Residential,412.8,Active,Solar
+EN00879,Aba,Residential,230.8,,Grid Electricity
+EN00880,Lagos,Residential,,Active,Grid Electricity
+EN00881,,Small Business,,Active,Solar
+EN00882,Port Harcourt,Commercial,575.5,Active,Grid Electricity
+EN00883,Jos,Commercial,2630.6,Active,Grid + Generator
+EN00884,Lagos,Residential,783.6,Active,Grid Electricity
+EN00885,Kano,Residential,218.3,Active,Solar
+EN00886,Benin City,Small Business,662.6,Active,Grid + Solar
+EN00887,Port Harcourt,Residential,353.3,Inactive,Grid Electricity
+EN00888,Lagos,Small Business,,Active,Solar
+EN00889,Port Harcourt,Small Business,,Active,Generator
+EN00890,Enugu,Residential,454.4,Active,Grid Electricity
+EN00891,Kaduna,Public Institution,303.3,Pending,Grid Electricity
+EN00892,Port Harcourt,Commercial,1838.0,Pending,Grid + Solar
+EN00893,Lagos,Residential,254.1,Active,Grid Electricity
+EN00894,Enugu,Residential,115.0,Active,Grid + Solar
+EN00895,Kano,Residential,374.2,Active,Grid Electricity
+EN00896,Aba,Small Business,269.7,Active,Solar
+EN00897,Port Harcourt,Commercial,1940.9,Active,Grid Electricity
+EN00898,Lagos,Commercial,561.7,Inactive,Solar
+EN00899,Enugu,Commercial,1034.6,Active,Grid Electricity
+EN00900,Jos,Residential,248.1,Active,Grid Electricity
+EN00901,Abuja,Residential,385.4,Suspended,Grid Electricity
+EN00902,Lagos,Small Business,1880.5,Active,Solar
+EN00903,Abuja,Residential,296.7,Pending,Grid Electricity
+EN00904,Abuja,Residential,97.8,Active,Generator
+EN00905,Lagos,Small Business,1064.1,Active,Grid + Generator
+EN00906,Ibadan,Small Business,366.9,Active,Grid + Solar
+EN00907,Lagos,Small Business,214.6,Active,Grid Electricity
+EN00908,Lagos,Small Business,379.1,Active,Grid Electricity
+EN00909,Aba,Small Business,899.3,Active,Grid + Generator
+EN00910,Benin City,Residential,287.7,Active,Generator
+EN00911,Benin City,Small Business,242.3,Active,Grid + Solar
+EN00912,Lagos,Residential,512.0,Inactive,Grid + Solar
+EN00913,Lagos,Small Business,267.4,Active,Grid Electricity
+EN00914,Abuja,Small Business,191.6,Active,Grid + Solar
+EN00915,Port Harcourt,Residential,261.8,Active,Solar
+EN00916,Kaduna,Industrial,7476.4,Active,Grid Electricity
+EN00917,Ibadan,Residential,338.0,Active,Grid Electricity
+EN00918,Ibadan,Residential,,Suspended,Solar
+EN00919,Jos,Residential,491.8,Active,Solar
+EN00920,Lagos,Residential,656.9,Active,Generator
+EN00921,Ibadan,Residential,537.4,Active,Grid Electricity
+EN00922,Lagos,Commercial,1144.0,Suspended,Grid + Generator
+EN00923,Abuja,Industrial,3860.2,Active,Grid Electricity
+EN00924,Benin City,Small Business,601.9,Active,Generator
+EN00925,Benin City,Residential,218.8,Active,Grid Electricity
+EN00926,Abuja,Commercial,,Suspended,Grid Electricity
+EN00927,Kano,Small Business,Pending,Active,Grid Electricity
+EN00928,Ibadan,Residential,238.4,Active,Grid Electricity
+EN00929,Kano,Commercial,2068.1,Active,Solar
+EN00930,Port Harcourt,Residential,212.2,Active,Grid Electricity
+EN00931,Abuja,Residential,247.0,Active,Grid Electricity
+EN00932,Enugu,Residential,205.7,Suspended,Grid + Generator
+EN00933,Aba,Residential,515.0,Active,Grid Electricity
+EN00934,Port Harcourt,Residential,334.4,Active,Grid + Generator
+EN00935,Enugu,Residential,226.7,Active,Solar
+EN00936,Jos,Residential,209.0,Active,Grid Electricity
+EN00937,Ibadan,Residential,198.6,Active,Solar
+EN00938,Abuja,Residential,412.9,Inactive,Grid Electricity
+EN00939,Abuja,Commercial,1154.6,Suspended,Grid Electricity
+EN00940,Kaduna,Residential,229.3,Pending,Solar
+EN00941,Abuja,Small Business,802.9,Active,Grid + Generator
+EN00942,Lagos,Residential,Error,Active,Grid Electricity
+EN00943,Abuja,Industrial,2071.8,Active,Grid + Generator
+EN00944,Lagos,Commercial,597.6,Active,Grid + Generator
+EN00945,Jos,Residential,163.6,Active,Grid Electricity
+EN00946,Kaduna,Residential,182.8,Active,Grid Electricity
+EN00947,Kano,Residential,529.5,Active,Grid + Solar
+EN00948,Port Harcourt,Small Business,896.2,Active,Grid Electricity
+EN00949,Kaduna,Residential,551.9,Active,Grid Electricity
+EN00950,Kano,Industrial,3247.8,Inactive,Grid Electricity
+EN00951,Jos,Small Business,735.8,Active,Grid + Solar
+EN00952,Kaduna,Commercial,1483.3,Inactive,Grid Electricity
+EN00953,Lagos,Residential,203.4,Active,Grid Electricity
+EN00954,Port Harcourt,Commercial,1476.9,Active,Grid Electricity
+EN00955,Enugu,Residential,233.9,Active,Grid + Solar
+EN00956,Kano,,380.6,Active,Grid Electricity
+EN00957,Lagos,Residential,169.7,Active,Generator
+EN00958,Benin City,Residential,,Active,Grid Electricity
+EN00959,Lagos,Residential,459.5,Active,Grid + Solar
+EN00960,Lagos,Small Business,503.7,Active,Grid + Generator
+EN00961,Port Harcourt,Residential,337.9,Active,Grid Electricity
+EN00962,Lagos,Commercial,1495.3,Active,Grid Electricity
+EN00963,Lagos,Small Business,902.3,Suspended,Solar
+EN00964,Kaduna,Small Business,728.1,Active,Grid Electricity
+EN00965,Abuja,Residential,143.3,Active,Grid Electricity
+EN00966,Ibadan,Small Business,380.6,Active,Solar
+EN00967,Port Harcourt,Small Business,280.8,Active,Grid Electricity
+EN00968,Benin City,Residential,283.2,Inactive,Solar
+EN00969,Jos,Residential,192.6,Active,Generator
+EN00970,Kano,Residential,215.5,Active,Grid Electricity
+EN00971,Abuja,Residential,456.5,Active,Solar
+EN00972,Abuja,Small Business,643.3,Active,Generator
+EN00973,Lagos,Small Business,789.0,Inactive,Grid Electricity
+EN00974,Ibadan,Residential,105.9,Active,Grid Electricity
+EN00975,Enugu,Commercial,1495.4,Active,Grid Electricity
+EN00976,Abuja,Industrial,"5,2O0",Active,Grid Electricity
+EN00977,Lagos,Small Business,,Active,Grid Electricity
+EN00978,Abuja,Small Business,680.0,Active,Grid Electricity
+EN00979,Jos,Small Business,226.7,Inactive,Grid Electricity
+EN00980,Kano,Public Institution,802.8,Active,Grid Electricity
+EN00981,Abuja,Small Business,496.7,Active,Grid + Solar
+EN00982,Lagos,Residential,89.8,Active,Generator
+EN00983,Port Harcourt,Small Business,451.7,Active,Grid Electricity
+EN00984,Abuja,Residential,290.5,Active,Grid Electricity
+EN00985,Port Harcourt,Commercial,1979.3,Active,Grid + Solar
+EN00986,Aba,Residential,946.6,Active,Grid Electricity
+EN00987,Port Harcourt,Residential,134.8,Active,Grid Electricity
+EN00988,Kano,Small Business,1239.1,Active,Grid + Solar
+EN00989,Lagos,Residential,144.2,Active,Grid Electricity
+EN00990,Lagos,Residential,188.2,Active,Grid + Solar
+EN00991,Jos,Industrial,2986.6,Active,Generator
+EN00992,Jos,Commercial,1480.5,Active,Grid + Solar
+EN00993,Ibadan,Small Business,715.3,Active,Grid Electricity
+EN00994,Lagos,Commercial,1218.4,Pending,Grid Electricity
+EN00995,Kano,Residential,306.5,Active,Grid Electricity
+EN00996,Aba,Industrial,5887.8,Active,Grid Electricity
+EN00997,Abuja,Small Business,480.5,Inactive,Grid Electricity
+EN00998,Port Harcourt,Residential,489.6,Active,Grid Electricity
+EN00999,Kaduna,Residential,277.5,Inactive,Grid Electricity
+EN01000,Ibadan,Residential,Error,Active,Solar
+EN01001,Lagos,Residential,279.3,Active,Grid Electricity
+EN01002,Abuja,Residential,116.2,Active,Grid + Solar
+EN01003,Port Harcourt,Small Business,590.4,Active,Grid + Generator
+EN01004,Abuja,Small Business,485.4,Active,Grid Electricity
+EN01005,Benin City,Residential,,Active,Grid Electricity
+EN01006,Port Harcourt,Residential,221.8,Inactive,Grid Electricity
+EN01007,Lagos,Residential,294.6,Active,Generator
+EN01008,Lagos,Residential,209.9,Suspended,Grid Electricity
+EN01009,Enugu,Residential,244.0,Active,Grid Electricity
+EN01010,Kano,Commercial,1532.5,Active,Grid Electricity
+EN01011,Port Harcourt,Residential,440.9,Inactive,Solar
+EN01012,Port Harcourt,Commercial,424.0,Active,Generator
+EN01013,Jos,Industrial,2017.6,Active,Grid + Generator
+EN01014,Aba,Residential,295.0,Active,Grid Electricity
+EN01015,Kaduna,Residential,118.7,Active,Grid + Solar
+EN01016,Benin City,Commercial,Error,Active,Solar
+EN01017,Lagos,Small Business,578.6,Active,Grid + Generator
+EN01018,Kano,Commercial,1202.2,Active,Grid + Generator
+EN01019,Lagos,Residential,425.1,Active,Generator
+EN01020,Enugu,Small Business,781.5,Pending,Grid Electricity
+EN01021,Port Harcourt,Residential,137.7,Active,Grid + Solar
+EN01022,Lagos,Small Business,417.3,Active,Grid + Solar
+EN01023,Enugu,Residential,298.5,Active,Grid + Generator
+EN01024,Aba,Public Institution,903.0,Active,Grid + Solar
+EN01025,Ibadan,Residential,192.3,Active,Grid Electricity
+EN01026,Jos,Small Business,706.4,Active,Grid Electricity
+EN01027,Port Harcourt,Residential,227.2,Active,Grid Electricity
+EN01028,Ibadan,Residential,135.3,Active,Grid Electricity
+EN01029,Abuja,Residential,309.5,Active,Grid + Solar
+EN01030,Aba,Residential,477.1,Active,Generator
+EN01031,Aba,Residential,630.1,Active,Grid Electricity
+EN01032,Lagos,Small Business,,Inactive,Grid + Solar
+EN01033,Kano,Small Business,1118.0,Active,Grid Electricity
+EN01034,Port Harcourt,Residential,372.3,Active,Grid Electricity
+EN01035,Abuja,Residential,435.3,Active,Grid Electricity
+EN01036,,Public Institution,459.1,Active,Grid Electricity
+EN01037,Benin City,Small Business,742.2,Active,Grid Electricity
+EN01038,Lagos,Residential,143.6,Active,Grid + Solar
+EN01039,Abuja,Commercial,1018.8,Active,Grid Electricity
+EN01040,Enugu,Residential,338.0,Active,Grid Electricity
+EN01041,Enugu,Residential,,Suspended,Grid + Solar
+EN01042,Aba,Residential,262.6,Active,Grid + Solar
+EN01043,Port Harcourt,Residential,1072.4,Active,Grid Electricity
+EN01044,Port Harcourt,Residential,102.5,Active,Solar
+EN01045,Lagos,Residential,310.9,Active,Grid + Generator
+EN01046,Port Harcourt,Commercial,2900.8,Active,Grid + Solar
+EN01047,Enugu,Small Business,1954.3,Inactive,Grid Electricity
+EN01048,Lagos,Residential,219.7,Active,Solar
+EN01049,Kano,Residential,200.9,Inactive,Solar
+EN01050,Aba,Residential,134.0,Active,Solar
+EN01051,Abuja,Small Business,2284.9,Active,Generator
+EN01052,Port Harcourt,,211.5,Active,Solar
+EN01053,Aba,Commercial,1646.9,Active,Grid Electricity
+EN01054,Enugu,Residential,305.0,Active,Grid Electricity
+EN01055,Kano,Residential,208.9,Active,Grid Electricity
+EN01056,Enugu,Residential,329.9,Pending,Grid Electricity
+EN01057,Abuja,Industrial,754.0,Active,Generator
+EN01058,Abuja,Residential,428.6,Active,Grid Electricity
+EN01059,Lagos,Residential,121.3,Inactive,Grid Electricity
+EN01060,Abuja,Small Business,1061.1,Inactive,Grid Electricity
+EN01061,Lagos,Public Institution,494.6,Active,Grid Electricity
+EN01062,Lagos,Public Institution,605.7,Active,Grid Electricity
+EN01063,Enugu,Residential,496.3,Active,Grid + Generator
+EN01064,Lagos,Residential,172.0,Active,Generator
+EN01065,Abuja,Residential,89.5,Active,Generator
+EN01066,Enugu,Commercial,2103.3,Active,Generator
+EN01067,Ibadan,Residential,12O,Active,Grid Electricity
+EN01068,Jos,Public Institution,1323.9,Active,Grid + Solar
+EN01069,Kaduna,Commercial,2521.4,Active,Solar
+EN01070,Benin City,Small Business,416.5,Inactive,Solar
+EN01071,Benin City,Public Institution,693.0,Active,Grid + Solar
+EN01072,Benin City,Public Institution,914.7,Active,Solar
+EN01073,Lagos,Residential,399.7,Active,Grid Electricity
+EN01074,Lagos,Residential,678.2,Inactive,Grid Electricity
+EN01075,Lagos,Residential,1219.9,Suspended,Grid Electricity
+EN01076,Ibadan,Commercial,1899.8,Active,Grid Electricity
+EN01077,Lagos,Commercial,579.2,Active,Grid + Solar
+EN01078,Enugu,Residential,127.9,Active,Grid + Solar
+EN01079,Kaduna,Commercial,1379.1,Inactive,Generator
+EN01080,Lagos,Residential,58.6,Active,Grid Electricity
+EN01081,Ibadan,Industrial,2708.5,Active,Grid Electricity
+EN01082,Lagos,Residential,135.4,Active,Grid + Solar
+EN01083,Port Harcourt,Residential,262.6,Active,Grid + Solar
+EN01084,Port Harcourt,Residential,125.8,Active,Generator
+EN01085,Ibadan,Residential,366.2,Active,Solar
+EN01086,Port Harcourt,Residential,,Active,Grid + Solar
+EN01087,Abuja,Residential,253.3,Inactive,Solar
+EN01088,Aba,Small Business,717.2,Active,Grid Electricity
+EN01089,Port Harcourt,Commercial,2590.0,Pending,Grid Electricity
+EN01090,Enugu,Small Business,813.8,Inactive,Grid Electricity
+EN01091,Kaduna,Residential,523.1,Inactive,Solar
+EN01092,Kano,Public Institution,826.1,Active,Grid Electricity
+EN01093,,Industrial,4699.4,Active,Grid Electricity
+EN01094,Lagos,Residential,109.4,Active,Solar
+EN01095,Kano,Residential,,Active,Grid Electricity
+EN01096,Lagos,Commercial,3918.4,Active,Grid + Generator
+EN01097,Enugu,Small Business,1766.6,Active,Grid Electricity
+EN01098,Abuja,Residential,304.2,Active,Grid Electricity
+EN01099,Ibadan,Residential,590.5,Active,Grid + Solar
+EN01100,Ibadan,Commercial,1982.1,Active,Grid Electricity
+EN01101,Lagos,Residential,106.2,Active,Grid Electricity
+EN01102,Ibadan,Industrial,8257.5,Active,Grid Electricity
+EN01103,Lagos,Residential,162.1,Active,Grid Electricity
+EN01104,Abuja,Commercial,3379.3,Active,Grid + Solar
+EN01105,Kano,Commercial,2098.7,Active,Grid Electricity
+EN01106,Lagos,Residential,462.1,Active,Grid + Solar
+EN01107,Abuja,Residential,375.0,Active,Grid + Solar
+EN01108,Port Harcourt,Residential,121.4,Active,Solar
+EN01109,Benin City,Residential,389.0,Active,Grid + Solar
+EN01110,Kaduna,Residential,240.2,Pending,Grid + Generator
+EN01111,Lagos,Residential,243.4,Active,Solar
+EN01112,Enugu,Residential,208.7,Active,Grid + Solar
+EN01113,Abuja,Residential,97.7,Active,Solar
+EN01114,Jos,Commercial,1098.6,Active,Solar
+EN01115,Lagos,Small Business,711.2,Active,Generator
+EN01116,Benin City,Small Business,,Active,Grid Electricity
+EN01117,Kano,Small Business,420.1,Active,Grid Electricity
+EN01118,Abuja,Small Business,840.5,Active,Grid Electricity
+EN01119,Ibadan,Small Business,399.3,Pending,Generator
+EN01120,Port Harcourt,Residential,486.5,Suspended,Grid Electricity
+EN01121,Abuja,Small Business,N/A,Active,Grid Electricity
+EN01122,Ibadan,Commercial,2602.3,Active,Grid + Solar
+EN01123,Port Harcourt,Small Business,1199.6,Active,Grid Electricity
+EN01124,Enugu,Residential,615.6,Active,Grid Electricity
+EN01125,Benin City,Industrial,,Active,Grid Electricity
+EN01126,Enugu,Small Business,318.6,Active,Grid Electricity
+EN01127,Lagos,Residential,Pending,Active,Grid + Generator
+EN01128,Ibadan,Commercial,561.8,Pending,Generator
+EN01129,Lagos,Residential,Error,Active,Grid Electricity
+EN01130,Kano,Residential,392.1,Active,Grid + Solar
+EN01131,Kano,Commercial,Pending,Suspended,Grid Electricity
+EN01132,Lagos,Residential,580.2,Active,Grid Electricity
+EN01133,Abuja,Commercial,3795.6,Active,Grid + Solar
+EN01134,Benin City,Residential,130.9,Active,Grid + Solar
+EN01135,Jos,Residential,299.2,Active,Grid Electricity
+EN01136,Port Harcourt,Commercial,1177.4,Active,Grid + Generator
+EN01137,Enugu,Industrial,10768.7,Active,Grid Electricity
+EN01138,Abuja,Small Business,658.1,Active,Grid Electricity
+EN01139,Ibadan,Industrial,13322.0,Active,Grid Electricity
+EN01140,Lagos,Residential,224.7,Active,Grid Electricity
+EN01141,Lagos,Residential,371.1,Active,Solar
+EN01142,Aba,Residential,280.0,Active,Grid Electricity
+EN01143,Lagos,Public Institution,466.8,Active,Grid Electricity
+EN01144,Aba,Commercial,554.5,Active,Grid Electricity
+EN01145,Abuja,Small Business,560.6,Active,Generator
+EN01146,Port Harcourt,Commercial,No Reading,Active,Grid Electricity
+EN01147,Kano,Commercial,3454.6,Active,Grid Electricity
+EN01148,Ibadan,Commercial,3669.0,Active,Grid Electricity
+EN01149,Enugu,Residential,314.1,Active,Grid Electricity
+EN01150,Lagos,Residential,260.3,Active,Solar
+EN01151,Ibadan,Commercial,2348.3,Active,Grid + Solar
+EN01152,Port Harcourt,Residential,91.3,Suspended,Solar
+EN01153,Jos,Industrial,1234.9,Active,Grid Electricity
+EN01154,Benin City,Public Institution,1193.0,Active,Grid Electricity
+EN01155,Enugu,Residential,188.4,Active,Grid Electricity
+EN01156,Aba,Commercial,1801.0,Inactive,Grid Electricity
+EN01157,Abuja,Industrial,5634.6,Active,Grid Electricity
+EN01158,Enugu,Small Business,689.1,Suspended,Grid Electricity
+EN01159,Benin City,Commercial,1366.4,Active,Grid Electricity
+EN01160,Ibadan,Residential,441.5,Active,Grid Electricity
+EN01161,Abuja,Residential,1061.2,Active,Solar
+EN01162,Ibadan,Residential,143.7,Active,Grid Electricity
+EN01163,Kano,Residential,281.3,Active,Grid Electricity
+EN01164,Lagos,Small Business,976.6,Inactive,Grid Electricity
+EN01165,Ibadan,Residential,1020.4,Active,Grid + Solar
+EN01166,Kano,Small Business,528.4,Active,Grid + Solar
+EN01167,Abuja,Small Business,889.6,Active,Grid + Solar
+EN01168,Abuja,Public Institution,923.4,Active,Generator
+EN01169,Benin City,Small Business,510.6,Active,Grid Electricity
+EN01170,Port Harcourt,Small Business,291.5,Active,Grid Electricity
+EN01171,Abuja,Commercial,1170.4,Active,Grid Electricity
+EN01172,Kaduna,Commercial,1777.3,Active,Grid + Generator
+EN01173,Aba,Small Business,1014.7,Active,Grid + Solar
+EN01174,Aba,Residential,203.4,Active,Grid Electricity
+EN01175,Abuja,Small Business,319.5,Active,Grid + Solar
+EN01176,Abuja,Commercial,839.5,Pending,Grid Electricity
+EN01177,Port Harcourt,Small Business,1400.3,Suspended,Solar
+EN01178,Port Harcourt,Residential,585.5,Inactive,Grid Electricity
+EN01179,Ibadan,Residential,335.4,Active,Grid Electricity
+EN01180,Ibadan,Commercial,413.3,Active,Grid Electricity
+EN01181,Benin City,Residential,230.2,Active,Grid Electricity
+EN01182,Lagos,Residential,N/A,Active,Grid Electricity
+EN01183,Kano,Residential,407.1,Active,Generator
+EN01184,Kano,Residential,364.9,Inactive,Grid + Generator
+EN01185,Lagos,Residential,157.3,Active,Grid Electricity
+EN01186,Kaduna,Residential,12O,Active,Grid + Generator
+EN01187,Benin City,Small Business,244.7,Active,Generator
+EN01188,Jos,Residential,385.4,Active,Grid Electricity
+EN01189,Abuja,Commercial,1481.7,Active,Generator
+EN01190,Port Harcourt,Commercial,1322.0,Pending,Grid Electricity
+EN01191,Abuja,Commercial,986.7,Active,Grid Electricity
+EN01192,Enugu,Residential,157.3,Active,Grid + Generator
+EN01193,Kano,Residential,137.9,Active,Grid Electricity
+EN01194,Lagos,Commercial,1861.3,Active,Generator
+EN01195,Lagos,Small Business,676.3,Suspended,Solar
+EN01196,Abuja,Residential,269.8,Active,Solar
+EN01197,Aba,Small Business,430.5,Active,Grid Electricity
+EN01198,Enugu,Residential,275.9,Active,Grid Electricity
+EN01199,Ibadan,Residential,199.5,Inactive,Grid + Solar
+EN01200,Lagos,Residential,462.2,Active,Grid Electricity
+EN01201,Kaduna,Public Institution,264.6,Active,Grid Electricity
+EN01202,Lagos,Small Business,749.6,Active,Grid Electricity
+EN01203,Kaduna,Residential,248.0,Active,Grid Electricity
+EN01204,Abuja,Small Business,424.2,Active,Grid Electricity
+EN01205,Ibadan,Residential,12O,Inactive,Grid + Solar
+EN01206,Lagos,Commercial,852.7,Active,Solar
+EN01207,Enugu,Residential,,Active,Solar
+EN01208,Lagos,Industrial,2865.5,Active,Grid Electricity
+EN01209,Ibadan,Small Business,Error,Active,Grid + Solar
+EN01210,Jos,Residential,116.2,Active,Generator
+EN01211,Lagos,Small Business,1182.2,Active,Grid Electricity
+EN01212,Lagos,Residential,73.9,Inactive,Grid Electricity
+EN01213,Kano,Residential,171.3,Active,Grid Electricity
+EN01214,Lagos,Residential,413.7,Active,Grid + Solar
+EN01215,Lagos,Industrial,2106.3,Active,Grid Electricity
+EN01216,Lagos,Residential,489.5,Active,Grid Electricity
+EN01217,Abuja,Public Institution,948.2,Active,Solar
+EN01218,Aba,Small Business,597.9,Pending,Grid Electricity
+EN01219,Port Harcourt,Residential,715.8,Pending,Grid Electricity
+EN01220,Kaduna,Industrial,23415.6,Suspended,Grid Electricity
+EN01221,,Public Institution,1376.8,Inactive,Generator
+EN01222,Abuja,Residential,118.5,Pending,Grid Electricity
+EN01223,Kaduna,Residential,188.5,Active,Solar
+EN01224,Port Harcourt,Residential,345.6,Active,Grid Electricity
+EN01225,Enugu,Residential,219.0,Active,Grid + Solar
+EN01226,Abuja,Residential,344.7,Active,Grid + Solar
+EN01227,Lagos,Residential,176.7,Active,
+EN01228,Kaduna,Public Institution,1979.1,Active,Generator
+EN01229,Abuja,Small Business,490.9,Inactive,Grid Electricity
+EN01230,Lagos,Residential,441.0,Inactive,Generator
+EN01231,Port Harcourt,Residential,167.2,Active,Grid Electricity
+EN01232,Jos,Small Business,,Active,Generator
+EN01233,Lagos,Residential,135.6,Active,Grid + Solar
+EN01234,Abuja,Residential,234.5,Active,Grid Electricity
+EN01235,Kano,Residential,407.4,Active,Grid Electricity
+EN01236,Lagos,Residential,124.9,Active,Grid Electricity
+EN01237,Ibadan,Residential,156.1,Active,Grid + Solar
+EN01238,Kano,Residential,799.2,Active,Grid Electricity
+EN01239,Benin City,Residential,575.5,Active,Grid Electricity
+EN01240,Kano,Small Business,293.6,Active,Grid Electricity
+EN01241,Kano,Residential,250.2,Active,Solar
+EN01242,Abuja,Residential,1183.0,Active,Grid + Solar
+EN01243,Aba,Residential,82.2,Active,Grid Electricity
+EN01244,Lagos,Residential,217.2,Active,Generator
+EN01245,Kaduna,Residential,367.9,Inactive,Grid Electricity
+EN01246,Kaduna,Residential,419.9,Active,Grid + Solar
+EN01247,Kano,Small Business,602.8,Active,Grid Electricity
+EN01248,Jos,Commercial,1057.2,Active,Grid Electricity
+EN01249,Lagos,Commercial,655.4,Active,Solar
+EN01250,Enugu,Residential,41.3,Active,Grid Electricity
+EN01251,Port Harcourt,Small Business,534.8,Active,Grid Electricity
+EN01252,Enugu,Residential,167.1,Active,Grid Electricity
+EN01253,Ibadan,Residential,581.8,Active,Grid Electricity
+EN01254,Lagos,Residential,369.5,Active,Grid Electricity
+EN01255,Lagos,Residential,N/A,Suspended,Grid Electricity
+EN01256,Kano,Residential,,Active,Grid + Solar
+EN01257,Benin City,Commercial,4774.1,Inactive,Grid Electricity
+EN01258,Kano,Residential,587.0,Active,Grid Electricity
+EN01259,Abuja,Residential,119.8,Active,Grid Electricity
+EN01260,Port Harcourt,Residential,,Active,Solar
+EN01261,Lagos,Small Business,1509.1,Active,Grid Electricity
+EN01262,Jos,Small Business,514.7,Active,Grid + Solar
+EN01263,Kano,Commercial,1287.3,Active,Grid + Solar
+EN01264,Abuja,Small Business,973.7,Active,Grid Electricity
+EN01265,Ibadan,Residential,111.9,Active,Grid Electricity
+EN01266,Ibadan,Small Business,528.0,Active,Grid Electricity
+EN01267,Lagos,Industrial,5529.3,Active,Generator
+EN01268,Lagos,Residential,159.4,Active,Grid Electricity
+EN01269,Ibadan,Residential,449.7,Active,Grid + Solar
+EN01270,Lagos,Residential,154.0,Active,Grid + Solar
+EN01271,Lagos,Residential,492.7,Inactive,Grid + Solar
+EN01272,Kaduna,Commercial,438.6,Inactive,Grid + Generator
+EN01273,Kano,Commercial,3764.6,Active,Grid Electricity
+EN01274,Lagos,Small Business,560.5,Active,
+EN01275,Benin City,Residential,332.7,Active,Generator
+EN01276,Enugu,Residential,179.9,Active,Grid Electricity
+EN01277,Lagos,Industrial,3270.1,Active,Grid Electricity
+EN01278,Lagos,Small Business,516.8,Active,Generator
+EN01279,Ibadan,Residential,696.9,Active,Solar
+EN01280,Kano,Residential,483.9,Active,Grid Electricity
+EN01281,Ibadan,Residential,242.1,Active,Generator
+EN01282,Lagos,Residential,85.9,Active,Generator
+EN01283,Jos,Small Business,629.0,Active,Generator
+EN01284,Abuja,Commercial,385.8,Active,Grid + Generator
+EN01285,Abuja,Commercial,1500.5,Active,Solar
+EN01286,Port Harcourt,Small Business,403.0,Active,Grid Electricity
+EN01287,Abuja,,147.7,Active,Grid + Generator
+EN01288,Ibadan,Residential,172.6,Active,Grid + Solar
+EN01289,Enugu,Residential,232.6,Active,Grid Electricity
+EN01290,Port Harcourt,Industrial,1795.2,Active,Grid Electricity
+EN01291,Benin City,Industrial,4821.8,Active,Grid Electricity
+EN01292,Ibadan,Residential,358.5,Active,Grid Electricity
+EN01293,,Residential,401.4,Active,Grid + Solar
+EN01294,Port Harcourt,Small Business,1573.9,Active,Grid Electricity
+EN01295,Kano,Commercial,2232.5,Active,Solar
+EN01296,Port Harcourt,Small Business,228.1,Active,Grid Electricity
+EN01297,Port Harcourt,Residential,-45,Active,Grid Electricity
+EN01298,Lagos,Industrial,3941.1,Active,Generator
+EN01299,Abuja,Small Business,467.5,Active,Grid Electricity
+EN01300,Abuja,Residential,312.9,Active,Grid Electricity
+EN01301,Lagos,Residential,154.2,Active,Grid + Solar
+EN01302,Enugu,Residential,328.2,Active,Grid Electricity
+EN01303,Abuja,Small Business,429.3,Inactive,Solar
+EN01304,Enugu,Small Business,645.3,Active,Grid Electricity
+EN01305,Abuja,Small Business,850.9,Active,Grid + Solar
+EN01306,Abuja,Residential,131.5,Inactive,Grid Electricity
+EN01307,Kano,Residential,384.2,Active,Generator
+EN01308,Lagos,Residential,389.9,Active,Grid Electricity
+EN01309,Ibadan,Commercial,2491.3,Pending,Solar
+EN01310,Lagos,Residential,231.4,Active,Grid + Solar
+EN01311,Lagos,Small Business,662.6,Active,Grid + Generator
+EN01312,Ibadan,Commercial,,Active,Grid Electricity
+EN01313,Jos,Commercial,962.3,Active,Grid + Generator
+EN01314,Benin City,Commercial,1548.3,Active,Grid Electricity
+EN01315,Lagos,Commercial,894.4,Suspended,Grid + Solar
+EN01316,Ibadan,Residential,,Active,Solar
+EN01317,Benin City,Public Institution,628.8,Active,Grid Electricity
+EN01318,Lagos,Industrial,Pending,Active,Grid Electricity
+EN01319,Kano,Residential,443.9,Active,Grid + Generator
+EN01320,Kano,Residential,107.6,Active,Solar
+EN01321,Abuja,Public Institution,1074.8,Active,Grid Electricity
+EN01322,Lagos,Residential,211.3,Active,Solar
+EN01323,Benin City,Residential,,Active,Grid Electricity
+EN01324,Lagos,Commercial,1206.9,Active,Grid + Solar
+EN01325,Kano,Public Institution,738.6,Inactive,Grid Electricity
+EN01326,Lagos,Residential,252.5,Active,Grid Electricity
+EN01327,Lagos,Residential,219.5,Active,Solar
+EN01328,Jos,Small Business,1240.7,Active,Grid + Solar
+EN01329,Abuja,Industrial,4824.3,Active,Grid Electricity
+EN01330,Lagos,Residential,134.3,Active,Grid Electricity
+EN01331,Benin City,Residential,197.9,Inactive,Grid + Solar
+EN01332,Ibadan,Commercial,836.5,Active,Grid Electricity
+EN01333,Kaduna,Small Business,,Active,Grid + Solar
+EN01334,Port Harcourt,Residential,522.1,Active,Grid Electricity
+EN01335,Abuja,Commercial,5044.0,Active,Grid Electricity
+EN01336,Port Harcourt,Small Business,726.8,Active,Grid + Generator
+EN01337,Port Harcourt,Industrial,4525.3,Active,Grid + Solar
+EN01338,Ibadan,Residential,110.9,Active,Solar
+EN01339,Abuja,Residential,337.7,Active,Solar
+EN01340,Aba,Residential,356.6,Active,Grid Electricity
+EN01341,Enugu,Residential,138.7,Active,Grid Electricity
+EN01342,Ibadan,Residential,154.7,Active,Grid + Solar
+EN01343,Kano,Small Business,494.2,Active,Solar
+EN01344,Port Harcourt,Residential,146.2,Active,Grid Electricity
+EN01345,Lagos,Small Business,456.8,Active,Grid Electricity
+EN01346,Abuja,Small Business,323.2,Active,Grid Electricity
+EN01347,Port Harcourt,Residential,114.9,Active,Grid Electricity
+EN01348,Kaduna,Residential,193.3,Active,Solar
+EN01349,Enugu,Residential,120.3,Active,Solar
+EN01350,Lagos,Residential,204.7,Active,Solar
+EN01351,Lagos,Small Business,629.4,Active,Solar
+EN01352,Kaduna,Small Business,682.5,Active,Grid Electricity
+EN01353,Port Harcourt,Industrial,3595.0,Inactive,Grid Electricity
+EN01354,Benin City,Commercial,4821.5,Active,Grid Electricity
+EN01355,Ibadan,Residential,198.2,Active,Grid + Solar
+EN01356,Benin City,Small Business,1021.6,Active,Grid Electricity
+EN01357,Lagos,Small Business,337.1,Active,Grid + Solar
+EN01358,Aba,Industrial,4793.4,Active,Grid Electricity
+EN01359,Benin City,Small Business,352.5,Active,Grid + Solar
+EN01360,Lagos,Small Business,531.9,Active,Grid Electricity
+EN01361,Port Harcourt,Residential,173.1,Active,Grid Electricity
+EN01362,Port Harcourt,Residential,463.3,Active,Generator
+EN01363,Ibadan,Small Business,1857.8,Active,Grid Electricity
+EN01364,Lagos,Residential,301.6,Active,
+EN01365,Kaduna,Public Institution,1098.5,Active,Generator
+EN01366,Port Harcourt,Commercial,1347.7,Active,Grid + Solar
+EN01367,Kano,Residential,1020.0,Active,Solar
+EN01368,Jos,Residential,240.4,Active,Grid + Generator
+EN01369,Lagos,Residential,183.5,Active,Generator
+EN01370,Kano,Residential,206.0,Inactive,Grid + Generator
+EN01371,Lagos,Commercial,1598.3,Active,Grid Electricity
+EN01372,Kaduna,Residential,,Suspended,Grid Electricity
+EN01373,Ibadan,Residential,567.1,Active,Grid Electricity
+EN01374,Kaduna,Residential,204.0,Active,Grid + Solar
+EN01375,Jos,Small Business,897.3,Active,Grid Electricity
+EN01376,Port Harcourt,Commercial,483.9,Inactive,Grid Electricity
+EN01377,Kaduna,Residential,194.6,Active,Grid Electricity
+EN01378,Port Harcourt,Commercial,1089.2,Active,Grid Electricity
+EN01379,Lagos,Small Business,720.8,Pending,Grid Electricity
+EN01380,Abuja,Small Business,594.9,Active,Grid + Solar
+EN01381,Lagos,Residential,329.3,Suspended,Grid Electricity
+EN01382,Abuja,Residential,215.9,Active,Grid + Solar
+EN01383,Port Harcourt,Commercial,1475.2,Active,Grid + Generator
+EN01384,Ibadan,Small Business,576.0,Active,Grid Electricity
+EN01385,Abuja,Commercial,1339.3,Pending,Grid + Solar
+EN01386,Aba,Commercial,1350.2,Pending,Grid + Generator
+EN01387,Lagos,Residential,124.2,Active,Grid + Generator
+EN01388,Enugu,Residential,259.1,Active,Grid + Solar
+EN01389,Port Harcourt,Small Business,Unknown,Pending,Solar
+EN01390,Lagos,Industrial,8935.6,Active,Grid + Solar
+EN01391,Benin City,Industrial,5210.9,Active,Grid Electricity
+EN01392,Aba,Residential,163.8,Inactive,Grid Electricity
+EN01393,Abuja,Commercial,1511.9,Active,Grid Electricity
+EN01394,Port Harcourt,Residential,93.2,Active,Solar
+EN01395,Kaduna,Commercial,2530.4,Active,Generator
+EN01396,Lagos,Residential,228.5,Active,Grid Electricity
+EN01397,Port Harcourt,Residential,278.1,Active,Grid + Generator
+EN01398,Lagos,Small Business,337.6,Active,Grid Electricity
+EN01399,Enugu,Commercial,6070.1,Suspended,Grid Electricity
+EN01400,Enugu,Residential,129.8,Active,Grid Electricity
+EN01401,Lagos,Public Institution,538.6,Active,Grid + Solar
+EN01402,Abuja,Industrial,4919.3,Active,Solar
+EN01403,Lagos,Small Business,616.2,Active,Grid Electricity
+EN01404,Ibadan,Industrial,,Active,Grid + Solar
+EN01405,Kaduna,Residential,141.9,Active,Generator
+EN01406,Abuja,Residential,,Pending,Grid Electricity
+EN01407,Kano,Residential,85.4,Inactive,Grid + Solar
+EN01408,,Small Business,194.7,Active,Grid + Solar
+EN01409,Benin City,Small Business,442.9,Inactive,Grid + Generator
+EN01410,Ibadan,Residential,330.5,Suspended,Grid + Generator
+EN01411,Jos,Residential,312.4,Active,Grid Electricity
+EN01412,Aba,Residential,207.9,Active,Grid Electricity
+EN01413,Lagos,Residential,643.3,Active,Grid + Solar
+EN01414,Kaduna,Residential,227.5,Active,Grid Electricity
+EN01415,Ibadan,Residential,12O,Active,Solar
+EN01416,Lagos,Residential,368.9,Active,Grid + Solar
+EN01417,Abuja,Commercial,2090.4,Active,Grid + Generator
+EN01418,Enugu,Residential,,Active,Grid Electricity
+EN01419,Lagos,Commercial,1622.1,Active,Grid Electricity
+EN01420,Kano,Residential,329.7,,Grid Electricity
+EN01421,Enugu,Commercial,5398.1,Active,Grid Electricity
+EN01422,Lagos,Residential,496.6,Active,Grid Electricity
+EN01423,Port Harcourt,Public Institution,1056.1,Active,Grid Electricity
+EN01424,Enugu,Small Business,1395.3,Active,Solar
+EN01425,Lagos,Small Business,675.5,Inactive,Grid Electricity
+EN01426,Abuja,Residential,109.7,Active,Grid + Solar
+EN01427,Kano,Residential,Pending,Active,Generator
+EN01428,Benin City,Industrial,2040.1,Active,Grid Electricity
+EN01429,Lagos,Residential,358.5,Inactive,Generator
+EN01430,Enugu,Residential,222.1,Inactive,Grid + Generator
+EN01431,Aba,Residential,201.3,Active,Grid + Solar
+EN01432,Abuja,Residential,151.3,Active,Solar
+EN01433,Lagos,Public Institution,645.6,Active,Grid Electricity
+EN01434,Lagos,Residential,270.3,Active,Grid Electricity
+EN01435,Abuja,Residential,210.4,Suspended,Grid Electricity
+EN01436,Lagos,Residential,839.0,Active,Generator
+EN01437,Lagos,Residential,144.3,Active,Grid + Solar
+EN01438,Kano,Small Business,747.5,Active,Grid + Solar
+EN01439,Kaduna,Commercial,2087.4,Suspended,Grid + Generator
+EN01440,Abuja,Commercial,1016.5,Active,Grid Electricity
+EN01441,Lagos,Residential,417.5,Suspended,Solar
+EN01442,Lagos,Residential,364.3,Inactive,Grid Electricity
+EN01443,Port Harcourt,Residential,65.7,Suspended,Grid Electricity
+EN01444,Kano,Residential,,Active,Grid Electricity
+EN01445,Lagos,Residential,695.1,Active,Solar
+EN01446,Enugu,Residential,308.3,Active,Grid Electricity
+EN01447,Abuja,Small Business,781.7,Active,Grid Electricity
+EN01448,Ibadan,Industrial,2597.2,Active,Grid Electricity
+EN01449,Lagos,Industrial,11127.3,Inactive,Grid Electricity
+EN01450,Aba,Residential,268.9,Active,Grid Electricity
+EN01451,Aba,Small Business,1301.0,Active,Grid Electricity
+EN01452,Abuja,Small Business,529.3,Active,Grid Electricity
+EN01453,Aba,Residential,197.5,Active,Grid Electricity
+EN01454,Ibadan,Residential,266.7,Active,Grid Electricity
+EN01455,Port Harcourt,Commercial,2201.9,Pending,Grid Electricity
+EN01456,Lagos,Commercial,1351.4,Active,Generator
+EN01457,Lagos,Residential,331.5,Active,Grid Electricity
+EN01458,Lagos,Residential,119.8,Active,Grid Electricity
+EN01459,,Commercial,295.7,Active,Grid Electricity
+EN01460,Lagos,Small Business,599.3,Suspended,Grid Electricity
+EN01461,Lagos,Residential,270.6,Active,Grid Electricity
+EN01462,Abuja,Residential,304.7,Pending,Grid Electricity
+EN01463,Abuja,Commercial,3317.7,Active,Grid Electricity
+EN01464,Benin City,Residential,Unknown,Active,Grid Electricity
+EN01465,Lagos,Residential,227.6,Active,Grid Electricity
+EN01466,Lagos,Small Business,462.9,Active,Grid Electricity
+EN01467,Lagos,,Error,Active,Grid Electricity
+EN01468,Abuja,Commercial,2898.5,Active,Solar
+EN01469,Enugu,Residential,167.3,Suspended,Grid Electricity
+EN01470,Kano,Residential,486.6,Inactive,Grid Electricity
+EN01471,Kaduna,Industrial,Pending,Inactive,Grid Electricity
+EN01472,Kaduna,Industrial,3961.6,Inactive,Grid Electricity
+EN01473,Kano,Small Business,538.8,Active,Grid + Solar
+EN01474,Ibadan,Residential,314.8,Active,Solar
+EN01475,Port Harcourt,Residential,509.5,Active,Grid Electricity
+EN01476,Enugu,Residential,100.5,Active,Solar
+EN01477,Abuja,Small Business,963.7,Active,Grid + Solar
+EN01478,Lagos,Residential,529.7,Active,Grid Electricity
+EN01479,Kano,Small Business,942.0,Active,Grid Electricity
+EN01480,Enugu,Residential,138.3,Suspended,Grid Electricity
+EN01481,Abuja,Industrial,6134.0,Active,Grid + Solar
+EN01482,Lagos,Commercial,5273.0,Active,Grid Electricity
+EN01483,Benin City,Residential,277.4,Active,Grid + Solar
+EN01484,Abuja,Small Business,,Active,Grid Electricity
+EN01485,Port Harcourt,Residential,778.1,Active,Grid Electricity
+EN01486,Ibadan,Industrial,7515.9,Active,Solar
+EN01487,Port Harcourt,Residential,657.9,Active,Grid Electricity
+EN01488,Abuja,Residential,385.7,Active,Solar
+EN01489,Abuja,Residential,469.6,Active,Grid Electricity
+EN01490,Ibadan,Residential,53.3,Active,Grid Electricity
+EN01491,Jos,Residential,153.6,Inactive,Grid Electricity
+EN01492,Enugu,Small Business,905.6,Active,Grid Electricity
+EN01493,Ibadan,Public Institution,822.0,Active,Grid + Solar
+EN01494,Ibadan,Small Business,987.6,Active,Grid Electricity
+EN01495,Kaduna,Industrial,3106.1,Active,Grid Electricity
+EN01496,Port Harcourt,Industrial,4405.5,Active,Grid Electricity
+EN01497,Lagos,Residential,203.8,Active,Grid + Generator
+EN01498,Lagos,Residential,162.2,Active,Grid Electricity
+EN01499,Jos,Commercial,4357.2,Active,Grid Electricity
+EN01500,Kaduna,Residential,257.8,Active,Generator
+EN01501,Jos,Small Business,1067.4,Active,Grid + Solar
+EN01502,Aba,Commercial,4776.9,Active,Grid + Solar
+EN01503,Ibadan,Residential,184.8,Active,Grid Electricity
+EN01504,Kano,Small Business,497.4,Suspended,Solar
+EN01505,Abuja,Industrial,10762.2,Active,Solar
+EN01506,Kano,Industrial,18433.9,Active,Grid Electricity
+EN01507,Ibadan,Small Business,619.2,Active,Grid Electricity
+EN01508,Lagos,Residential,797.8,Active,Grid Electricity
+EN01509,Jos,Residential,110.9,Active,Grid Electricity
+EN01510,Aba,Residential,218.3,Inactive,Grid Electricity
+EN01511,Enugu,Small Business,471.7,Active,Generator
+EN01512,Lagos,Residential,173.8,Inactive,Grid Electricity
+EN01513,Kano,Commercial,1272.7,Active,Generator
+EN01514,Abuja,Residential,299.1,Active,
+EN01515,Abuja,Industrial,5650.4,Active,Grid Electricity
+EN01516,Lagos,Industrial,4319.2,Active,Grid Electricity
+EN01517,Abuja,Public Institution,755.8,Active,Grid Electricity
+EN01518,Port Harcourt,Commercial,,Active,Grid Electricity
+EN01519,Benin City,Small Business,538.3,Inactive,Generator
+EN01520,Port Harcourt,Industrial,1786.5,Active,Solar
+EN01521,Kaduna,Small Business,741.2,Active,Grid + Solar
+EN01522,Lagos,Commercial,1426.7,Active,Generator
+EN01523,Lagos,Small Business,680.8,Active,Grid Electricity
+EN01524,Port Harcourt,Small Business,256.6,Inactive,Grid Electricity
+EN01525,Abuja,Small Business,646.4,Pending,Grid Electricity
+EN01526,Kano,Residential,188.5,Inactive,Grid Electricity
+EN01527,Kano,Residential,371.7,Active,Grid Electricity
+EN01528,Kano,Residential,992.4,Active,Grid Electricity
+EN01529,Kano,Small Business,534.9,Active,Grid Electricity
+EN01530,Enugu,Small Business,850.6,Active,Grid Electricity
+EN01531,Jos,Residential,155.4,Active,Grid Electricity
+EN01532,Ibadan,Residential,147.1,Suspended,Grid + Solar
+EN01533,Port Harcourt,Residential,,Active,Grid Electricity
+EN01534,Port Harcourt,Residential,232.6,Active,Grid + Solar
+EN01535,Kano,Residential,522.9,Inactive,Grid Electricity
+EN01536,Kano,Residential,59.1,Active,Grid Electricity
+EN01537,Ibadan,Residential,207.4,Active,Grid Electricity
+EN01538,Ibadan,Residential,94.9,Inactive,Grid + Generator
+EN01539,Benin City,Residential,298.1,Active,Grid Electricity
+EN01540,Lagos,Residential,436.8,Active,Grid Electricity
+EN01541,Enugu,Small Business,,Active,Generator
+EN01542,Aba,Residential,100.2,Active,Grid + Solar
+EN01543,Ibadan,Residential,,Inactive,Grid Electricity
+EN01544,Benin City,Residential,316.9,Inactive,Grid + Solar
+EN01545,Kaduna,,1203.6,Active,Solar
+EN01546,Port Harcourt,Residential,104.7,Active,Grid + Solar
+EN01547,Kaduna,Commercial,1636.1,Active,Grid + Solar
+EN01548,Port Harcourt,Small Business,528.1,Active,Grid + Generator
+EN01549,Lagos,Small Business,426.1,Active,Solar
+EN01550,Benin City,Residential,865.8,Pending,Grid Electricity
+EN01551,Abuja,Residential,No Reading,Active,Grid + Solar
+EN01552,Jos,Commercial,1687.0,Pending,Grid + Solar
+EN01553,Lagos,Small Business,539.1,Inactive,Grid Electricity
+EN01554,Enugu,Industrial,2068.9,Active,Grid Electricity
+EN01555,Ibadan,Residential,572.8,Inactive,Grid Electricity
+EN01556,Port Harcourt,Residential,340.5,Active,Grid Electricity
+EN01557,Abuja,Residential,97.1,Active,Grid Electricity
+EN01558,Kano,Small Business,303.0,Active,Grid Electricity
+EN01559,Abuja,Residential,97.5,Active,Grid Electricity
+EN01560,Lagos,Residential,208.3,Active,Solar
+EN01561,Port Harcourt,Public Institution,2240.9,Inactive,Grid Electricity
+EN01562,Enugu,Small Business,779.4,Active,Grid + Solar
+EN01563,Abuja,Residential,168.8,Active,Generator
+EN01564,Lagos,Public Institution,2725.8,Active,Grid Electricity
+EN01565,Abuja,Commercial,547.2,Active,Grid + Generator
+EN01566,Ibadan,Small Business,681.7,Active,Grid + Solar
+EN01567,Lagos,Residential,264.8,Active,Grid + Generator
+EN01568,Enugu,Residential,208.8,Active,Solar
+EN01569,Benin City,Residential,267.4,Active,Grid Electricity
+EN01570,Lagos,Small Business,,Active,Grid + Solar
+EN01571,Kano,Residential,148.5,Active,Grid Electricity
+EN01572,Ibadan,Small Business,584.5,Active,Grid Electricity
+EN01573,Abuja,Residential,204.4,Active,Solar
+EN01574,Ibadan,Small Business,901.5,Active,Generator
+EN01575,Ibadan,Commercial,3759.8,Active,Grid + Solar
+EN01576,Kaduna,Small Business,1403.0,Active,Grid Electricity
+EN01577,Lagos,Residential,283.8,Active,Grid Electricity
+EN01578,Lagos,Residential,206.0,Active,Grid Electricity
+EN01579,Lagos,Small Business,,Inactive,Solar
+EN01580,Port Harcourt,Small Business,629.3,Pending,Grid Electricity
+EN01581,Kano,Commercial,692.2,Active,Grid + Solar
+EN01582,Lagos,Small Business,1481.4,Active,Grid + Solar
+EN01583,,Small Business,476.3,Active,Grid + Solar
+EN01584,Kano,Residential,126.8,Active,Grid Electricity
+EN01585,,Commercial,2894.3,Active,Grid Electricity
+EN01586,Port Harcourt,Residential,,Active,Grid Electricity
+EN01587,Jos,Small Business,299.4,Active,Grid + Solar
+EN01588,Port Harcourt,Residential,466.5,Active,Grid Electricity
+EN01589,Lagos,Residential,255.7,Active,Grid Electricity
+EN01590,Jos,Small Business,,Active,Grid Electricity
+EN01591,Lagos,Residential,125.0,Suspended,Grid Electricity
+EN01592,Kaduna,Residential,524.4,Active,Grid Electricity
+EN01593,Benin City,Small Business,794.0,Active,Grid + Generator
+EN01594,Benin City,Small Business,356.8,Inactive,Grid Electricity
+EN01595,Ibadan,Residential,206.8,Active,Grid + Solar
+EN01596,Lagos,Residential,419.3,Active,Grid + Solar
+EN01597,Ibadan,Residential,221.7,Active,Solar
+EN01598,Aba,Small Business,481.8,Active,Grid Electricity
+EN01599,Lagos,Small Business,568.7,Active,Grid + Solar
+EN01600,Ibadan,Residential,325.2,Active,Solar
+EN01601,Abuja,Residential,121.7,Active,Solar
+EN01602,Benin City,Commercial,2386.1,Active,Grid Electricity
+EN01603,Kano,Residential,286.5,Active,Grid Electricity
+EN01604,Abuja,Residential,157.1,Active,Solar
+EN01605,Jos,Residential,44.7,Active,Generator
+EN01606,Lagos,Residential,206.0,Active,Grid + Solar
+EN01607,Abuja,Residential,109.5,Active,Grid + Solar
+EN01608,Abuja,Residential,305.7,Pending,Grid + Generator
+EN01609,Abuja,Public Institution,1181.2,Active,Grid Electricity
+EN01610,Ibadan,Small Business,565.6,Suspended,Grid Electricity
+EN01611,Abuja,Commercial,6069.7,Suspended,Grid + Solar
+EN01612,Kano,Residential,266.1,Active,Generator
+EN01613,Lagos,Residential,202.6,Inactive,Grid Electricity
+EN01614,Lagos,Industrial,Unknown,Active,Grid Electricity
+EN01615,Abuja,Residential,67.1,Active,Grid Electricity
+EN01616,Abuja,Commercial,2413.7,Active,Grid Electricity
+EN01617,Abuja,Residential,188.9,Inactive,Grid + Generator
+EN01618,Lagos,Small Business,800.5,Active,Grid Electricity
+EN01619,Lagos,Residential,344.4,Active,Grid Electricity
+EN01620,Kano,Residential,146.3,Active,Grid + Solar
+EN01621,Kaduna,Small Business,462.6,Active,Grid Electricity
+EN01622,Abuja,Small Business,1381.8,Pending,Grid Electricity
+EN01623,Kano,Residential,191.2,Inactive,Grid + Generator
+EN01624,Lagos,Public Institution,640.7,Active,Grid Electricity
+EN01625,Abuja,Public Institution,1420.4,Active,Grid + Generator
+EN01626,Ibadan,Residential,,Active,Solar
+EN01627,Lagos,Commercial,1049.2,Active,Grid + Solar
+EN01628,Port Harcourt,Small Business,1470.1,Active,Grid Electricity
+EN01629,Ibadan,Residential,554.4,Active,Grid + Solar
+EN01630,Abuja,Small Business,264.7,Active,Solar
+EN01631,Lagos,Residential,333.4,Active,Grid Electricity
+EN01632,Abuja,Residential,286.0,Active,Grid + Generator
+EN01633,Kano,Residential,268.8,Active,Grid Electricity
+EN01634,Abuja,Residential,814.9,Active,Solar
+EN01635,Port Harcourt,Residential,498.9,Active,Grid Electricity
+EN01636,Lagos,Commercial,1041.2,Active,Grid + Solar
+EN01637,Lagos,Commercial,1171.4,Inactive,Grid Electricity
+EN01638,Jos,Residential,324.2,Active,Grid Electricity
+EN01639,Abuja,Commercial,1497.0,Pending,Grid Electricity
+EN01640,Lagos,Industrial,4894.3,Suspended,Grid Electricity
+EN01641,Kano,Residential,367.9,Suspended,Grid Electricity
+EN01642,Abuja,Residential,545.0,Active,Grid Electricity
+EN01643,Enugu,Commercial,2933.2,Suspended,Grid Electricity
+EN01644,Abuja,Residential,748.7,Active,Grid Electricity
+EN01645,Benin City,Residential,356.3,Active,Generator
+EN01646,Ibadan,Commercial,1479.2,Active,Grid Electricity
+EN01647,Abuja,Small Business,881.7,Active,Grid + Solar
+EN01648,Enugu,Small Business,679.0,Active,Grid Electricity
+EN01649,,Small Business,661.4,Active,Solar
+EN01650,Jos,Residential,163.1,,Generator
+EN01651,Enugu,Commercial,737.3,Inactive,
+EN01652,Abuja,Residential,215.7,Active,Grid Electricity
+EN01653,Benin City,Residential,234.4,Active,Grid Electricity
+EN01654,Abuja,Commercial,1401.7,Active,Grid Electricity
+EN01655,Lagos,Residential,225.2,Pending,Grid Electricity
+EN01656,Ibadan,Residential,110.0,Active,Solar
+EN01657,Ibadan,Commercial,1730.5,Active,Grid Electricity
+EN01658,Abuja,Commercial,1697.4,Active,Generator
+EN01659,Port Harcourt,Residential,362.9,Active,Grid Electricity
+EN01660,Abuja,Residential,192.9,Active,Grid Electricity
+EN01661,Abuja,Commercial,1615.8,Inactive,Grid Electricity
+EN01662,,Residential,,Active,Grid Electricity
+EN01663,Lagos,Small Business,Pending,Suspended,Grid Electricity
+EN01664,Benin City,Residential,440.2,Active,Grid Electricity
+EN01665,Enugu,Commercial,3632.2,Active,Grid Electricity
+EN01666,Jos,Small Business,827.6,Pending,Grid + Generator
+EN01667,Abuja,Residential,114.6,Active,Grid Electricity
+EN01668,Lagos,Residential,163.8,Inactive,Grid Electricity
+EN01669,Ibadan,Residential,,,Grid + Solar
+EN01670,Lagos,Public Institution,N/A,Active,Grid Electricity
+EN01671,Lagos,Small Business,883.3,Active,Grid Electricity
+EN01672,Ibadan,Small Business,638.1,Active,Grid Electricity
+EN01673,Ibadan,Residential,176.5,Active,Grid Electricity
+EN01674,Kano,Residential,669.9,Active,Solar
+EN01675,Lagos,Residential,430.8,Active,Grid Electricity
+EN01676,Jos,Small Business,1176.8,Active,Solar
+EN01677,Lagos,Small Business,461.7,Active,Grid Electricity
+EN01678,Lagos,Commercial,1124.3,Active,Grid Electricity
+EN01679,Lagos,Industrial,8924.0,Active,Solar
+EN01680,Benin City,Small Business,481.6,Active,Solar
+EN01681,Aba,Residential,326.7,Active,Generator
+EN01682,Lagos,Residential,118.3,Inactive,Generator
+EN01683,Port Harcourt,Small Business,869.8,Active,Grid Electricity
+EN01684,Benin City,Residential,,Active,Grid Electricity
+EN01685,Abuja,Commercial,3809.5,Inactive,Grid Electricity
+EN01686,Abuja,Small Business,1686.3,Active,Grid + Generator
+EN01687,Kaduna,Residential,720.5,Active,Grid Electricity
+EN01688,Abuja,Industrial,,Inactive,Grid Electricity
+EN01689,Abuja,Residential,,Active,Grid Electricity
+EN01690,Kano,Residential,183.0,Active,Grid Electricity
+EN01691,Abuja,Residential,143.8,Active,Grid Electricity
+EN01692,Port Harcourt,Residential,104.3,Active,Solar
+EN01693,Benin City,Residential,73.4,Active,Grid Electricity
+EN01694,Kano,Industrial,N/A,Active,Solar
+EN01695,Lagos,Public Institution,1058.7,Active,Generator
+EN01696,Abuja,Public Institution,937.9,Inactive,Grid Electricity
+EN01697,Benin City,Small Business,343.5,Active,Grid Electricity
+EN01698,Benin City,Public Institution,485.0,Active,Grid Electricity
+EN01699,Enugu,Residential,644.6,Active,Solar
+EN01700,Lagos,Residential,413.7,Active,Grid Electricity
+EN01701,Kaduna,Small Business,449.9,Pending,Grid Electricity
+EN01702,Kaduna,Residential,71.2,Suspended,Grid Electricity
+EN01703,Kano,Public Institution,832.2,Suspended,Generator
+EN01704,Ibadan,Small Business,716.5,Active,Grid + Generator
+EN01705,Lagos,Residential,188.5,Active,Grid Electricity
+EN01706,Lagos,Industrial,5439.3,Active,Grid Electricity
+EN01707,,Residential,242.0,Active,Grid Electricity
+EN01708,Lagos,Residential,585.0,Active,Grid + Generator
+EN01709,Lagos,Industrial,3274.4,Active,Grid + Solar
+EN01710,Abuja,Industrial,1692.1,Active,Grid + Solar
+EN01711,Lagos,Residential,422.8,Active,Grid Electricity
+EN01712,Enugu,Small Business,781.8,Active,Grid Electricity
+EN01713,Lagos,Residential,180.9,Active,Grid Electricity
+EN01714,Port Harcourt,Public Institution,691.5,Inactive,Grid Electricity
+EN01715,Ibadan,Residential,95.1,Active,Grid + Generator
+EN01716,Enugu,Commercial,1612.9,Active,Grid Electricity
+EN01717,Kaduna,Small Business,1409.7,Active,Grid Electricity
+EN01718,Lagos,Residential,,Inactive,Grid + Solar
+EN01719,Abuja,Residential,481.0,Inactive,Grid Electricity
+EN01720,Kano,Residential,59.2,Active,Solar
+EN01721,Lagos,Residential,No Reading,Active,Solar
+EN01722,Lagos,Public Institution,2391.0,Suspended,Generator
+EN01723,Jos,Commercial,1482.3,Active,Grid Electricity
+EN01724,Kano,Industrial,9192.6,Active,Grid Electricity
+EN01725,,Commercial,,Active,Grid Electricity
+EN01726,Port Harcourt,Small Business,531.7,Active,Grid Electricity
+EN01727,Aba,Residential,69.2,Active,Grid Electricity
+EN01728,Ibadan,Residential,405.4,Active,Generator
+EN01729,Aba,Residential,267.6,Active,Solar
+EN01730,Kano,Residential,544.1,Active,Grid + Solar
+EN01731,Abuja,Residential,199.9,Active,Grid + Solar
+EN01732,Lagos,Small Business,554.0,Active,Generator
+EN01733,Enugu,Commercial,593.6,Active,Grid Electricity
+EN01734,Benin City,Commercial,876.9,Active,Grid Electricity
+EN01735,Jos,Residential,150.6,Active,Grid Electricity
+EN01736,Benin City,Residential,72.5,Active,Solar
+EN01737,Jos,Residential,517.6,Active,Solar
+EN01738,Ibadan,Small Business,572.5,Active,Grid Electricity
+EN01739,Benin City,Commercial,1832.2,Suspended,Grid Electricity
+EN01740,Port Harcourt,Residential,733.6,Active,Grid + Generator
+EN01741,Kano,Residential,281.7,Active,Grid Electricity
+EN01742,Lagos,Residential,142.1,Active,Solar
+EN01743,Lagos,Industrial,7147.1,Active,Grid + Solar
+EN01744,Abuja,Residential,112.1,Active,Grid Electricity
+EN01745,Kano,Small Business,1228.9,Active,Generator
+EN01746,Kaduna,Small Business,875.5,Suspended,Grid + Generator
+EN01747,Lagos,Small Business,811.3,Active,Grid Electricity
+EN01748,Ibadan,Small Business,"5,2O0",Pending,Grid Electricity
+EN01749,Port Harcourt,Residential,120.7,Active,Grid Electricity
+EN01750,Jos,Small Business,140.0,Active,Grid Electricity
+EN01751,Lagos,Commercial,1271.3,Active,Grid + Solar
+EN01752,Kano,Residential,Unknown,Active,Grid + Solar
+EN01753,Kano,Small Business,826.0,Active,Grid Electricity
+EN01754,Ibadan,Commercial,2818.4,Active,Grid Electricity
+EN01755,Lagos,Residential,82.2,Suspended,Grid Electricity
+EN01756,Kano,Residential,111.3,Active,Grid Electricity
+EN01757,Lagos,Industrial,0,Inactive,Grid + Generator
+EN01758,Port Harcourt,Commercial,,Inactive,Grid Electricity
+EN01759,Kano,Residential,467.4,Active,Grid Electricity
+EN01760,Kaduna,Small Business,1145.1,Inactive,Grid Electricity
+EN01761,Jos,Commercial,947.2,Active,Grid Electricity
+EN01762,Enugu,Small Business,735.6,Active,Grid Electricity
+EN01763,Jos,Commercial,1269.7,Active,Solar
+EN01764,Ibadan,Commercial,2104.9,Active,Generator
+EN01765,Kaduna,Residential,251.9,Active,Grid Electricity
+EN01766,Lagos,Industrial,5774.1,Active,Grid + Solar
+EN01767,Port Harcourt,Commercial,2319.2,Active,Generator
+EN01768,Kaduna,Residential,180.2,Active,Grid Electricity
+EN01769,Lagos,Residential,528.4,Active,Grid Electricity
+EN01770,Kano,Small Business,698.8,Active,Grid Electricity
+EN01771,Enugu,Small Business,604.3,Active,Grid Electricity
+EN01772,Lagos,Industrial,13379.1,Active,Solar
+EN01773,Port Harcourt,Residential,96.3,Suspended,Grid Electricity
+EN01774,Lagos,Small Business,1155.5,Active,Grid Electricity
+EN01775,Kano,Small Business,930.4,Inactive,Grid Electricity
+EN01776,Enugu,Small Business,761.5,Active,Grid Electricity
+EN01777,Kano,Residential,313.0,Active,Grid Electricity
+EN01778,Port Harcourt,Residential,195.2,Active,Grid + Solar
+EN01779,Abuja,Residential,180.4,Active,Solar
+EN01780,Port Harcourt,Residential,412.8,Active,Generator
+EN01781,Kano,Industrial,6228.6,Active,Grid + Generator
+EN01782,Ibadan,Public Institution,Unknown,Active,Solar
+EN01783,Kaduna,Public Institution,1012.9,Active,Grid Electricity
+EN01784,Benin City,Small Business,334.8,Active,Grid + Solar
+EN01785,Port Harcourt,Industrial,8466.0,Active,Grid + Solar
+EN01786,Abuja,Small Business,687.0,Active,Grid Electricity
+EN01787,Abuja,Small Business,937.5,Active,Grid + Solar
+EN01788,Ibadan,Residential,102.6,Active,Grid Electricity
+EN01789,Lagos,Commercial,1533.0,Active,Grid + Solar
+EN01790,Kaduna,Small Business,464.5,Active,Grid Electricity
+EN01791,Lagos,Small Business,431.1,Active,Generator
+EN01792,Kano,Small Business,814.3,Active,Generator
+EN01793,Kano,Commercial,1077.3,Active,Grid Electricity
+EN01794,Ibadan,Residential,74.9,Suspended,Generator
+EN01795,Lagos,Small Business,539.6,Active,Generator
+EN01796,Enugu,Residential,259.9,Suspended,Grid + Generator
+EN01797,Lagos,Small Business,1094.8,Active,Grid Electricity
+EN01798,Abuja,Small Business,397.4,Pending,Grid Electricity
+EN01799,Port Harcourt,Residential,285.8,Inactive,Grid Electricity
+EN01800,Aba,Residential,,Active,Grid Electricity
+EN01801,Enugu,Residential,652.6,Active,Grid Electricity
+EN01802,Port Harcourt,Residential,267.1,Inactive,Grid + Solar
+EN01803,Kaduna,Residential,443.3,Active,Grid Electricity
+EN01804,Lagos,Residential,132.4,Active,Solar
+EN01805,Ibadan,Commercial,2260.6,Active,Solar
+EN01806,Port Harcourt,Public Institution,905.8,Active,Grid + Solar
+EN01807,Benin City,Commercial,539.7,Active,Grid Electricity
+EN01808,Ibadan,Small Business,316.4,Inactive,Grid + Generator
+EN01809,Port Harcourt,Small Business,138.2,Active,Grid + Generator
+EN01810,Lagos,Small Business,1337.1,Active,Grid Electricity
+EN01811,Lagos,Residential,,Active,Generator
+EN01812,Benin City,Residential,149.6,Active,Grid Electricity
+EN01813,Abuja,Small Business,952.9,Active,Grid Electricity
+EN01814,Lagos,Commercial,1536.2,Suspended,Grid Electricity
+EN01815,Enugu,Residential,136.4,Active,Grid + Solar
+EN01816,Ibadan,Small Business,500.8,Active,Solar
+EN01817,Jos,Residential,1581.8,Active,Grid + Generator
+EN01818,Ibadan,Industrial,5811.1,Pending,Grid + Solar
+EN01819,Ibadan,Public Institution,698.4,Active,Grid Electricity
+EN01820,Port Harcourt,Commercial,3017.1,Active,Grid Electricity
+EN01821,Port Harcourt,Commercial,2071.9,Active,Grid Electricity
+EN01822,Kaduna,Commercial,1031.8,Active,Grid + Solar
+EN01823,Port Harcourt,Small Business,417.1,Active,Grid Electricity
+EN01824,Abuja,Residential,424.5,Active,Grid + Solar
+EN01825,Lagos,Commercial,2868.4,Active,Solar
+EN01826,Kano,Small Business,289.6,Active,Grid Electricity
+EN01827,Ibadan,Residential,109.8,Active,Solar
+EN01828,Lagos,Residential,122.7,Active,Grid Electricity
+EN01829,Abuja,Small Business,762.3,Active,Grid Electricity
+EN01830,Port Harcourt,Commercial,407.4,Active,Grid + Generator
+EN01831,Port Harcourt,Small Business,318.7,Active,Grid Electricity
+EN01832,Ibadan,Small Business,680.0,Active,Grid Electricity
+EN01833,Port Harcourt,Residential,540.4,Active,Grid Electricity
+EN01834,Ibadan,Residential,338.3,Active,Grid + Solar
+EN01835,Port Harcourt,Residential,162.5,Active,Grid Electricity
+EN01836,Abuja,Small Business,1077.9,Inactive,Grid Electricity
+EN01837,Kaduna,Small Business,872.5,Pending,Generator
+EN01838,Lagos,Small Business,594.0,Active,Grid Electricity
+EN01839,Ibadan,Small Business,466.5,Active,Grid Electricity
+EN01840,Kaduna,Residential,822.1,Active,Grid Electricity
+EN01841,Abuja,Industrial,1610.8,Suspended,Grid Electricity
+EN01842,Lagos,Commercial,2298.3,Active,Generator
+EN01843,Aba,Industrial,2975.5,Active,Generator
+EN01844,Lagos,Residential,413.2,Active,Grid + Generator
+EN01845,Abuja,Small Business,472.2,Suspended,Grid Electricity
+EN01846,Kano,Residential,0,Active,Grid Electricity
+EN01847,Lagos,Residential,151.6,Active,Grid Electricity
+EN01848,Port Harcourt,Commercial,807.4,Active,Generator
+EN01849,Ibadan,,"5,2O0",Active,Grid Electricity
+EN01850,Lagos,Residential,183.5,Active,Grid + Solar
+EN01851,Kano,Residential,171.6,Active,Grid Electricity
+EN01852,Kano,Residential,137.0,Active,Grid Electricity
+EN01853,Port Harcourt,Residential,259.1,Active,Grid Electricity
+EN01854,Port Harcourt,Residential,146.7,Active,Generator
+EN01855,Benin City,Residential,317.6,Suspended,Grid + Solar
+EN01856,Port Harcourt,Public Institution,441.5,Inactive,Grid + Generator
+EN01857,Port Harcourt,Residential,131.7,Active,Grid + Solar
+EN01858,Kano,Residential,174.3,Active,Grid + Solar
+EN01859,Port Harcourt,Public Institution,1942.7,Active,Solar
+EN01860,Aba,Residential,108.1,Active,Grid Electricity
+EN01861,Abuja,Residential,310.4,Active,Grid Electricity
+EN01862,Benin City,Residential,302.2,Active,Grid + Generator
+EN01863,Abuja,Commercial,3524.7,Inactive,Grid Electricity
+EN01864,Ibadan,Industrial,3426.1,Active,Grid + Solar
+EN01865,Ibadan,Residential,264.5,Active,Grid Electricity
+EN01866,Benin City,Residential,392.1,Active,Grid Electricity
+EN01867,Benin City,Commercial,2544.2,Active,Generator
+EN01868,Aba,Commercial,1113.3,Active,Solar
+EN01869,Lagos,Residential,412.4,Active,Solar
+EN01870,Kano,Small Business,867.0,Active,Grid Electricity
+EN01871,Aba,Residential,106.2,Inactive,Solar
+EN01872,Aba,Residential,139.6,Active,Grid Electricity
+EN01873,Benin City,Residential,162.0,Active,Grid Electricity
+EN01874,Ibadan,Small Business,1339.3,Active,Grid + Generator
+EN01875,Aba,Residential,253.5,Active,Grid + Solar
+EN01876,Lagos,Small Business,640.4,Active,Grid + Solar
+EN01877,Lagos,Residential,217.7,Active,Grid + Solar
+EN01878,Lagos,Residential,195.3,Active,Grid Electricity
+EN01879,Lagos,Commercial,629.4,Active,Generator
+EN01880,Kano,Small Business,398.4,Active,Grid Electricity
+EN01881,Port Harcourt,Residential,12O,Active,Grid Electricity
+EN01882,Ibadan,Industrial,3249.5,Active,Grid Electricity
+EN01883,Kano,Small Business,317.1,Active,Grid Electricity
+EN01884,Port Harcourt,Residential,150.4,Active,Grid Electricity
+EN01885,Benin City,Industrial,6691.6,Active,Grid Electricity
+EN01886,Lagos,Residential,209.8,Active,Grid Electricity
+EN01887,Port Harcourt,Commercial,733.3,Active,Grid + Solar
+EN01888,Aba,Residential,341.6,Active,Grid + Solar
+EN01889,Port Harcourt,Industrial,4878.0,Active,Solar
+EN01890,Kano,Residential,293.7,Active,Grid Electricity
+EN01891,Port Harcourt,Residential,438.1,Active,Grid Electricity
+EN01892,Port Harcourt,Small Business,506.1,Active,Generator
+EN01893,Kano,Small Business,Unknown,Active,Generator
+EN01894,Ibadan,Commercial,2185.6,Inactive,Grid Electricity
+EN01895,Lagos,Residential,358.4,,Solar
+EN01896,Lagos,Residential,114.1,Active,Solar
+EN01897,Abuja,Residential,393.4,Active,Grid Electricity
+EN01898,,Residential,350.5,Active,Grid Electricity
+EN01899,Kano,Residential,489.3,Active,Grid + Solar
+EN01900,Ibadan,Residential,368.3,Active,Generator
+EN01901,Abuja,Commercial,3754.8,Suspended,Generator
+EN01902,Lagos,Residential,609.0,Suspended,Grid Electricity
+EN01903,Aba,Residential,854.1,Active,Grid Electricity
+EN01904,Jos,Public Institution,,Active,Grid + Generator
+EN01905,Abuja,Residential,258.5,Active,Grid Electricity
+EN01906,Aba,Small Business,409.3,Inactive,Grid Electricity
+EN01907,Port Harcourt,Commercial,834.9,Active,Grid Electricity
+EN01908,Aba,Small Business,1400.6,Active,Grid Electricity
+EN01909,Port Harcourt,Residential,336.3,Active,Grid Electricity
+EN01910,Ibadan,Small Business,662.1,Active,Grid + Solar
+EN01911,Abuja,Residential,447.4,Inactive,Generator
+EN01912,Lagos,Small Business,1204.0,Active,Grid + Generator
+EN01913,Port Harcourt,,3142.7,Active,Grid Electricity
+EN01914,Port Harcourt,Residential,297.9,Active,Grid + Solar
+EN01915,Abuja,Residential,302.5,Active,Grid + Solar
+EN01916,Enugu,Residential,271.5,Active,Grid + Solar
+EN01917,Ibadan,Commercial,814.6,Active,Grid Electricity
+EN01918,Lagos,Residential,134.5,Active,Grid + Solar
+EN01919,Benin City,Residential,142.5,Active,Generator
+EN01920,Kano,Public Institution,983.1,Active,Grid + Generator
+EN01921,Port Harcourt,Residential,360.5,Suspended,Grid Electricity
+EN01922,Lagos,Small Business,853.7,Active,Grid + Generator
+EN01923,Port Harcourt,Industrial,6688.7,Active,Grid Electricity
+EN01924,Kaduna,Residential,199.8,Active,Generator
+EN01925,Kano,Residential,215.7,Active,Grid + Solar
+EN01926,Port Harcourt,Residential,100.4,Active,Grid + Solar
+EN01927,Kano,Residential,205.7,Active,Grid Electricity
+EN01928,Enugu,Residential,174.2,Active,Grid Electricity
+EN01929,Ibadan,Small Business,,Active,Grid Electricity
+EN01930,Enugu,Small Business,993.7,Active,Solar
+EN01931,Lagos,Residential,102.0,Active,Grid + Solar
+EN01932,Kaduna,Residential,568.6,Active,Grid + Generator
+EN01933,Enugu,Commercial,741.3,Active,Grid Electricity
+EN01934,Lagos,Residential,195.5,Active,Solar
+EN01935,,Public Institution,1080.2,Active,Generator
+EN01936,Lagos,Residential,,Suspended,Grid Electricity
+EN01937,Abuja,Residential,85.8,Inactive,Generator
+EN01938,Abuja,Residential,321.3,Active,Generator
+EN01939,Abuja,Residential,205.4,Active,Grid Electricity
+EN01940,Enugu,Small Business,1693.3,Active,Grid Electricity
+EN01941,Port Harcourt,Industrial,2773.4,Active,Grid Electricity
+EN01942,Enugu,Residential,177.3,Active,Generator
+EN01943,Enugu,Residential,620.2,Active,Grid Electricity
+EN01944,Ibadan,Industrial,14366.6,Active,Grid Electricity
+EN01945,Aba,Small Business,1063.7,Active,Grid Electricity
+EN01946,Abuja,Small Business,1634.1,Active,Grid Electricity
+EN01947,Enugu,Residential,173.2,Inactive,Grid Electricity
+EN01948,Port Harcourt,Public Institution,2315.7,Inactive,Grid Electricity
+EN01949,Lagos,Industrial,8804.6,Active,Solar
+EN01950,Lagos,Small Business,417.0,Active,Grid Electricity
+EN01951,,Residential,853.1,Active,Grid Electricity
+EN01952,Port Harcourt,Small Business,No Reading,Active,Grid Electricity
+EN01953,Jos,Small Business,2623.6,Active,Grid Electricity
+EN01954,Port Harcourt,Small Business,512.7,Suspended,Grid + Generator
+EN01955,Lagos,Residential,188.3,Active,Grid Electricity
+EN01956,Lagos,Residential,107.0,Inactive,Grid Electricity
+EN01957,Lagos,Residential,332.2,Suspended,Generator
+EN01958,Port Harcourt,Residential,244.0,Inactive,Grid Electricity
+EN01959,Lagos,Small Business,660.1,Inactive,Solar
+EN01960,Kano,Residential,281.5,Active,Solar
+EN01961,Port Harcourt,Residential,251.5,Suspended,Solar
+EN01962,Abuja,Residential,379.8,Inactive,Grid Electricity
+EN01963,Port Harcourt,Residential,394.7,Active,Grid Electricity
+EN01964,Port Harcourt,Residential,537.0,Active,Grid + Solar
+EN01965,Abuja,Small Business,410.6,Active,Grid Electricity
+EN01966,Benin City,Small Business,421.3,Inactive,Grid + Solar
+EN01967,Lagos,Residential,93.6,Suspended,Grid Electricity
+EN01968,Port Harcourt,Residential,141.6,Active,Solar
+EN01969,Lagos,Residential,255.6,Active,Grid Electricity
+EN01970,Ibadan,Residential,339.3,Active,Grid + Generator
+EN01971,Ibadan,Industrial,5224.4,Active,Grid Electricity
+EN01972,Lagos,Residential,119.5,Active,Grid + Generator
+EN01973,Abuja,Commercial,1906.0,Active,Generator
+EN01974,Port Harcourt,Residential,390.6,Active,Grid Electricity
+EN01975,Enugu,Public Institution,299.1,Suspended,Grid Electricity
+EN01976,Lagos,Commercial,582.1,Active,Grid Electricity
+EN01977,Abuja,Industrial,7967.5,Inactive,Grid + Generator
+EN01978,Kaduna,Industrial,13192.1,Active,Solar
+EN01979,Port Harcourt,Residential,-45,Active,Grid Electricity
+EN01980,Port Harcourt,Industrial,2509.0,Active,Grid Electricity
+EN01981,Lagos,Residential,339.0,Active,Generator
+EN01982,Lagos,Residential,100.2,Active,Solar
+EN01983,Aba,Residential,215.3,Suspended,Grid Electricity
+EN01984,Benin City,Residential,138.8,Pending,Generator
+EN01985,Kaduna,Industrial,1654.9,Active,Grid Electricity
+EN01986,Abuja,Commercial,1002.6,Active,Generator
+EN01987,Abuja,Residential,135.0,Active,Grid Electricity
+EN01988,Aba,Commercial,1178.3,Active,Grid + Generator
+EN01989,Aba,Residential,260.6,Active,Grid Electricity
+EN01990,Ibadan,Residential,237.5,Inactive,Grid + Solar
+EN01991,Enugu,Small Business,804.2,Active,Grid Electricity
+EN01992,Port Harcourt,Small Business,429.9,Active,Grid + Solar
+EN01993,Lagos,Residential,462.3,Suspended,Grid Electricity
+EN01994,Ibadan,Residential,278.3,Active,Grid Electricity
+EN01995,Lagos,Small Business,1303.4,Active,Grid Electricity
+EN01996,Kaduna,Residential,110.3,Active,Grid Electricity
+EN01997,Abuja,Small Business,700.3,Active,Grid + Solar
+EN01998,Abuja,Public Institution,3863.4,Active,Grid Electricity
+EN01999,Port Harcourt,Commercial,2120.5,Active,Grid + Solar
+EN02000,Port Harcourt,Small Business,466.4,Inactive,Solar
+EN02001,Port Harcourt,Residential,130.2,Active,Solar
+EN02002,Ibadan,Public Institution,973.2,Active,Grid + Solar
+EN02003,Enugu,Small Business,1198.2,Active,Solar
+EN02004,Aba,Public Institution,795.3,Active,Grid Electricity
+EN02005,Abuja,Public Institution,1112.5,Pending,Solar
+EN02006,Abuja,Residential,63.2,Active,Grid Electricity
+EN02007,Port Harcourt,Residential,252.6,Active,Grid Electricity
+EN02008,Lagos,Industrial,3552.0,Active,Grid + Generator
+EN02009,Kano,Small Business,780.1,Active,Grid + Generator
+EN02010,Ibadan,Industrial,9240.0,Active,Grid Electricity
+EN02011,Abuja,Residential,60.5,Active,Grid + Solar
+EN02012,Abuja,Small Business,461.4,Active,Grid Electricity
+EN02013,Lagos,Residential,347.8,Active,Grid Electricity
+EN02014,Kano,Small Business,264.2,Active,Grid Electricity
+EN02015,Port Harcourt,Small Business,468.4,Active,Generator
+EN02016,Lagos,Small Business,2158.3,Active,Solar
+EN02017,Port Harcourt,Small Business,137.0,Active,Grid Electricity
+EN02018,Port Harcourt,Residential,459.3,Active,Grid + Solar
+EN02019,Abuja,Commercial,1368.1,Active,Grid Electricity
+EN02020,Lagos,Residential,116.8,Active,Grid + Solar
+EN02021,Enugu,Residential,194.4,Active,Grid Electricity
+EN02022,Lagos,Small Business,2719.4,Inactive,Grid Electricity
+EN02023,Kano,Residential,283.3,Active,Generator
+EN02024,Lagos,Commercial,3800.9,Active,Grid Electricity
+EN02025,Ibadan,Small Business,453.0,Active,Generator
+EN02026,Enugu,Residential,52.8,Active,Grid Electricity
+EN02027,Abuja,Residential,184.6,Active,Grid Electricity
+EN02028,Port Harcourt,Small Business,338.7,Active,Grid + Solar
+EN02029,Kano,Residential,109.5,Inactive,Solar
+EN02030,Benin City,Small Business,471.4,Active,Grid Electricity
+EN02031,Lagos,Residential,124.2,Active,Grid + Generator
+EN02032,Ibadan,Residential,124.1,Active,Grid + Generator
+EN02033,Lagos,Residential,164.4,Active,Grid Electricity
+EN02034,Kano,Residential,154.1,Active,Grid + Generator
+EN02035,Lagos,Industrial,3781.8,Active,Grid + Solar
+EN02036,Lagos,Small Business,155.1,Active,Generator
+EN02037,Kano,Commercial,,Inactive,Solar
+EN02038,Lagos,Small Business,574.5,Active,Grid Electricity
+EN02039,Ibadan,Small Business,862.7,Active,Grid Electricity
+EN02040,Kaduna,Public Institution,2885.6,Active,Generator
+EN02041,Benin City,Residential,618.7,Active,Generator
+EN02042,Abuja,Residential,589.5,Active,Generator
+EN02043,Enugu,Residential,Pending,Active,Grid + Solar
+EN02044,Lagos,Commercial,953.7,Active,Generator
+EN02045,Kano,Industrial,7644.0,Active,Grid + Solar
+EN02046,Abuja,Small Business,312.3,Active,Grid Electricity
+EN02047,Enugu,Residential,192.9,Active,Grid Electricity
+EN02048,Lagos,Residential,359.1,Active,Grid Electricity
+EN02049,Port Harcourt,Commercial,12O,Active,Grid Electricity
+EN02050,Kaduna,Commercial,1622.8,Active,Grid Electricity
+EN02051,Lagos,Commercial,2238.6,Active,Solar
+EN02052,Lagos,Industrial,10713.9,Active,Grid Electricity
+EN02053,Ibadan,Residential,871.4,Active,Grid Electricity
+EN02054,Lagos,Commercial,4298.6,Active,Grid Electricity
+EN02055,Jos,Residential,218.0,Active,Grid Electricity
+EN02056,Ibadan,Commercial,N/A,Active,Solar
+EN02057,Abuja,Small Business,461.0,Active,Grid Electricity
+EN02058,Benin City,Residential,235.1,Active,Grid Electricity
+EN02059,Enugu,Residential,244.8,Active,Grid + Solar
+EN02060,Lagos,Residential,131.6,Active,Grid + Solar
+EN02061,Kano,Residential,1307.3,Active,Grid Electricity
+EN02062,Abuja,Residential,1681.0,Active,Grid Electricity
+EN02063,Abuja,Residential,223.7,Active,Generator
+EN02064,Kaduna,Residential,376.9,Active,Generator
+EN02065,Ibadan,Commercial,896.9,Active,Grid + Solar
+EN02066,Enugu,Commercial,606.2,Active,Grid Electricity
+EN02067,Abuja,Small Business,605.1,Inactive,Generator
+EN02068,Jos,Industrial,3606.7,Inactive,Grid Electricity
+EN02069,Kaduna,Residential,341.0,Active,Grid + Solar
+EN02070,Enugu,Residential,233.8,Active,Grid Electricity
+EN02071,Abuja,Industrial,8256.5,Active,Grid Electricity
+EN02072,Ibadan,Residential,250.9,Active,Grid Electricity
+EN02073,Port Harcourt,Residential,382.0,Suspended,Grid + Generator
+EN02074,Kaduna,Public Institution,900.1,Active,Grid + Solar
+EN02075,Enugu,Small Business,,Inactive,Grid Electricity
+EN02076,Ibadan,Commercial,1823.0,Inactive,Solar
+EN02077,Ibadan,Small Business,1827.3,Suspended,Grid Electricity
+EN02078,Kano,Industrial,5232.5,Pending,Grid Electricity
+EN02079,Kaduna,Commercial,1825.1,Inactive,Grid Electricity
+EN02080,Aba,Residential,345.5,Active,Grid Electricity
+EN02081,Lagos,Residential,141.0,Active,Grid Electricity
+EN02082,Aba,Residential,275.0,Active,Solar
+EN02083,Jos,Residential,228.9,Suspended,Grid Electricity
+EN02084,Benin City,Small Business,150.7,Inactive,Grid Electricity
+EN02085,Kaduna,Commercial,1042.4,Active,Grid Electricity
+EN02086,Abuja,Residential,280.9,Active,Grid Electricity
+EN02087,Abuja,Residential,100.0,Suspended,Grid + Generator
+EN02088,Enugu,Residential,205.8,Active,Solar
+EN02089,Port Harcourt,Residential,320.2,Active,Grid Electricity
+EN02090,Jos,Public Institution,1927.6,Active,Solar
+EN02091,Lagos,Residential,300.9,Active,Grid Electricity
+EN02092,Lagos,Residential,276.1,Active,Grid Electricity
+EN02093,Abuja,Small Business,231.2,Active,Generator
+EN02094,Kano,Small Business,922.8,Active,Generator
+EN02095,Benin City,Residential,173.9,Active,Grid Electricity
+EN02096,Lagos,Commercial,932.0,Pending,Generator
+EN02097,Port Harcourt,Industrial,5000.9,Active,Generator
+EN02098,Port Harcourt,Residential,136.9,Active,Grid Electricity
+EN02099,Lagos,Residential,166.3,Active,Grid + Generator
+EN02100,Ibadan,Residential,530.6,Active,Grid Electricity
+EN02101,Enugu,Commercial,1145.9,Active,Generator
+EN02102,Abuja,Small Business,423.4,Inactive,Grid Electricity
+EN02103,Abuja,Residential,250.3,Active,Generator
+EN02104,Benin City,Industrial,6323.3,Active,Grid Electricity
+EN02105,Aba,Small Business,314.5,Suspended,Generator
+EN02106,Lagos,Residential,212.8,Active,Grid Electricity
+EN02107,Abuja,Residential,146.8,Active,Grid + Generator
+EN02108,Lagos,Residential,,Active,Grid Electricity
+EN02109,Lagos,Small Business,387.8,Active,Grid Electricity
+EN02110,Abuja,Residential,412.0,Inactive,Grid Electricity
+EN02111,Lagos,Residential,227.0,Active,Grid Electricity
+EN02112,Enugu,Residential,No Reading,Active,Grid Electricity
+EN02113,Ibadan,Residential,155.8,Active,Grid Electricity
+EN02114,Kaduna,Commercial,1859.7,Inactive,Generator
+EN02115,Abuja,Residential,149.0,Active,Solar
+EN02116,Kano,Residential,251.3,Active,Grid Electricity
+EN02117,Enugu,Industrial,1515.8,Pending,Grid Electricity
+EN02118,Abuja,Residential,95.2,Active,Solar
+EN02119,Port Harcourt,Residential,336.9,Suspended,Grid Electricity
+EN02120,Enugu,Residential,310.5,Active,Grid + Solar
+EN02121,Kaduna,Commercial,826.3,Active,Grid Electricity
+EN02122,Aba,Commercial,702.5,Active,Grid + Solar
+EN02123,Ibadan,Small Business,1822.6,Active,Grid Electricity
+EN02124,Lagos,Residential,199.3,Active,Generator
+EN02125,Ibadan,Residential,377.9,Active,Grid Electricity
+EN02126,Kano,Commercial,Error,Active,Grid Electricity
+EN02127,Benin City,Commercial,1860.5,Active,Grid Electricity
+EN02128,Lagos,Small Business,294.2,Active,Grid + Generator
+EN02129,Abuja,Industrial,3794.2,Active,Grid Electricity
+EN02130,Port Harcourt,Small Business,144.9,Active,Grid Electricity
+EN02131,Kaduna,Residential,348.6,Active,Grid Electricity
+EN02132,Kano,Residential,290.9,Active,Solar
+EN02133,Lagos,Commercial,,Active,Generator
+EN02134,Enugu,Public Institution,468.7,Active,Grid Electricity
+EN02135,Port Harcourt,Residential,84.9,Active,Grid Electricity
+EN02136,Port Harcourt,Residential,1433.1,Inactive,Solar
+EN02137,Abuja,Small Business,1524.6,Active,Grid Electricity
+EN02138,Port Harcourt,Residential,288.2,Active,Grid Electricity
+EN02139,Lagos,Residential,368.3,Active,Generator
+EN02140,Benin City,Small Business,451.8,Active,Grid Electricity
+EN02141,Lagos,Industrial,10335.2,Active,Grid Electricity
+EN02142,Lagos,Residential,136.9,Active,Grid + Solar
+EN02143,Abuja,Small Business,812.3,Active,Grid + Solar
+EN02144,Aba,Residential,250.1,Active,Grid + Solar
+EN02145,Port Harcourt,Residential,179.9,Active,Grid + Generator
+EN02146,Lagos,Industrial,11646.5,Active,Grid Electricity
+EN02147,Enugu,Residential,165.9,Active,Grid + Solar
+EN02148,Ibadan,Residential,65.9,Active,Grid Electricity
+EN02149,Lagos,Public Institution,468.0,Active,Grid Electricity
+EN02150,Ibadan,Residential,257.3,Active,Grid Electricity
+EN02151,Abuja,Residential,170.1,Active,Grid + Generator
+EN02152,Enugu,Commercial,860.2,Active,Grid Electricity
+EN02153,Lagos,Industrial,5236.6,Active,Grid Electricity
+EN02154,Lagos,Small Business,1025.8,Active,Grid + Generator
+EN02155,Benin City,Commercial,2550.5,Active,Grid Electricity
+EN02156,Port Harcourt,Residential,89.5,Active,Grid + Generator
+EN02157,Port Harcourt,Small Business,1264.1,Inactive,Grid Electricity
+EN02158,Abuja,Commercial,1528.6,Active,Grid + Solar
+EN02159,Lagos,Residential,375.8,Active,Solar
+EN02160,Benin City,Residential,348.8,Active,Grid + Solar
+EN02161,Kano,Industrial,6279.5,Active,Grid Electricity
+EN02162,Abuja,Residential,98.8,Active,Grid Electricity
+EN02163,Port Harcourt,Residential,409.6,Active,Grid + Solar
+EN02164,Benin City,Residential,220.7,Inactive,Grid Electricity
+EN02165,Benin City,Residential,186.1,Active,Grid Electricity
+EN02166,Benin City,Residential,1207.6,Active,Grid Electricity
+EN02167,Abuja,Residential,240.5,Active,Grid + Generator
+EN02168,Lagos,Residential,110.1,Active,Grid Electricity
+EN02169,Kaduna,Residential,68.1,Active,Solar
+EN02170,Ibadan,Small Business,287.6,Active,Solar
+EN02171,Ibadan,Commercial,1247.3,Inactive,Grid Electricity
+EN02172,Lagos,Residential,212.7,Inactive,Grid Electricity
+EN02173,Kano,Residential,119.5,Active,Grid Electricity
+EN02174,Abuja,Public Institution,999.1,Active,Grid Electricity
+EN02175,Lagos,Small Business,417.1,Active,Grid Electricity
+EN02176,Ibadan,Public Institution,,Suspended,Generator
+EN02177,Benin City,Residential,535.5,Active,Grid Electricity
+EN02178,Abuja,Residential,66.3,Active,Grid Electricity
+EN02179,Benin City,Commercial,1264.2,Active,Grid Electricity
+EN02180,Lagos,Commercial,1478.7,Active,Grid Electricity
+EN02181,Ibadan,Residential,293.8,Active,
+EN02182,Abuja,Public Institution,Error,Active,Grid Electricity
+EN02183,Benin City,Commercial,"5,2O0",Pending,Solar
+EN02184,Lagos,Small Business,950.5,Active,Grid + Generator
+EN02185,Benin City,Residential,719.9,Active,Grid + Generator
+EN02186,Enugu,Small Business,452.6,Active,Grid Electricity
+EN02187,Kano,Residential,185.9,Active,Grid Electricity
+EN02188,Port Harcourt,Residential,238.9,Active,Grid Electricity
+EN02189,Abuja,Residential,333.6,Active,Grid Electricity
+EN02190,Lagos,Residential,409.6,Active,Generator
+EN02191,Benin City,Small Business,551.3,Active,Grid Electricity
+EN02192,Lagos,Residential,402.6,Active,Generator
+EN02193,Lagos,Residential,529.0,Active,Grid Electricity
+EN02194,Kano,Residential,670.9,Active,Grid Electricity
+EN02195,Port Harcourt,Residential,Unknown,Active,Grid Electricity
+EN02196,Abuja,Residential,263.6,Active,Grid Electricity
+EN02197,Jos,Residential,116.8,Suspended,Grid Electricity
+EN02198,Benin City,Small Business,755.7,Active,Grid + Solar
+EN02199,Port Harcourt,Residential,74.8,Active,Grid Electricity
+EN02200,Port Harcourt,Residential,375.4,Active,Grid Electricity
+EN02201,Kano,Small Business,636.7,Active,Grid Electricity
+EN02202,Aba,Commercial,2527.1,Active,Generator
+EN02203,Lagos,Residential,220.5,Active,Grid Electricity
+EN02204,Ibadan,Residential,110.3,Active,Grid Electricity
+EN02205,Port Harcourt,Public Institution,468.4,Active,Grid Electricity
+EN02206,Abuja,Commercial,1757.4,Active,Grid Electricity
+EN02207,Ibadan,Commercial,1251.3,Active,Grid Electricity
+EN02208,Abuja,Residential,258.7,Active,Solar
+EN02209,Abuja,Residential,Error,Suspended,Grid + Solar
+EN02210,Aba,Residential,,Inactive,Grid + Solar
+EN02211,Aba,Commercial,1701.2,Active,Grid Electricity
+EN02212,Abuja,Residential,145.2,Active,Grid + Generator
+EN02213,Benin City,Small Business,1081.2,Active,Grid Electricity
+EN02214,Lagos,Residential,213.0,Active,Solar
+EN02215,Ibadan,Residential,109.4,Pending,Grid Electricity
+EN02216,Kaduna,Industrial,2460.0,Active,Grid Electricity
+EN02217,Lagos,Residential,247.2,Active,Grid Electricity
+EN02218,Lagos,Residential,151.7,Active,Grid + Generator
+EN02219,Kano,Commercial,6733.7,Active,Solar
+EN02220,Ibadan,Industrial,9546.3,Inactive,Grid + Solar
+EN02221,Enugu,Small Business,636.0,Active,Grid Electricity
+EN02222,Ibadan,Residential,112.5,Active,Grid Electricity
+EN02223,Abuja,Residential,142.1,Active,Solar
+EN02224,Kano,Small Business,313.4,Active,Grid + Solar
+EN02225,Ibadan,Residential,114.0,Active,Grid Electricity
+EN02226,Kano,Industrial,5784.8,Suspended,Grid + Generator
+EN02227,Abuja,Residential,Unknown,Active,Grid + Solar
+EN02228,,Small Business,414.2,Active,Generator
+EN02229,Kano,Commercial,1177.7,Inactive,Grid Electricity
+EN02230,Lagos,Small Business,1140.4,,Grid Electricity
+EN02231,Port Harcourt,Residential,266.1,Inactive,Grid Electricity
+EN02232,Jos,Residential,294.4,Inactive,Grid Electricity
+EN02233,Lagos,Residential,168.7,Active,Grid + Solar
+EN02234,Benin City,Residential,,Active,Grid Electricity
+EN02235,Lagos,Residential,374.7,Active,Grid Electricity
+EN02236,Lagos,Residential,312.3,Suspended,Grid Electricity
+EN02237,Abuja,Residential,103.7,Pending,Grid + Solar
+EN02238,Abuja,Residential,222.9,Active,Grid Electricity
+EN02239,Kano,Small Business,985.4,Active,Grid + Solar
+EN02240,Enugu,Small Business,1134.1,Active,Grid + Generator
+EN02241,Kano,Commercial,,Active,
+EN02242,Kaduna,Industrial,5541.0,Inactive,Grid Electricity
+EN02243,Abuja,Residential,81.8,Active,Grid Electricity
+EN02244,Enugu,Small Business,180.7,Suspended,Grid Electricity
+EN02245,Ibadan,Residential,195.1,Active,Generator
+EN02246,Abuja,Commercial,371.3,Active,Grid + Generator
+EN02247,Kano,Residential,569.1,Suspended,Grid Electricity
+EN02248,Jos,Residential,175.2,Inactive,Solar
+EN02249,Port Harcourt,Residential,119.5,Active,Generator
+EN02250,Kano,Residential,105.0,Active,Grid Electricity
+EN02251,Ibadan,Residential,208.9,Active,Grid + Solar
+EN02252,Port Harcourt,Public Institution,2120.6,Active,Grid Electricity
+EN02253,Lagos,Commercial,2109.3,Inactive,Grid + Solar
+EN02254,Abuja,,227.6,Active,Grid Electricity
+EN02255,Enugu,Residential,156.2,Active,Grid Electricity
+EN02256,Port Harcourt,Residential,245.0,Active,Grid + Generator
+EN02257,Port Harcourt,Residential,178.4,Active,Solar
+EN02258,Benin City,Residential,818.5,Active,Grid Electricity
+EN02259,Abuja,Residential,431.8,Active,Grid + Solar
+EN02260,Abuja,Residential,376.8,Active,Grid Electricity
+EN02261,Lagos,Residential,261.0,Active,Grid Electricity
+EN02262,Abuja,Small Business,870.5,Suspended,Grid Electricity
+EN02263,Lagos,Residential,417.0,Active,Grid Electricity
+EN02264,Enugu,Residential,131.3,Active,Solar
+EN02265,Ibadan,Residential,583.0,Inactive,Grid + Generator
+EN02266,Enugu,Commercial,Error,Active,Grid Electricity
+EN02267,Lagos,Residential,218.4,Pending,Solar
+EN02268,Jos,Residential,319.1,Active,Grid Electricity
+EN02269,Kano,Small Business,882.8,Active,Grid + Generator
+EN02270,,Commercial,638.5,Active,Grid Electricity
+EN02271,Kano,Residential,109.3,Active,Solar
+EN02272,Abuja,Residential,131.1,Active,Grid Electricity
+EN02273,Lagos,Industrial,9867.5,Pending,Grid Electricity
+EN02274,Lagos,Small Business,1184.3,Active,Grid + Solar
+EN02275,Port Harcourt,Residential,663.9,Active,Grid Electricity
+EN02276,Aba,Small Business,1164.1,Active,Grid + Generator
+EN02277,Lagos,Residential,446.8,Suspended,Grid Electricity
+EN02278,Abuja,Residential,605.9,Inactive,Grid Electricity
+EN02279,Jos,Small Business,735.6,Inactive,Grid Electricity
+EN02280,Kano,Commercial,1179.7,Suspended,Grid Electricity
+EN02281,Jos,Residential,112.3,Active,Solar
+EN02282,Ibadan,Residential,256.0,Active,Solar
+EN02283,Kaduna,Public Institution,1221.9,Active,Grid + Solar
+EN02284,Port Harcourt,Commercial,989.6,Pending,Grid + Solar
+EN02285,Lagos,Public Institution,914.4,Active,Grid + Generator
+EN02286,Abuja,Small Business,884.7,Active,Grid Electricity
+EN02287,Kano,Commercial,5076.5,Active,Generator
+EN02288,Enugu,Residential,265.3,Inactive,Grid + Solar
+EN02289,Lagos,Residential,192.8,Active,Grid Electricity
+EN02290,Jos,Commercial,Unknown,Active,Grid Electricity
+EN02291,Abuja,Residential,216.5,Inactive,Solar
+EN02292,Abuja,Residential,303.6,Active,Grid Electricity
+EN02293,Lagos,Residential,175.0,Active,Solar
+EN02294,Benin City,Residential,595.6,Inactive,Generator
+EN02295,Lagos,Public Institution,770.6,Active,Grid Electricity
+EN02296,Lagos,Residential,164.4,Inactive,Grid Electricity
+EN02297,Kaduna,Commercial,1323.9,Active,Grid Electricity
+EN02298,Lagos,Commercial,1254.1,Active,Grid Electricity
+EN02299,Kaduna,Commercial,2564.1,Active,Grid + Solar
+EN02300,Lagos,Industrial,8595.1,Active,Grid Electricity
+EN02301,Ibadan,Residential,441.5,Active,Grid Electricity
+EN02302,Lagos,Industrial,12414.7,Active,Grid Electricity
+EN02303,Ibadan,Residential,,Active,Grid Electricity
+EN02304,Abuja,Residential,286.3,Active,Solar
+EN02305,Aba,Residential,369.0,Active,Grid Electricity
+EN02306,Ibadan,Commercial,326.5,Active,Grid + Solar
+EN02307,Abuja,Commercial,1193.0,Inactive,Grid + Solar
+EN02308,Ibadan,Commercial,2674.5,Active,Generator
+EN02309,Kano,Small Business,,Inactive,Generator
+EN02310,Lagos,Residential,156.6,Inactive,Grid + Solar
+EN02311,Abuja,Small Business,412.7,Active,Grid + Solar
+EN02312,Kaduna,Residential,148.7,Active,Solar
+EN02313,Lagos,Residential,347.4,Pending,Grid + Solar
+EN02314,Lagos,Residential,73.8,Active,Grid + Solar
+EN02315,Enugu,Small Business,758.5,Active,Grid Electricity
+EN02316,Lagos,Residential,182.5,Active,Grid Electricity
+EN02317,Ibadan,Small Business,656.5,Active,Generator
+EN02318,Lagos,Residential,815.6,Inactive,Grid Electricity
+EN02319,Port Harcourt,Commercial,939.5,Inactive,Grid Electricity
+EN02320,Aba,Small Business,562.6,Active,Generator
+EN02321,Benin City,Residential,83.3,Inactive,Grid Electricity
+EN02322,Enugu,Residential,370.8,Active,Grid + Solar
+EN02323,Kaduna,Residential,399.8,Active,Grid Electricity
+EN02324,Benin City,Residential,166.8,Active,Grid Electricity
+EN02325,Ibadan,Residential,133.7,Active,Grid Electricity
+EN02326,Enugu,Small Business,306.9,Active,Grid Electricity
+EN02327,Lagos,Industrial,1523.8,Active,Solar
+EN02328,Enugu,Residential,707.8,Pending,Grid Electricity
+EN02329,Abuja,Small Business,1199.2,Active,Grid Electricity
+EN02330,Abuja,Public Institution,833.1,Active,Grid Electricity
+EN02331,Ibadan,Residential,222.7,Pending,Solar
+EN02332,Ibadan,Residential,85.7,Active,Generator
+EN02333,Port Harcourt,Residential,Pending,Active,Grid Electricity
+EN02334,Kano,Residential,110.1,Active,Grid Electricity
+EN02335,Lagos,Residential,87.3,Active,Grid Electricity
+EN02336,Port Harcourt,Residential,543.6,Active,Grid + Generator
+EN02337,Port Harcourt,Residential,221.2,Active,Grid Electricity
+EN02338,Port Harcourt,Small Business,929.3,Active,Grid + Solar
+EN02339,Kaduna,Small Business,1385.0,Active,Grid Electricity
+EN02340,Lagos,Residential,290.8,Active,Grid + Solar
+EN02341,Abuja,Small Business,1046.8,Active,Grid Electricity
+EN02342,Lagos,Residential,647.6,Active,Generator
+EN02343,Ibadan,Residential,139.9,Active,Grid Electricity
+EN02344,Port Harcourt,Industrial,1792.7,Suspended,Grid Electricity
+EN02345,Lagos,Small Business,483.1,Inactive,Grid + Solar
+EN02346,Port Harcourt,Residential,269.6,Pending,Grid Electricity
+EN02347,Ibadan,Residential,286.1,Inactive,
+EN02348,Abuja,Small Business,1030.8,Active,Solar
+EN02349,Kaduna,Public Institution,198.8,Active,Grid Electricity
+EN02350,Kano,Commercial,1604.9,Inactive,Grid Electricity
+EN02351,Abuja,Small Business,323.9,Active,Grid Electricity
+EN02352,Jos,Residential,183.4,Active,Grid Electricity
+EN02353,Ibadan,Commercial,1177.8,Active,Grid Electricity
+EN02354,Kaduna,Industrial,0,Inactive,Grid Electricity
+EN02355,Abuja,Public Institution,1259.5,Active,Grid Electricity
+EN02356,Lagos,Residential,129.9,Active,Solar
+EN02357,Abuja,Industrial,5884.0,Active,Grid Electricity
+EN02358,Kano,Small Business,1010.6,Active,Grid + Solar
+EN02359,Ibadan,Residential,312.9,Active,Generator
+EN02360,Ibadan,Commercial,1271.9,Active,Grid + Solar
+EN02361,Enugu,Residential,168.2,Active,Solar
+EN02362,Aba,Residential,1074.1,Active,Generator
+EN02363,Benin City,Small Business,312.5,Inactive,Generator
+EN02364,Aba,Residential,293.4,Active,Grid Electricity
+EN02365,Aba,Industrial,3958.0,Active,Generator
+EN02366,Lagos,Small Business,190.7,Active,Grid Electricity
+EN02367,Kaduna,Small Business,501.1,Active,Grid + Solar
+EN02368,Ibadan,Commercial,2058.2,Active,Grid Electricity
+EN02369,Lagos,Residential,,Active,Grid + Solar
+EN02370,Lagos,Residential,282.2,Suspended,Grid Electricity
+EN02371,Enugu,Residential,393.6,Active,Grid Electricity
+EN02372,Kaduna,Public Institution,1252.4,Active,Grid Electricity
+EN02373,Port Harcourt,Residential,106.8,Active,Generator
+EN02374,Enugu,Public Institution,307.1,Active,Grid + Solar
+EN02375,Lagos,Residential,481.8,Active,Solar
+EN02376,Abuja,Residential,Pending,Active,Grid Electricity
+EN02377,Abuja,Residential,428.2,Active,Grid + Solar
+EN02378,Port Harcourt,Small Business,614.8,Active,Solar
+EN02379,Ibadan,Residential,,Active,Grid Electricity
+EN02380,Kano,Residential,623.4,Active,Grid + Generator
+EN02381,Aba,Small Business,786.8,Active,Grid Electricity
+EN02382,Kaduna,Commercial,1900.0,Active,Grid Electricity
+EN02383,Kaduna,Industrial,3229.1,Active,Generator
+EN02384,Jos,Industrial,3961.3,Suspended,Grid + Solar
+EN02385,Ibadan,Commercial,2493.5,Active,Generator
+EN02386,Jos,Small Business,476.5,Active,Generator
+EN02387,Benin City,Small Business,536.0,Active,Grid Electricity
+EN02388,Benin City,,1047.0,Active,Grid + Solar
+EN02389,Lagos,Small Business,724.7,Inactive,Grid Electricity
+EN02390,Enugu,Residential,525.5,Pending,Grid + Solar
+EN02391,Enugu,Residential,114.7,Active,Grid + Solar
+EN02392,Port Harcourt,Residential,225.3,Active,Generator
+EN02393,Jos,Residential,1432.6,Active,Grid + Solar
+EN02394,Port Harcourt,Small Business,353.6,Active,Solar
+EN02395,Aba,Small Business,79.5,Active,Grid Electricity
+EN02396,Lagos,Residential,229.5,Active,Grid Electricity
+EN02397,Abuja,Residential,358.5,Active,Grid + Solar
+EN02398,Ibadan,Residential,130.3,Active,Grid + Solar
+EN02399,Benin City,Industrial,4526.2,Active,Solar
+EN02400,Aba,Commercial,2352.1,Active,Grid Electricity
+EN02401,Abuja,Small Business,501.7,Active,Solar
+EN02402,Abuja,Commercial,1277.4,Active,Grid Electricity
+EN02403,Enugu,Small Business,1428.2,Active,Solar
+EN02404,Enugu,Residential,734.7,Active,Grid Electricity
+EN02405,Kano,Small Business,1133.3,Active,Solar
+EN02406,Lagos,Residential,315.6,Suspended,Grid + Generator
+EN02407,Abuja,Small Business,,Active,Grid Electricity
+EN02408,Kano,Commercial,824.3,Active,Grid Electricity
+EN02409,Ibadan,Residential,Error,Active,Solar
+EN02410,Enugu,Residential,329.6,Active,Grid + Solar
+EN02411,,Small Business,496.0,Active,Generator
+EN02412,Port Harcourt,Small Business,305.9,Active,Grid Electricity
+EN02413,Ibadan,Residential,169.8,Active,Grid Electricity
+EN02414,Kano,Small Business,450.6,Active,Grid Electricity
+EN02415,Lagos,Residential,422.9,Inactive,Grid + Generator
+EN02416,Abuja,Residential,121.2,Active,Grid + Solar
+EN02417,Port Harcourt,Residential,298.1,Suspended,Grid Electricity
+EN02418,Kaduna,Residential,245.1,Active,Grid Electricity
+EN02419,Benin City,Small Business,322.4,Active,Generator
+EN02420,Enugu,Commercial,915.0,Active,Grid Electricity
+EN02421,Kano,Public Institution,630.3,Active,Solar
+EN02422,Abuja,Small Business,Pending,Active,Solar
+EN02423,Abuja,Commercial,1769.9,Suspended,Grid + Generator
+EN02424,Abuja,Residential,62.6,Active,Generator
+EN02425,Kano,Residential,456.2,Suspended,Grid Electricity
+EN02426,Port Harcourt,Residential,167.7,Active,Grid Electricity
+EN02427,Enugu,Small Business,671.5,Active,Generator
+EN02428,Kano,Residential,180.6,Active,Grid Electricity
+EN02429,Port Harcourt,Residential,167.9,Active,Generator
+EN02430,Lagos,Residential,1019.3,Active,Grid Electricity
+EN02431,Kaduna,Small Business,636.1,Active,Grid + Generator
+EN02432,Aba,Residential,176.9,Active,Solar
+EN02433,Lagos,Commercial,895.6,Active,Generator
+EN02434,Ibadan,Residential,286.1,Active,Grid Electricity
+EN02435,Lagos,Residential,256.8,Inactive,Grid + Generator
+EN02436,Aba,Small Business,176.5,Active,Grid Electricity
+EN02437,Jos,Residential,268.1,Active,Grid Electricity
+EN02438,Abuja,Small Business,529.1,Active,Grid Electricity
+EN02439,Lagos,Commercial,926.0,Suspended,Generator
+EN02440,Kano,Residential,946.7,Active,Generator
+EN02441,Lagos,Residential,257.4,Active,Grid Electricity
+EN02442,Kaduna,Commercial,791.3,Active,Grid Electricity
+EN02443,Abuja,Residential,335.8,Active,Grid + Solar
+EN02444,Jos,Residential,581.0,Active,Grid Electricity
+EN02445,Lagos,Residential,355.2,Active,Grid Electricity
+EN02446,Lagos,Residential,327.5,Active,Grid + Solar
+EN02447,Port Harcourt,Small Business,339.3,Suspended,Generator
+EN02448,Abuja,Residential,0,Active,Grid + Generator
+EN02449,Kano,Residential,178.6,Active,Grid Electricity
+EN02450,Benin City,Residential,342.5,Active,Grid + Generator
+EN02451,Ibadan,Residential,114.9,Active,Grid + Generator
+EN02452,Enugu,Small Business,1014.1,Inactive,Grid Electricity
+EN02453,Jos,Residential,786.8,Active,Grid Electricity
+EN02454,Jos,Residential,275.9,Active,Grid + Generator
+EN02455,Kaduna,Residential,490.4,Active,Grid + Solar
+EN02456,Kaduna,Commercial,1068.8,Active,Grid Electricity
+EN02457,Abuja,Residential,74.6,Active,Grid Electricity
+EN02458,Aba,Small Business,,Inactive,Grid + Generator
+EN02459,Aba,Commercial,1023.7,Active,Grid + Solar
+EN02460,Kano,Residential,255.7,Active,Solar
+EN02461,Ibadan,Commercial,1978.1,Active,Grid Electricity
+EN02462,Ibadan,Small Business,401.6,Active,Grid Electricity
+EN02463,Benin City,Commercial,801.4,Active,Grid Electricity
+EN02464,Lagos,Residential,234.7,Active,Solar
+EN02465,Lagos,Residential,732.4,Inactive,Grid Electricity
+EN02466,Enugu,Residential,141.1,Active,Grid Electricity
+EN02467,Lagos,Residential,195.8,Active,Grid + Solar
+EN02468,Abuja,Small Business,525.7,Active,Grid Electricity
+EN02469,Abuja,Small Business,814.6,Active,Solar
+EN02470,Lagos,Residential,433.5,Active,Grid Electricity
+EN02471,Abuja,Commercial,1385.5,Active,Grid + Generator
+EN02472,Ibadan,Commercial,1188.8,Suspended,Grid Electricity
+EN02473,Lagos,Residential,180.7,Inactive,Grid Electricity
+EN02474,,Commercial,2562.2,Active,Grid Electricity
+EN02475,Aba,Industrial,10003.9,Active,Grid Electricity
+EN02476,Lagos,Small Business,814.1,,Grid Electricity
+EN02477,Lagos,Small Business,452.2,Active,Grid Electricity
+EN02478,Lagos,Commercial,1474.0,Active,Grid Electricity
+EN02479,Ibadan,Residential,169.6,Active,Grid Electricity
+EN02480,Enugu,Small Business,331.1,Active,Grid + Generator
+EN02481,Lagos,Residential,343.4,Active,Grid Electricity
+EN02482,Ibadan,Small Business,364.1,Active,Grid Electricity
+EN02483,Lagos,Residential,370.6,Active,Solar
+EN02484,Ibadan,Small Business,1268.3,Inactive,Grid Electricity
+EN02485,Abuja,Small Business,177.9,Active,Solar
+EN02486,Lagos,Industrial,6136.0,Active,Solar
+EN02487,Enugu,Commercial,1302.9,Active,Solar
+EN02488,Kano,Residential,257.7,Inactive,Grid Electricity
+EN02489,Benin City,Small Business,487.2,Active,Grid + Generator
+EN02490,Ibadan,Residential,276.7,Active,Grid Electricity
+EN02491,Port Harcourt,Residential,858.8,Active,Grid + Solar
+EN02492,Kano,Residential,213.5,Active,Grid Electricity
+EN02493,Kano,Residential,291.1,Active,Generator
+EN02494,Enugu,Small Business,472.1,Active,Grid Electricity
+EN02495,Benin City,Residential,183.0,Active,Grid Electricity
+EN02496,Lagos,Residential,165.3,Active,Grid Electricity
+EN02497,Ibadan,Commercial,789.7,Active,Grid Electricity
+EN02498,Port Harcourt,Small Business,642.2,Inactive,Grid Electricity
+EN02499,Kaduna,Small Business,1500.0,Active,Grid Electricity
+EN02500,Abuja,Residential,N/A,Active,Solar
+EN02501,Port Harcourt,Commercial,1580.5,Inactive,Grid Electricity
+EN02502,Lagos,Residential,689.8,Inactive,Grid Electricity
+EN02503,Kano,Residential,656.9,Active,Grid + Generator
+EN02504,Ibadan,Small Business,724.3,Active,Solar
+EN02505,Port Harcourt,Small Business,580.0,Active,Grid + Solar
+EN02506,Port Harcourt,Industrial,6335.2,Active,Grid Electricity
+EN02507,Aba,Residential,99.0,Active,Grid Electricity
+EN02508,Abuja,Residential,294.4,Active,Generator
+EN02509,Kaduna,Industrial,5984.7,Active,Solar
+EN02510,Abuja,Residential,152.7,Active,Grid + Solar
+EN02511,Abuja,Residential,191.7,Active,Generator
+EN02512,Port Harcourt,Small Business,503.4,Pending,Grid Electricity
+EN02513,Kaduna,Residential,789.8,Active,Solar
+EN02514,Lagos,Residential,139.5,Active,Grid Electricity
+EN02515,Port Harcourt,Residential,343.8,Active,Grid + Solar
+EN02516,Lagos,Residential,493.0,Suspended,Grid Electricity
+EN02517,Abuja,Residential,309.5,Active,Grid + Generator
+EN02518,Kano,Residential,268.8,Active,Grid + Solar
+EN02519,Lagos,Residential,1077.8,Active,Solar
+EN02520,Lagos,Commercial,932.5,Active,Grid Electricity
+EN02521,Lagos,Residential,Pending,Pending,Grid Electricity
+EN02522,Abuja,Residential,55.5,Active,Solar
+EN02523,Abuja,Industrial,Error,Active,Grid Electricity
+EN02524,Aba,Commercial,1054.1,Active,Grid Electricity
+EN02525,Lagos,Public Institution,367.7,Active,Generator
+EN02526,Enugu,Residential,513.3,Active,Grid Electricity
+EN02527,Port Harcourt,Residential,405.4,Suspended,Grid Electricity
+EN02528,Kano,Residential,661.6,Active,Grid + Solar
+EN02529,Lagos,Residential,136.4,Active,Solar
+EN02530,Abuja,Residential,184.6,Active,Grid Electricity
+EN02531,Port Harcourt,Small Business,564.9,Active,Grid Electricity
+EN02532,Lagos,Residential,313.0,Active,Grid Electricity
+EN02533,Ibadan,Residential,181.9,Active,Grid + Solar
+EN02534,Port Harcourt,Residential,287.9,Active,Solar
+EN02535,Benin City,Residential,476.3,Active,Grid Electricity
+EN02536,Enugu,Commercial,2365.2,Active,Solar
+EN02537,Ibadan,Residential,223.0,Active,Grid Electricity
+EN02538,Lagos,Small Business,2104.8,Active,Grid Electricity
+EN02539,Enugu,Residential,417.4,Pending,Grid + Generator
+EN02540,Aba,Residential,148.2,Active,Grid + Solar
+EN02541,Lagos,Industrial,5630.0,Active,Grid Electricity
+EN02542,Ibadan,Industrial,1225.9,Active,Grid Electricity
+EN02543,Ibadan,Residential,632.8,Active,
+EN02544,Enugu,Residential,285.4,Active,Grid Electricity
+EN02545,Abuja,Residential,558.5,Active,Grid + Generator
+EN02546,Lagos,Commercial,2021.9,Active,Solar
+EN02547,Port Harcourt,Residential,361.7,Active,Grid + Solar
+EN02548,Benin City,Residential,542.1,Active,Grid Electricity
+EN02549,Abuja,Residential,964.7,Active,Solar
+EN02550,Ibadan,Residential,121.0,Active,Grid Electricity
+EN02551,Kano,Residential,179.0,Active,Grid Electricity
+EN02552,Abuja,Commercial,1164.8,Active,Grid + Solar
+EN02553,Kaduna,Small Business,1867.7,Active,Grid Electricity
+EN02554,Ibadan,Residential,294.7,Inactive,Grid Electricity
+EN02555,Port Harcourt,Residential,131.7,Active,Grid Electricity
+EN02556,Jos,Residential,640.7,Active,Grid + Solar
+EN02557,Aba,Small Business,463.9,Pending,Generator
+EN02558,Kaduna,Commercial,4080.6,Active,Grid Electricity
+EN02559,Lagos,Residential,148.6,Active,Grid Electricity
+EN02560,Enugu,Industrial,7566.5,Active,Grid Electricity
+EN02561,Port Harcourt,Industrial,##VALUE!,Active,Grid Electricity
+EN02562,Port Harcourt,Industrial,9152.3,Active,Generator
+EN02563,Ibadan,Small Business,897.2,Active,Grid Electricity
+EN02564,,Public Institution,1776.9,Active,Grid Electricity
+EN02565,Kano,Small Business,511.2,Active,Grid Electricity
+EN02566,Abuja,Small Business,748.8,Active,Grid Electricity
+EN02567,Lagos,Small Business,795.2,Active,Grid Electricity
+EN02568,Enugu,Small Business,673.7,Active,Grid Electricity
+EN02569,Abuja,Residential,Unknown,Active,Grid Electricity
+EN02570,Lagos,Public Institution,630.8,Inactive,Grid + Solar
+EN02571,Abuja,Residential,115.9,Active,Grid Electricity
+EN02572,Lagos,Residential,133.1,Active,Grid + Solar
+EN02573,Ibadan,Commercial,3667.9,Active,Grid Electricity
+EN02574,Abuja,Industrial,Pending,Active,Grid Electricity
+EN02575,Abuja,Small Business,Error,Active,Grid Electricity
+EN02576,Abuja,Commercial,1602.4,Inactive,Solar
+EN02577,Lagos,Small Business,967.4,Active,Grid + Solar
+EN02578,Kaduna,Residential,154.8,Active,Grid Electricity
+EN02579,Lagos,Industrial,10550.7,Inactive,Grid Electricity
+EN02580,Lagos,Residential,371.9,Active,Grid + Solar
+EN02581,Port Harcourt,Commercial,2077.3,Active,Grid + Solar
+EN02582,Kano,Small Business,271.7,Active,Grid Electricity
+EN02583,Port Harcourt,Small Business,646.5,Active,Grid Electricity
+EN02584,Abuja,Small Business,586.6,Suspended,Generator
+EN02585,Lagos,Small Business,400.7,Active,Grid Electricity
+EN02586,Abuja,Small Business,2119.3,Active,Generator
+EN02587,Aba,Residential,297.9,Active,Grid Electricity
+EN02588,Ibadan,,227.2,Active,Generator
+EN02589,Lagos,Small Business,880.4,Active,Grid + Generator
+EN02590,,Residential,126.6,Active,Grid + Generator
+EN02591,Kano,Residential,137.2,Active,Grid Electricity
+EN02592,Ibadan,Residential,697.4,Active,Generator
+EN02593,Port Harcourt,Small Business,746.6,Suspended,Grid Electricity
+EN02594,Enugu,Residential,467.2,Active,Grid Electricity
+EN02595,Kaduna,Commercial,5685.0,Pending,Grid Electricity
+EN02596,Abuja,Residential,248.8,Inactive,Grid Electricity
+EN02597,Port Harcourt,Small Business,981.8,Active,Grid Electricity
+EN02598,Port Harcourt,Residential,605.6,Active,Solar
+EN02599,Port Harcourt,Residential,271.9,Active,Grid + Solar
+EN02600,Kano,Residential,292.1,Active,Grid Electricity
+EN02601,Lagos,Residential,417.6,Active,Grid + Solar
+EN02602,Abuja,Residential,580.1,Active,Grid Electricity
+EN02603,Lagos,Commercial,3045.5,Suspended,Grid + Generator
+EN02604,Lagos,Residential,359.2,Active,Grid Electricity
+EN02605,Enugu,Small Business,713.6,Active,
+EN02606,Port Harcourt,Small Business,980.6,Active,Solar
+EN02607,Lagos,Small Business,977.5,Active,Grid + Solar
+EN02608,Kaduna,Commercial,818.2,Active,Solar
+EN02609,Lagos,Small Business,1065.6,Active,Grid Electricity
+EN02610,Kano,Small Business,677.5,Active,Solar
+EN02611,Abuja,Industrial,,Active,Grid Electricity
+EN02612,Enugu,Small Business,650.6,Pending,Grid + Solar
+EN02613,Kano,Residential,239.2,Active,Grid Electricity
+EN02614,Lagos,Industrial,4324.5,Active,Grid + Generator
+EN02615,Kano,Residential,140.4,Active,Grid + Generator
+EN02616,Lagos,Industrial,6078.3,Active,Grid + Generator
+EN02617,Kano,Small Business,644.4,Inactive,Grid + Generator
+EN02618,Kano,Small Business,1886.0,Active,Grid + Solar
+EN02619,Kano,Small Business,274.2,Active,Grid Electricity
+EN02620,Jos,,884.1,Active,Generator
+EN02621,Abuja,Residential,717.7,Active,Generator
+EN02622,Lagos,Commercial,1239.6,Active,Grid + Solar
+EN02623,Aba,Small Business,1788.7,Active,Grid Electricity
+EN02624,Ibadan,,283.2,Active,Grid Electricity
+EN02625,Ibadan,Residential,72.7,Active,Grid Electricity
+EN02626,Abuja,Small Business,638.7,Active,Grid Electricity
+EN02627,Kaduna,Industrial,Pending,Active,Grid + Solar
+EN02628,Enugu,Residential,150.7,Active,Grid Electricity
+EN02629,Ibadan,Industrial,17774.5,Active,Generator
+EN02630,Enugu,Residential,272.1,Active,Grid Electricity
+EN02631,Abuja,Small Business,573.3,Active,Generator
+EN02632,Jos,Small Business,830.6,Active,Generator
+EN02633,Aba,Residential,38.6,Active,Grid Electricity
+EN02634,Kaduna,Residential,80.6,Active,Grid Electricity
+EN02635,Enugu,Residential,104.6,Active,Grid Electricity
+EN02636,Lagos,Public Institution,715.9,Pending,Grid + Generator
+EN02637,Abuja,Residential,310.8,Active,Grid Electricity
+EN02638,Abuja,Small Business,,Inactive,Grid Electricity
+EN02639,Abuja,Residential,248.6,Active,Grid Electricity
+EN02640,Abuja,Commercial,1998.7,Pending,Grid Electricity
+EN02641,Abuja,Residential,471.7,Active,Grid Electricity
+EN02642,Aba,Public Institution,1647.5,Active,Grid Electricity
+EN02643,Enugu,Residential,140.0,Active,Grid Electricity
+EN02644,Abuja,Small Business,331.1,Active,Grid Electricity
+EN02645,Benin City,Residential,112.9,Inactive,Grid Electricity
+EN02646,Lagos,Residential,172.1,Active,Grid Electricity
+EN02647,Lagos,Public Institution,797.2,Active,Grid + Generator
+EN02648,Abuja,Small Business,467.3,Active,Grid Electricity
+EN02649,Lagos,Residential,12O,Active,Grid + Solar
+EN02650,Kaduna,Industrial,5363.3,Inactive,Grid Electricity
+EN02651,Kano,Residential,155.5,Inactive,Grid Electricity
+EN02652,Enugu,Residential,335.3,Active,Grid Electricity
+EN02653,Abuja,Industrial,4022.8,Active,Grid Electricity
+EN02654,Benin City,Commercial,3669.9,Active,Grid Electricity
+EN02655,Lagos,Residential,501.9,Active,Solar
+EN02656,Lagos,Residential,339.3,Active,Grid + Solar
+EN02657,Kaduna,Residential,,Active,Generator
+EN02658,Port Harcourt,Residential,137.1,Pending,Grid Electricity
+EN02659,Lagos,Residential,224.7,Active,Solar
+EN02660,Lagos,,54.1,Active,Grid Electricity
+EN02661,Benin City,Residential,337.4,Inactive,Grid Electricity
+EN02662,Jos,Public Institution,1922.3,Active,Generator
+EN02663,Lagos,Public Institution,670.5,Active,Grid Electricity
+EN02664,Port Harcourt,Residential,146.1,Active,Grid Electricity
+EN02665,Lagos,Residential,157.7,Active,Grid Electricity
+EN02666,Abuja,Small Business,335.9,Suspended,Grid Electricity
+EN02667,Lagos,Small Business,2035.9,Active,Grid Electricity
+EN02668,Kaduna,Small Business,399.3,Active,Grid Electricity
+EN02669,Abuja,Residential,"5,2O0",Active,Grid + Solar
+EN02670,Abuja,Residential,327.9,Active,Grid Electricity
+EN02671,Aba,Residential,207.1,Inactive,Grid Electricity
+EN02672,Port Harcourt,Small Business,1222.5,Active,Grid Electricity
+EN02673,Lagos,Residential,590.0,Active,Grid Electricity
+EN02674,Abuja,Residential,441.6,Active,Grid Electricity
+EN02675,Enugu,Residential,297.6,Active,Grid + Solar
+EN02676,Abuja,Small Business,909.4,Active,Generator
+EN02677,Lagos,Residential,249.7,Inactive,Grid + Solar
+EN02678,Enugu,Residential,64.5,Inactive,Grid Electricity
+EN02679,Lagos,Commercial,3028.2,Inactive,Grid + Solar
+EN02680,Kaduna,Residential,722.0,Active,Grid Electricity
+EN02681,Ibadan,Residential,761.1,Active,Grid Electricity
+EN02682,Kano,Residential,975.9,Active,Grid Electricity
+EN02683,Lagos,Residential,174.9,Active,Grid Electricity
+EN02684,Enugu,Small Business,975.1,Active,Grid + Generator
+EN02685,Lagos,Residential,57.8,Active,Grid Electricity
+EN02686,Lagos,Small Business,1678.1,Active,Grid + Solar
+EN02687,Port Harcourt,Residential,309.0,Active,Grid Electricity
+EN02688,Abuja,Residential,329.3,Active,Grid Electricity
+EN02689,Lagos,Residential,397.9,Active,Grid + Solar
+EN02690,Kano,Public Institution,912.0,Suspended,Grid + Solar
+EN02691,Abuja,Residential,74.4,Active,Solar
+EN02692,Kano,Small Business,733.6,Active,Grid Electricity
+EN02693,Kano,Small Business,1294.5,Active,Grid Electricity
+EN02694,Aba,Residential,148.8,Active,Solar
+EN02695,Lagos,Residential,348.1,Active,Grid Electricity
+EN02696,Abuja,Residential,"5,2O0",Active,Grid Electricity
+EN02697,Kaduna,Small Business,795.8,Pending,Grid Electricity
+EN02698,Lagos,Residential,84.0,Active,Grid + Solar
+EN02699,Benin City,Residential,284.4,Active,Solar
+EN02700,Lagos,Commercial,1304.8,Active,Solar
+EN02701,Lagos,Residential,166.7,Active,Grid Electricity
+EN02702,Benin City,Residential,217.6,Active,Solar
+EN02703,Port Harcourt,Small Business,1258.4,Inactive,Grid + Solar
+EN02704,Benin City,Small Business,1255.2,Active,Grid + Solar
+EN02705,Kano,Residential,,Active,Solar
+EN02706,Ibadan,Public Institution,803.8,Active,Grid Electricity
+EN02707,Kano,Commercial,944.8,Active,Grid Electricity
+EN02708,Aba,Residential,198.4,Active,Grid + Generator
+EN02709,Lagos,Commercial,1169.8,Inactive,Grid Electricity
+EN02710,Kano,Commercial,1244.2,Active,Grid Electricity
+EN02711,Enugu,Small Business,810.8,Active,Grid Electricity
+EN02712,Abuja,Industrial,7589.3,Active,Grid Electricity
+EN02713,Ibadan,Small Business,449.3,Suspended,
+EN02714,Kaduna,Residential,163.6,Suspended,Grid + Solar
+EN02715,Benin City,Small Business,190.7,Inactive,Solar
+EN02716,Lagos,Small Business,632.1,Active,Grid Electricity
+EN02717,Lagos,Residential,291.0,Suspended,Solar
+EN02718,Abuja,Residential,609.3,Active,Grid + Generator
+EN02719,Kano,Small Business,624.0,Active,Solar
+EN02720,Kano,Residential,525.5,Active,Grid Electricity
+EN02721,Ibadan,Residential,138.7,Active,Grid Electricity
+EN02722,Enugu,Residential,177.2,Active,Grid Electricity
+EN02723,Abuja,Residential,113.2,Active,Grid Electricity
+EN02724,Kano,Residential,228.0,Active,Grid + Generator
+EN02725,Ibadan,Residential,639.3,Active,Grid Electricity
+EN02726,Jos,Residential,220.5,Active,Grid + Generator
+EN02727,Abuja,Commercial,2475.1,Suspended,Grid Electricity
+EN02728,Port Harcourt,Industrial,1704.1,Active,Grid Electricity
+EN02729,Kano,Small Business,408.6,Active,Solar
+EN02730,Abuja,Residential,336.3,Active,Grid Electricity
+EN02731,Enugu,Commercial,719.8,Suspended,Grid Electricity
+EN02732,Jos,Industrial,4631.8,Active,Grid Electricity
+EN02733,Lagos,Residential,295.4,Active,Generator
+EN02734,Kano,Commercial,2307.5,Inactive,Grid Electricity
+EN02735,Port Harcourt,Residential,277.6,Active,Grid Electricity
+EN02736,Kano,Industrial,3161.2,Active,Grid Electricity
+EN02737,Port Harcourt,Commercial,,Active,Grid + Solar
+EN02738,Abuja,Residential,169.2,Active,Grid + Solar
+EN02739,Benin City,Residential,169.8,Suspended,Solar
+EN02740,Abuja,Small Business,385.6,Active,Generator
+EN02741,Kano,Residential,243.6,Active,Solar
+EN02742,,Residential,99.0,Active,Grid + Generator
+EN02743,Abuja,Industrial,3031.2,Active,Grid Electricity
+EN02744,Benin City,Commercial,812.6,Active,Grid Electricity
+EN02745,,Residential,180.9,Suspended,Grid Electricity
+EN02746,Port Harcourt,Commercial,2227.3,Active,Grid Electricity
+EN02747,Kano,Small Business,469.4,Active,Grid Electricity
+EN02748,Port Harcourt,Small Business,565.1,Active,Grid Electricity
+EN02749,Lagos,Residential,,Active,Grid Electricity
+EN02750,Port Harcourt,Residential,,Active,Grid Electricity
+EN02751,Enugu,Small Business,230.1,Active,Grid Electricity
+EN02752,Aba,Residential,337.1,Active,Grid Electricity
+EN02753,Abuja,Residential,310.6,Active,Grid Electricity
+EN02754,Port Harcourt,Residential,,Active,Grid Electricity
+EN02755,Enugu,Small Business,844.2,Active,Grid + Solar
+EN02756,Aba,Small Business,386.2,Active,Generator
+EN02757,Ibadan,Residential,No Reading,Pending,Grid Electricity
+EN02758,Lagos,Public Institution,478.0,Active,Grid Electricity
+EN02759,Abuja,Residential,537.0,Inactive,Grid Electricity
+EN02760,Aba,Industrial,5504.5,Active,Grid + Generator
+EN02761,Abuja,Residential,175.1,Suspended,Solar
+EN02762,Abuja,Residential,241.4,Active,Grid + Solar
+EN02763,Abuja,Residential,382.3,Pending,Generator
+EN02764,Enugu,Small Business,341.6,Suspended,Grid Electricity
+EN02765,Aba,Small Business,1107.9,Active,Grid Electricity
+EN02766,Enugu,Small Business,1525.7,Inactive,Generator
+EN02767,Abuja,Commercial,,Active,Generator
+EN02768,Lagos,Residential,101.7,Active,Grid Electricity
+EN02769,Abuja,Residential,70.1,Active,Grid Electricity
+EN02770,Lagos,Industrial,5160.7,Inactive,Grid Electricity
+EN02771,Jos,Residential,107.6,Inactive,Grid Electricity
+EN02772,Kano,Industrial,6853.6,Active,Generator
+EN02773,Kano,Residential,62.2,Inactive,Grid Electricity
+EN02774,Kaduna,Residential,291.9,Active,Solar
+EN02775,Lagos,Small Business,357.4,Active,Grid Electricity
+EN02776,Ibadan,Small Business,193.0,Active,Grid Electricity
+EN02777,Jos,Residential,482.9,Active,Solar
+EN02778,Lagos,Residential,614.0,Pending,Grid + Solar
+EN02779,Enugu,Commercial,N/A,Pending,Grid Electricity
+EN02780,Aba,Residential,170.5,Active,Grid Electricity
+EN02781,Enugu,Residential,78.1,Active,Grid Electricity
+EN02782,Lagos,Commercial,2647.0,Active,Grid Electricity
+EN02783,Ibadan,Commercial,804.8,Active,Grid Electricity
+EN02784,Kaduna,Small Business,224.2,Suspended,Grid Electricity
+EN02785,Ibadan,Public Institution,410.7,Suspended,Grid Electricity
+EN02786,Kano,Small Business,901.6,Active,Solar
+EN02787,Kaduna,Residential,436.0,Active,Grid Electricity
+EN02788,Aba,Commercial,2425.7,Active,Grid Electricity
+EN02789,Port Harcourt,Residential,124.6,Active,Generator
+EN02790,Aba,Small Business,997.2,Inactive,Grid Electricity
+EN02791,Lagos,Residential,167.3,Pending,Grid Electricity
+EN02792,Jos,Residential,12O,Active,Grid Electricity
+EN02793,Kaduna,Residential,688.0,Active,Grid Electricity
+EN02794,Lagos,Residential,163.2,Active,Grid Electricity
+EN02795,Abuja,Residential,253.9,Active,Grid Electricity
+EN02796,Abuja,Small Business,895.0,Active,Grid + Generator
+EN02797,Lagos,Residential,130.1,Active,Grid Electricity
+EN02798,Benin City,Residential,128.6,Inactive,Generator
+EN02799,Ibadan,Residential,201.1,Active,Grid + Generator
+EN02800,Abuja,Small Business,933.2,Pending,Grid + Solar
+EN02801,Lagos,Commercial,863.0,Active,Grid Electricity
+EN02802,Ibadan,Residential,146.0,Active,Grid + Solar
+EN02803,Enugu,Small Business,310.7,Active,Grid Electricity
+EN02804,Ibadan,Residential,374.4,Inactive,Grid + Solar
+EN02805,Enugu,Small Business,321.7,Active,Grid Electricity
+EN02806,Port Harcourt,Residential,113.5,Pending,Grid Electricity
+EN02807,Abuja,Residential,357.0,Active,Grid + Generator
+EN02808,Port Harcourt,Industrial,,Pending,Grid + Solar
+EN02809,Ibadan,Commercial,4873.3,Active,Generator
+EN02810,Lagos,Small Business,709.4,Active,Solar
+EN02811,Ibadan,Residential,532.5,Active,Grid Electricity
+EN02812,Port Harcourt,Residential,264.1,Active,Grid + Solar
+EN02813,Ibadan,Commercial,-45,Active,Grid Electricity
+EN02814,Enugu,Small Business,,Active,Grid Electricity
+EN02815,Enugu,Small Business,887.1,Active,Grid + Solar
+EN02816,Enugu,Residential,536.7,Active,Grid Electricity
+EN02817,Jos,Residential,55.7,Active,Grid + Solar
+EN02818,Abuja,Public Institution,439.4,Active,Generator
+EN02819,Lagos,Small Business,391.9,Active,Generator
+EN02820,,Small Business,364.5,Active,Grid Electricity
+EN02821,Port Harcourt,Residential,352.6,Active,Grid Electricity
+EN02822,Port Harcourt,Residential,265.7,Active,Grid + Solar
+EN02823,Port Harcourt,Small Business,479.3,Active,Solar
+EN02824,Abuja,Residential,167.4,Active,Grid Electricity
+EN02825,Aba,Residential,189.0,Active,Grid Electricity
+EN02826,Enugu,Residential,218.6,Inactive,Generator
+EN02827,Ibadan,Commercial,3499.3,Active,Generator
+EN02828,Ibadan,Public Institution,1224.5,Inactive,Grid + Generator
+EN02829,Kano,Residential,390.1,Inactive,Grid Electricity
+EN02830,Lagos,Residential,193.9,Active,Generator
+EN02831,Kano,Residential,No Reading,,Grid Electricity
+EN02832,Aba,Commercial,1556.9,Suspended,Grid + Solar
+EN02833,Lagos,Commercial,1499.0,Active,Solar
+EN02834,Kano,Residential,604.9,Active,Grid + Solar
+EN02835,Enugu,Residential,165.5,Active,Grid Electricity
+EN02836,Ibadan,Residential,164.2,Inactive,Grid Electricity
+EN02837,Abuja,Residential,105.5,Pending,Grid + Solar
+EN02838,Jos,Commercial,1317.3,Active,Generator
+EN02839,Benin City,Residential,160.4,Active,Grid Electricity
+EN02840,Ibadan,Commercial,1263.1,Active,Grid Electricity
+EN02841,Lagos,Small Business,1251.2,Inactive,Grid Electricity
+EN02842,Port Harcourt,Small Business,596.0,Active,Grid + Generator
+EN02843,Abuja,Industrial,7959.4,Active,Generator
+EN02844,Aba,Commercial,1446.2,Active,Grid Electricity
+EN02845,Ibadan,Small Business,309.1,,Grid Electricity
+EN02846,Abuja,Small Business,777.1,Active,Generator
+EN02847,Lagos,Residential,57.8,Active,Grid Electricity
+EN02848,Abuja,Small Business,509.1,Active,Grid Electricity
+EN02849,Lagos,Small Business,1124.6,Active,Grid + Solar
+EN02850,Lagos,Small Business,595.6,Active,Grid Electricity
+EN02851,Abuja,Residential,432.5,Active,Grid Electricity
+EN02852,Jos,Residential,270.6,Active,Grid Electricity
+EN02853,Port Harcourt,Residential,212.0,Active,Grid Electricity
+EN02854,Aba,Commercial,412.8,Active,Generator
+EN02855,Lagos,Small Business,333.3,Active,Solar
+EN02856,Abuja,Residential,221.7,Active,Grid Electricity
+EN02857,Lagos,Commercial,2255.6,Active,Grid + Generator
+EN02858,Kano,Residential,126.8,Active,Grid + Generator
+EN02859,Port Harcourt,Small Business,502.1,Active,Grid + Solar
+EN02860,Lagos,Residential,86.4,Active,Solar
+EN02861,Lagos,Residential,1835.8,Active,Grid Electricity
+EN02862,Lagos,Residential,368.8,Active,Grid + Solar
+EN02863,Enugu,Small Business,1403.2,Active,Grid Electricity
+EN02864,Ibadan,Small Business,1002.6,Active,Solar
+EN02865,Aba,Residential,228.1,Active,Grid + Solar
+EN02866,Lagos,Residential,446.9,Active,Solar
+EN02867,Port Harcourt,Residential,226.4,Active,Grid Electricity
+EN02868,Benin City,Commercial,2779.8,Active,Solar
+EN02869,Ibadan,Residential,106.9,Active,Grid + Solar
+EN02870,Port Harcourt,Residential,146.0,Suspended,Grid Electricity
+EN02871,Ibadan,Residential,344.5,Active,Grid Electricity
+EN02872,Jos,Residential,163.6,Active,Grid Electricity
+EN02873,Port Harcourt,Residential,204.7,Inactive,Grid + Generator
+EN02874,Kano,Residential,188.4,Active,Grid + Solar
+EN02875,Kano,Residential,678.4,Active,Grid Electricity
+EN02876,Lagos,Residential,805.0,Pending,Grid Electricity
+EN02877,Kano,Residential,426.8,Active,Grid Electricity
+EN02878,Port Harcourt,Residential,153.2,Active,Grid Electricity
+EN02879,Kano,Residential,106.4,Active,Solar
+EN02880,Jos,Residential,269.4,Active,Grid Electricity
+EN02881,Ibadan,Residential,240.4,Active,Grid Electricity
+EN02882,Kaduna,Residential,224.0,Active,Grid Electricity
+EN02883,Lagos,Residential,344.7,Inactive,Solar
+EN02884,Abuja,Industrial,10880.7,Inactive,Generator
+EN02885,Abuja,Small Business,845.6,Active,Grid Electricity
+EN02886,Enugu,Public Institution,1523.5,Inactive,Grid Electricity
+EN02887,Aba,Commercial,946.3,Active,Grid + Solar
+EN02888,Port Harcourt,Residential,219.4,Suspended,Grid Electricity
+EN02889,Ibadan,Residential,121.2,Active,Grid Electricity
+EN02890,Abuja,Residential,100.4,Pending,Grid Electricity
+EN02891,Lagos,Residential,72.1,Active,Solar
+EN02892,Lagos,Residential,84.5,Active,Solar
+EN02893,Port Harcourt,Small Business,597.5,Active,Grid Electricity
+EN02894,Abuja,Small Business,422.8,Active,Grid Electricity
+EN02895,Benin City,Small Business,332.4,Active,Grid Electricity
+EN02896,Lagos,Residential,124.9,Active,Grid Electricity
+EN02897,Lagos,Commercial,912.2,Active,Grid Electricity
+EN02898,Ibadan,Public Institution,1182.4,Active,Solar
+EN02899,Lagos,Residential,325.6,Active,Grid Electricity
+EN02900,Abuja,Industrial,12980.4,Active,Generator
+EN02901,Enugu,Residential,110.9,Active,Grid Electricity
+EN02902,Benin City,Residential,108.3,Active,Grid + Solar
+EN02903,Benin City,Small Business,398.0,Active,Solar
+EN02904,Jos,Small Business,793.6,Active,Grid + Generator
+EN02905,Kano,Residential,207.1,Active,Grid Electricity
+EN02906,Port Harcourt,Residential,343.4,Active,Grid Electricity
+EN02907,Enugu,Residential,260.1,Active,Grid Electricity
+EN02908,Lagos,Residential,211.3,Active,Grid + Solar
+EN02909,Kano,Residential,87.0,Pending,Grid Electricity
+EN02910,Jos,Small Business,561.7,Active,Generator
+EN02911,Kano,Residential,159.3,Pending,Generator
+EN02912,Lagos,Residential,317.3,Active,Grid Electricity
+EN02913,Kaduna,Residential,290.0,Active,Grid Electricity
+EN02914,Aba,Residential,463.1,Active,Grid + Solar
+EN02915,Lagos,Industrial,3094.9,Active,Grid Electricity
+EN02916,Ibadan,Residential,,Active,Grid Electricity
+EN02917,Lagos,Industrial,3394.0,Active,Generator
+EN02918,Lagos,Small Business,493.8,Active,Grid + Solar
+EN02919,Abuja,Commercial,1326.6,Active,Grid + Solar
+EN02920,Abuja,Residential,343.7,Suspended,Grid Electricity
+EN02921,Abuja,Commercial,1602.0,Active,Grid Electricity
+EN02922,Lagos,Residential,351.8,Active,Grid Electricity
+EN02923,,Residential,61.8,Active,Grid Electricity
+EN02924,Abuja,Small Business,577.4,Active,Grid + Solar
+EN02925,Abuja,Industrial,7457.6,Active,Solar
+EN02926,Kano,Residential,68.3,Active,Grid Electricity
+EN02927,Abuja,Residential,433.6,Active,Grid Electricity
+EN02928,Abuja,Residential,93.1,,Generator
+EN02929,Lagos,Residential,249.1,Active,Grid Electricity
+EN02930,Kaduna,Small Business,600.0,Active,Grid Electricity
+EN02931,Abuja,Industrial,Pending,Active,Grid Electricity
+EN02932,Jos,Small Business,1251.7,Active,Grid Electricity
+EN02933,Jos,Small Business,797.1,Active,Grid + Solar
+EN02934,Ibadan,Public Institution,N/A,Active,Generator
+EN02935,Port Harcourt,Residential,121.6,Pending,Generator
+EN02936,Port Harcourt,Residential,321.9,Active,Grid Electricity
+EN02937,Jos,Residential,636.4,Active,Grid Electricity
+EN02938,Jos,Residential,559.1,Active,Grid + Solar
+EN02939,Abuja,Commercial,,Active,Grid + Generator
+EN02940,Kano,Residential,326.7,Active,Generator
+EN02941,Kano,Small Business,244.9,Active,Grid Electricity
+EN02942,Port Harcourt,Residential,190.1,Active,Grid + Generator
+EN02943,Abuja,Small Business,234.9,Active,Grid Electricity
+EN02944,,Industrial,6041.1,Active,Grid Electricity
+EN02945,Abuja,Residential,343.0,Active,Solar
+EN02946,Ibadan,Residential,,Inactive,Grid Electricity
+EN02947,Abuja,Industrial,1984.3,Active,Generator
+EN02948,Kaduna,Residential,342.3,Active,Grid Electricity
+EN02949,Abuja,Commercial,1322.5,Active,Solar
+EN02950,Abuja,Public Institution,922.9,Suspended,Grid Electricity
+EN02951,Kano,Commercial,965.9,Active,Generator
+EN02952,Ibadan,Residential,163.2,Active,Grid Electricity
+EN02953,Benin City,Commercial,1233.9,Pending,Grid Electricity
+EN02954,Enugu,Residential,93.2,Pending,Grid + Solar
+EN02955,Ibadan,Residential,162.3,Active,Grid Electricity
+EN02956,Aba,Public Institution,289.1,Active,
+EN02957,Kano,Small Business,289.7,Active,Generator
+EN02958,Port Harcourt,Commercial,1483.5,Suspended,Grid + Generator
+EN02959,Abuja,Small Business,338.0,Inactive,Grid Electricity
+EN02960,Jos,Commercial,1849.6,Inactive,Grid Electricity
+EN02961,Enugu,Industrial,9638.3,Inactive,Generator
+EN02962,Port Harcourt,Small Business,581.4,Active,Grid + Generator
+EN02963,Jos,Residential,196.6,Active,Grid Electricity
+EN02964,Lagos,Residential,313.8,Active,Grid Electricity
+EN02965,Jos,Public Institution,2033.2,Active,Grid + Solar
+EN02966,Jos,Residential,107.9,Active,Grid Electricity
+EN02967,Lagos,Residential,335.7,Active,Grid Electricity
+EN02968,Benin City,Public Institution,1485.8,Active,Grid Electricity
+EN02969,Abuja,Commercial,1389.6,Active,Grid Electricity
+EN02970,Aba,Residential,148.6,Active,Grid Electricity
+EN02971,Kaduna,Small Business,505.6,Active,Grid Electricity
+EN02972,Enugu,Residential,78.3,Active,Grid + Solar
+EN02973,Kano,Residential,348.9,Active,Solar
+EN02974,Jos,Commercial,Unknown,Active,Solar
+EN02975,Lagos,Industrial,5338.7,Active,Grid Electricity
+EN02976,Kaduna,Commercial,1902.7,Active,Generator
+EN02977,Aba,Public Institution,539.4,Suspended,Grid + Solar
+EN02978,Ibadan,Residential,525.3,Active,Grid Electricity
+EN02979,Ibadan,Residential,228.0,Active,Grid + Solar
+EN02980,Benin City,Residential,262.2,Active,Grid Electricity
+EN02981,Enugu,Residential,179.0,Active,Grid + Solar
+EN02982,Lagos,Industrial,7120.9,Active,Grid Electricity
+EN02983,Ibadan,Small Business,761.9,Inactive,Grid Electricity
+EN02984,Lagos,Residential,280.8,Active,Grid Electricity
+EN02985,Benin City,Commercial,2260.5,Pending,Grid Electricity
+EN02986,Ibadan,Residential,202.1,Inactive,Grid Electricity
+EN02987,Kano,Small Business,364.6,Pending,Generator
+EN02988,Benin City,Residential,1273.3,Active,Grid Electricity
+EN02989,Lagos,Residential,842.2,Active,Grid Electricity
+EN02990,Kano,Residential,166.9,Active,Grid Electricity
+EN02991,Lagos,Residential,193.3,Active,Generator
+EN02992,Lagos,Commercial,616.0,Active,Generator
+EN02993,Port Harcourt,Residential,367.5,Active,Grid Electricity
+EN02994,Kano,Residential,226.2,Pending,Grid Electricity
+EN02995,Kano,Small Business,909.0,Inactive,Grid Electricity
+EN02996,Kano,Commercial,4515.7,Active,Grid + Solar
+EN02997,Benin City,Residential,315.0,Active,Grid + Solar
+EN02998,Abuja,Residential,188.8,,Grid Electricity
+EN02999,,Residential,132.1,Active,Grid Electricity
+EN03000,Lagos,Residential,471.0,Active,Generator
+EN01704,Ibadan,Small Business,716.5,Active,Grid + Generator
+EN02420,Enugu,Commercial,915.0,Active,Grid Electricity
+EN01918,Lagos,Residential,134.5,Active,Grid + Solar
+EN00100,Benin City,Public Institution,588.0,Active,Grid Electricity
+EN02907,Enugu,Residential,260.1,Active,Grid Electricity
+EN00327,Enugu,Commercial,2084.9,Active,Grid Electricity
+EN00009,Ibadan,Residential,Unknown,Active,Grid Electricity
+EN00736,Abuja,Residential,247.2,Active,Grid + Solar
+EN01865,Ibadan,Residential,264.5,Active,Grid Electricity
+EN02416,Abuja,Residential,121.2,Active,Grid + Solar
+EN01810,Lagos,Small Business,1337.1,Active,Grid Electricity
+EN00394,Port Harcourt,Public Institution,634.9,Active,Grid Electricity

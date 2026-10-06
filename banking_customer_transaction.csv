@@ -1,0 +1,3001 @@
+Customer ID,Customer Name,City,Transaction Type,Amount,Account Status
+CUST00585,Tunde Okafor,Kaduna,Online Transfer,37974.75,Active
+CUST01061,Bola Uche,Lagos,Deposit,9896.89,Active
+CUST00077,Kelechi Nwosu,Abuja,Transfer,59302.75,Active
+CUST00898,Tunde Abubakar,Benin City,Deposit,71719.97,Dormant
+CUST00594,Amina Ojo,Lagos,Online Transfer,3979.55,Active
+CUST00796,Amaka Adebayo,Benin City,Online Transfer,7614.28,Active
+CUST00107,Ada Bello,Lagos,Deposit,31818.41,Active
+CUST00957,Zainab Uche,Port Harcourt,Deposit,20408.71,Active
+CUST00013,Obinna Ekanem,Lagos,Transfer,27533.5,Active
+CUST00998,Ada Abubakar,Ibadan,Withdrawal,11931.24,Active
+CUST00724,Zainab Abubakar,Benin City,POS Purchase,67464.56,Active
+CUST00372,Amaka Uche,Benin City,Deposit,Error,Active
+CUST00008,Musa Ojo,Jos,POS Purchase,29911.27,Active
+CUST00673,Bola Okafor,Ibadan,Payment,86439.58,Active
+CUST00097,Emeka Danjuma,Enugu,Transfer,44688.4,Active
+CUST00670,Seyi Musa,Port Harcourt,Deposit,11856.92,Active
+CUST00851,Ngozi Olawale,Aba,Online Transfer,40485.96,Closed
+CUST00295,Seyi Eze,Ibadan,Payment,10732.99,Active
+CUST00263,Amina Balogun,Kaduna,Transfer,67400.66,Active
+CUST00245,Tunde Sule,Lagos,Transfer,26636.4,Active
+CUST00248,Fatima Ekanem,Port Harcourt,Online Transfer,23274.12,Dormant
+CUST00126,Bola Adebayo,Enugu,POS Purchase,14172.1,Active
+CUST00275,Musa Abubakar,Lagos,POS Purchase,95082.59,Active
+CUST00726,Tunde Balogun,Lagos,Payment,23990.91,Dormant
+CUST00333,Amina Abubakar,Jos,POS Purchase,18244.74,Active
+CUST00860,Ifeoma Ekanem,Port Harcourt,Withdrawal,19689.21,Active
+CUST00902,Fatima Ojo,Lagos,ATM Withdrawal,,Active
+CUST00838,,Abuja,Transfer,40352.31,Active
+CUST00594,Chinedu Uche,Abuja,Payment,42306.35,Dormant
+CUST00348,Ifeoma Bello,Ibadan,Online Transfer,43078.56,
+CUST01023,Kelechi Eze,Aba,Online Transfer,238376.68,Active
+CUST00226,Daniel Musa,,Transfer,18648.94,Dormant
+CUST00511,Musa Sule,Ibadan,Payment,16776.21,Dormant
+CUST00499,Emeka Sule,Ibadan,POS Purchase,,Active
+CUST00821,Fatima Olawale,Abuja,Online Transfer,51841.13,Active
+CUST00602,Bola Bello,Kaduna,POS Purchase,86589.35,Active
+CUST00880,Femi Ibrahim,Lagos,Deposit,24984.54,Restricted
+CUST01011,Maryam Uche,Lagos,Withdrawal,12086.0,Restricted
+CUST00430,Emeka Nnamdi,Jos,POS Purchase,12276.95,Active
+CUST00963,Daniel Musa,Kaduna,ATM Withdrawal,53666.95,Active
+CUST00187,Maryam Uche,Abuja,ATM Withdrawal,58877.48,Active
+CUST01008,Seyi Adebayo,Ibadan,ATM Withdrawal,48199.99,Dormant
+CUST00196,Kelechi Adebayo,Port Harcourt,Transfer,14392.32,Active
+CUST00936,Seyi Balogun,Abuja,Transfer,35317.05,Active
+CUST00430,Bola Bello,Abuja,POS Purchase,31465.46,Active
+CUST01062,Zainab Ojo,Lagos,Withdrawal,34844.42,Active
+CUST00143,Seyi Olawale,Kano,ATM Withdrawal,66929.06,Active
+CUST00513,Tomi Balogun,Port Harcourt,ATM Withdrawal,35015.82,Restricted
+CUST00993,Musa Nwosu,Port Harcourt,POS Purchase,55208.56,Active
+CUST00053,Bola Nwosu,Lagos,Withdrawal,29957.62,Active
+CUST00292,Kelechi Abubakar,Aba,ATM Withdrawal,37387.03,Active
+CUST00092,Maryam Musa,Ibadan,Deposit,Not Available,Restricted
+CUST00354,Chika Danjuma,Kaduna,Deposit,6521.14,Active
+CUST00430,Chika Balogun,Lagos,Transfer,20338.86,Active
+CUST00681,Fatima Uche,Ibadan,Deposit,17493.54,Active
+CUST00284,Ngozi Onyeka,Benin City,Online Transfer,14780.76,Active
+CUST00175,Tomi Bello,Abuja,Online Transfer,21264.99,Active
+CUST00187,Chinedu Eze,Lagos,Deposit,124854.1,Dormant
+CUST01033,Ngozi Ibrahim,Abuja,POS Purchase,11779.65,Active
+CUST01049,Amaka Ekanem,Abuja,Transfer,73735.39,Active
+CUST00244,Amina Balogun,Port Harcourt,ATM Withdrawal,5203.52,Active
+CUST00215,Daniel Ekanem,Abuja,POS Purchase,20031.77,Closed
+CUST00060,Musa Onyeka,Abuja,Payment,32948.89,Active
+CUST01056,Bola Abubakar,Ibadan,Deposit,50321.22,Active
+CUST00777,Ada Eze,Lagos,Deposit,57021.65,Active
+CUST00837,Maryam Musa,Abuja,Transfer,61901.95,Restricted
+CUST00320,Seyi Eze,Ibadan,,19756.44,Dormant
+CUST00706,Ifeoma Danjuma,Lagos,Payment,17634.42,Active
+CUST00066,Emeka Nnamdi,Lagos,Transfer,66034.7,Active
+CUST00744,Ada Musa,Lagos,Deposit,23124.67,Active
+CUST00638,Obinna Ibrahim,Lagos,Online Transfer,7818.7,Dormant
+CUST00365,Obinna Eze,Port Harcourt,Withdrawal,9015.25,Dormant
+CUST00782,Ifeoma Onyeka,Lagos,ATM Withdrawal,11164.65,Closed
+CUST00712,Femi Olawale,Abuja,ATM Withdrawal,46033.31,Active
+CUST00483,Ngozi Sule,Jos,Withdrawal,32285.89,Active
+CUST00206,Emeka Abubakar,Aba,Deposit,55851.14,Active
+CUST00026,Obinna Okafor,Lagos,Transfer,18264.36,Dormant
+CUST01032,Femi Okeke,Abuja,,32810.36,Active
+CUST00310,Tomi Okafor,Port Harcourt,ATM Withdrawal,52341.78,Active
+CUST00332,Tunde Sule,Benin City,POS Purchase,20549.94,Active
+CUST00750,Ifeoma Uche,Benin City,Withdrawal,44211.27,Active
+CUST00281,Chinedu Uche,Lagos,Payment,N/A,Dormant
+CUST00414,Chika Bello,Lagos,Deposit,19475.37,Active
+CUST00783,Amina Yusuf,Port Harcourt,Withdrawal,19114.87,Active
+CUST00655,Amina Abubakar,Kaduna,ATM Withdrawal,8468.6,Active
+CUST00723,Ngozi Nwosu,Kaduna,POS Purchase,45566.69,Active
+CUST00006,Tomi Abubakar,Lagos,POS Purchase,17510.53,Active
+CUST00497,Emeka Musa,Kano,Deposit,28352.03,Active
+CUST00523,Obinna Ekanem,Lagos,Payment,45283.88,Active
+CUST00696,Amaka Olawale,Ibadan,Transfer,43760.68,Active
+CUST00167,Maryam Olawale,Aba,Online Transfer,54466.71,Active
+CUST00176,Ifeoma Balogun,Port Harcourt,ATM Withdrawal,25373.85,Closed
+CUST00839,Fatima Nnamdi,Lagos,Online Transfer,18336.73,Active
+CUST00741,Obinna Nnamdi,Kano,Deposit,25854.54,Active
+CUST00893,Tunde Uche,Port Harcourt,Transfer,5180.34,Active
+CUST00298,Kelechi Bello,Benin City,POS Purchase,6586.96,Active
+CUST01098,Seyi Okafor,Abuja,Transfer,7459.62,Active
+CUST00301,Chika Abubakar,Kaduna,Payment,10329.02,Active
+CUST00717,Kelechi Ojo,Abuja,Transfer,41761.66,Active
+CUST00179,Kelechi Okafor,Lagos,Online Transfer,11321.75,Active
+CUST01011,Amina Adebayo,Abuja,Withdrawal,19183.34,Dormant
+CUST00366,Kelechi Bello,Lagos,Online Transfer,102661.05,Active
+CUST00883,Chinedu Okeke,Abuja,Transfer,19608.06,Active
+CUST00365,Amina Onyeka,Ibadan,Transfer,58540.57,Restricted
+CUST00870,Kelechi Musa,Lagos,Payment,11007.61,Active
+CUST00500,Tomi Olawale,Lagos,Withdrawal,22800.15,Active
+CUST00069,Maryam Nwosu,Lagos,Online Transfer,10828.51,Active
+CUST00210,Chika Ojo,Lagos,,19948.85,Active
+CUST00752,Tomi Uche,Kaduna,Online Transfer,64878.26,
+CUST00213,Tomi Danjuma,Aba,Online Transfer,4977.28,Active
+CUST00303,Zainab Eze,Lagos,ATM Withdrawal,43234.04,Dormant
+CUST00596,Tunde Danjuma,Enugu,Transfer,35514.47,Dormant
+CUST00279,Fatima Danjuma,Enugu,POS Purchase,15456.89,Dormant
+CUST00142,Amaka Nnamdi,Jos,Deposit,6593.91,Active
+CUST00687,Chinedu Eze,Abuja,POS Purchase,30094.25,Active
+CUST00758,Chinedu Balogun,Abuja,Transfer,16489.3,Dormant
+CUST00807,Seyi Eze,Port Harcourt,ATM Withdrawal,35335.24,Dormant
+CUST01039,Kelechi Olawale,Kaduna,Transfer,28618.59,Active
+CUST00137,Zainab Abubakar,Enugu,Transfer,138931.83,Closed
+CUST00470,Musa Nwosu,Port Harcourt,Deposit,22039.78,Dormant
+CUST00258,Amaka Ibrahim,Abuja,Transfer,10061.41,Active
+CUST00992,Bola Nnamdi,Enugu,Transfer,33497.81,Active
+CUST00594,Kelechi Bello,Kaduna,Withdrawal,34890.03,Active
+CUST00109,Musa Abubakar,Abuja,Withdrawal,,Active
+CUST00762,Tunde Adebayo,Ibadan,Payment,64541.97,Active
+CUST00048,Maryam Okafor,Port Harcourt,Withdrawal,40007.85,Active
+CUST00302,Amina Uche,Port Harcourt,POS Purchase,120965.74,Active
+CUST00794,,Kano,Deposit,8528.74,Dormant
+CUST00557,Tomi Yusuf,Enugu,Payment,14767.86,Dormant
+CUST00838,Zainab Balogun,Jos,Deposit,11085.4,Active
+CUST00629,Chinedu Ibrahim,Port Harcourt,Payment,18961.2,Active
+CUST00928,Daniel Okafor,Abuja,Payment,7067.58,Active
+CUST00619,Daniel Musa,Abuja,Payment,52844.6,Active
+CUST00063,Musa Adeyemi,Lagos,Transfer,22420.64,Active
+CUST00079,Amaka Abubakar,Abuja,Transfer,6432.72,Active
+CUST00855,Tomi Nwosu,Lagos,Withdrawal,10141.39,Closed
+CUST00043,Zainab Adeyemi,Port Harcourt,Transfer,38310.28,Active
+CUST00415,Zainab Adebayo,Lagos,Transfer,64736.88,Active
+CUST00018,Chika Abubakar,Abuja,ATM Withdrawal,206218.32,Active
+CUST00334,Chinedu Okeke,Benin City,Transfer,515979.47,Dormant
+CUST00655,Chinedu Adebayo,Abuja,POS Purchase,42377.35,Active
+CUST00191,Chika Yusuf,Kano,Transfer,,Active
+CUST00513,Obinna Onyeka,Kaduna,Withdrawal,3320.64,Active
+CUST01096,Emeka Adebayo,Kano,Withdrawal,36595.16,Active
+CUST00078,Obinna Bello,Lagos,Deposit,12419.45,Active
+CUST00071,Emeka Bello,Abuja,Payment,18482.92,Active
+CUST00299,Femi Bello,Kano,POS Purchase,15181.96,Active
+CUST00910,Kelechi Balogun,Port Harcourt,ATM Withdrawal,24322.79,Active
+CUST00447,Tunde Ojo,Lagos,Transfer,81303.15,Active
+CUST00704,Kelechi Ojo,Port Harcourt,Withdrawal,32761.47,Active
+CUST00038,Femi Adebayo,Kano,POS Purchase,23892.62,Active
+CUST00809,Femi Bello,Abuja,Deposit,9939.84,Active
+CUST00075,Amaka Ojo,Kano,Transfer,5246.29,Active
+CUST00783,Chika Onyeka,Lagos,POS Purchase,17216.99,Closed
+CUST00163,Seyi Musa,Abuja,Transfer,26533.87,Closed
+CUST00945,Zainab Okeke,Benin City,Deposit,Error,Active
+CUST00326,Kelechi Musa,Abuja,Withdrawal,,Active
+CUST00203,Daniel Nwosu,Kano,Payment,74809.44,Active
+CUST00371,Ifeoma Nnamdi,Port Harcourt,Deposit,16994.83,Dormant
+CUST00001,Seyi Bello,Abuja,ATM Withdrawal,8561.37,Active
+CUST00182,Ada Nnamdi,Aba,Transfer,10666.28,Active
+CUST00659,Femi Ojo,Abuja,Transfer,0,Active
+CUST00331,Tunde Bello,Lagos,Withdrawal,235255.99,Closed
+CUST00390,Maryam Olawale,Kaduna,POS Purchase,,Active
+CUST00888,Obinna Musa,Enugu,Transfer,64760.36,Active
+CUST00137,Ngozi Sule,Ibadan,ATM Withdrawal,11350.68,Active
+CUST00436,Amina Uche,Lagos,Transfer,71077.98,Active
+CUST00205,Fatima Adeyemi,Lagos,Deposit,41147.18,Active
+CUST00532,Emeka Nnamdi,Ibadan,Transfer,23940.38,Active
+CUST00365,Maryam Adeyemi,Lagos,Transfer,26881.6,Restricted
+CUST00051,Femi Onyeka,Lagos,Transfer,14547.47,Dormant
+CUST00078,Ada Abubakar,Enugu,POS Purchase,43740.6,Active
+CUST00938,Ifeoma Eze,Abuja,Online Transfer,17764.84,Dormant
+CUST00063,Ngozi Musa,Lagos,POS Purchase,8220.23,Active
+CUST00861,Tunde Eze,Lagos,Payment,7801.12,Active
+CUST01008,Maryam Nwosu,Port Harcourt,Payment,33274.54,Active
+CUST00513,Bola Adeyemi,Kano,Payment,135815.29,Dormant
+CUST00344,Femi Olawale,Kaduna,Withdrawal,32858.03,Active
+CUST00854,Seyi Olawale,Lagos,POS Purchase,24867.61,Active
+CUST01081,Bola Onyeka,Lagos,POS Purchase,37264.11,Active
+CUST00133,Tomi Musa,Kano,Withdrawal,103358.78,Active
+CUST01061,Chinedu Bello,Abuja,Online Transfer,,Active
+CUST01039,Amaka Musa,Port Harcourt,POS Purchase,Error,Active
+CUST00157,Chinedu Okafor,Aba,Transfer,84647.3,Active
+CUST00061,Seyi Nwosu,Kano,Online Transfer,Pending,Active
+CUST00787,Bola Ibrahim,Port Harcourt,Deposit,130055.4,Dormant
+CUST00086,Musa Abubakar,Jos,Deposit,33630.69,Active
+CUST00661,Amaka Abubakar,Lagos,Transfer,8229.58,Restricted
+CUST00072,Ada Eze,Aba,Payment,7128.1,Restricted
+CUST00760,Amina Nwosu,Port Harcourt,Transfer,N/A,Active
+CUST00255,Maryam Adebayo,Port Harcourt,Online Transfer,156941.05,Active
+CUST00106,Fatima Ojo,Aba,Withdrawal,23398.81,Active
+CUST00074,Maryam Nwosu,Port Harcourt,Withdrawal,19087.19,Dormant
+CUST00208,Amaka Nwosu,Port Harcourt,Payment,120741.13,Active
+CUST00595,Chinedu Adeyemi,Abuja,Deposit,9254.95,Active
+CUST00085,Fatima Adebayo,Ibadan,ATM Withdrawal,11444.14,Active
+CUST00883,Fatima Olawale,Kano,Transfer,53278.42,Active
+CUST00665,Kelechi Eze,Lagos,Online Transfer,18870.49,Dormant
+CUST00328,Fatima Abubakar,Ibadan,ATM Withdrawal,27856.95,Dormant
+CUST01086,Amaka Ekanem,Ibadan,Deposit,23778.02,Active
+CUST00725,Ngozi Uche,Abuja,Deposit,39243.23,Active
+CUST00740,Emeka Ibrahim,Lagos,Deposit,114398.32,Active
+CUST00192,Amaka Okafor,Port Harcourt,Online Transfer,30654.8,Active
+CUST00782,Emeka Okeke,Lagos,ATM Withdrawal,53311.03,Active
+CUST00616,Amaka Uche,Lagos,Transfer,3603.96,Active
+CUST01084,Bola Ibrahim,Port Harcourt,Withdrawal,26668.58,Dormant
+CUST00526,Tunde Balogun,Lagos,POS Purchase,12048.91,Active
+CUST00746,Chinedu Yusuf,Abuja,Withdrawal,8276.26,Active
+CUST00376,Kelechi Olawale,Ibadan,ATM Withdrawal,11635.4,Active
+CUST00045,Musa Sule,Abuja,ATM Withdrawal,20047.03,Active
+CUST00141,Ifeoma Uche,Jos,Withdrawal,69972.83,Active
+CUST00954,Kelechi Okafor,Aba,Transfer,7432.12,Active
+CUST00812,Zainab Balogun,Kano,Withdrawal,28870.95,Active
+CUST00402,Seyi Musa,Jos,Transfer,17253.85,Closed
+CUST00768,Amina Musa,Kaduna,Online Transfer,20176.76,Dormant
+CUST00005,Fatima Onyeka,Abuja,ATM Withdrawal,76322.08,Active
+CUST00041,Daniel Abubakar,Enugu,POS Purchase,47957.73,Active
+CUST00558,Seyi Okafor,Lagos,Payment,106655.35,Active
+CUST00688,Tunde Musa,Ibadan,Withdrawal,23991.48,Active
+CUST01031,Emeka Ojo,Port Harcourt,ATM Withdrawal,13960.92,Restricted
+CUST00836,Bola Adebayo,Lagos,Transfer,22383.98,Dormant
+CUST00284,Tunde Ekanem,Abuja,Withdrawal,35683.96,Active
+CUST00897,Amaka Sule,Aba,Transfer,33407.41,Restricted
+CUST00541,Seyi Danjuma,Abuja,Payment,9467.04,Active
+CUST00909,Femi Onyeka,Lagos,ATM Withdrawal,30651.89,Active
+CUST00192,Tunde Balogun,Lagos,Withdrawal,35178.42,Active
+CUST00029,Chika Olawale,Port Harcourt,POS Purchase,347122.78,Active
+CUST00064,Bola Adebayo,Benin City,Transfer,182920.04,Restricted
+CUST01090,Amaka Okafor,Enugu,Withdrawal,11928.87,Dormant
+CUST00089,Obinna Abubakar,Port Harcourt,Withdrawal,21006.27,Active
+CUST01034,Zainab Sule,Lagos,POS Purchase,6480.27,Active
+CUST00800,Amaka Bello,Lagos,Transfer,15510.19,Active
+CUST00161,Seyi Ekanem,Port Harcourt,Transfer,38390.48,Active
+CUST00951,Seyi Eze,Benin City,Withdrawal,93509.04,Active
+CUST00159,Ifeoma Onyeka,Enugu,ATM Withdrawal,13505.82,Active
+CUST00158,Ifeoma Danjuma,Port Harcourt,POS Purchase,14556.8,Active
+CUST00634,Seyi Balogun,Kano,Transfer,3270.41,Active
+CUST00318,Ifeoma Abubakar,Port Harcourt,Online Transfer,23796.5,Active
+CUST00320,,Kano,Deposit,9677.37,Restricted
+CUST00215,Amaka Balogun,Port Harcourt,Deposit,16490.18,Active
+CUST00669,Emeka Ekanem,Ibadan,Payment,11650.44,Active
+CUST00030,Chika Adeyemi,Port Harcourt,ATM Withdrawal,25481.23,Active
+CUST00270,Daniel Abubakar,Aba,Withdrawal,4828.21,Active
+CUST00609,Ada Adeyemi,Port Harcourt,Payment,,Active
+CUST00536,Ifeoma Olawale,Lagos,Withdrawal,235438.94,Active
+CUST00770,Amaka Ojo,Lagos,Payment,7727.47,Active
+CUST00238,Femi Okeke,Port Harcourt,ATM Withdrawal,9350.4,Active
+CUST00713,Musa Nnamdi,Kano,Online Transfer,175759.76,Active
+CUST00836,Musa Olawale,Kano,Transfer,511461.18,Active
+CUST00427,Obinna Yusuf,Ibadan,Payment,8676.67,Restricted
+CUST00283,Emeka Bello,Abuja,Payment,19374.46,Active
+CUST00611,Ifeoma Onyeka,Ibadan,Withdrawal,39399.77,Active
+CUST00637,Femi Okeke,Ibadan,Withdrawal,157732.75,Active
+CUST00104,Amina Uche,Port Harcourt,Online Transfer,10436.9,Active
+CUST00622,Ifeoma Uche,Port Harcourt,Withdrawal,21909.64,Active
+CUST00170,Zainab Nwosu,Lagos,POS Purchase,60918.82,Active
+CUST00626,Ada Adebayo,Port Harcourt,Deposit,43248.85,Active
+CUST01025,Kelechi Yusuf,Enugu,POS Purchase,19221.87,Active
+CUST00591,Femi Bello,Kaduna,Withdrawal,24492.86,Active
+CUST00838,Musa Danjuma,Kano,Online Transfer,7080.25,Active
+CUST00341,Chika Olawale,Abuja,ATM Withdrawal,22065.84,Active
+CUST01016,Daniel Yusuf,Ibadan,Deposit,21451.98,Active
+CUST00895,Daniel Uche,Enugu,ATM Withdrawal,35317.35,Active
+CUST01009,Ngozi Okafor,Abuja,Payment,16068.76,Active
+CUST00816,Tunde Danjuma,Benin City,Transfer,44868.82,Active
+CUST00715,Kelechi Ibrahim,Lagos,Withdrawal,77085.9,Active
+CUST00578,Obinna Nnamdi,Lagos,ATM Withdrawal,32708.46,Active
+CUST01022,Chinedu Abubakar,Lagos,ATM Withdrawal,39803.74,Active
+CUST00934,Kelechi Eze,Lagos,Withdrawal,29528.62,Active
+CUST00459,Musa Nwosu,Kaduna,POS Purchase,28002.36,Active
+CUST00095,Musa Onyeka,Port Harcourt,Withdrawal,13607.85,Active
+CUST00004,Maryam Ekanem,Abuja,Deposit,38424.63,Active
+CUST00257,Seyi Nnamdi,Port Harcourt,Payment,25404.29,Dormant
+CUST00069,Femi Onyeka,Abuja,Deposit,227096.0,Active
+CUST00233,Amaka Abubakar,Abuja,Withdrawal,135038.43,Restricted
+CUST00121,Musa Ibrahim,Lagos,Transfer,0,Active
+CUST01080,Tomi Nnamdi,Ibadan,Withdrawal,13054.69,Active
+CUST00105,Bola Uche,Lagos,Withdrawal,9205.43,Dormant
+CUST00690,Bola Onyeka,Enugu,ATM Withdrawal,92143.53,Active
+CUST00387,Tomi Uche,Lagos,Payment,36414.02,Active
+CUST00192,Bola Nnamdi,Enugu,POS Purchase,45256.57,Active
+CUST00772,Amina Adeyemi,Benin City,Payment,Not Available,Active
+CUST01068,Kelechi Musa,Lagos,Transfer,70784.71,Active
+CUST00870,Seyi Okeke,Lagos,Withdrawal,44107.28,Dormant
+CUST01073,Maryam Bello,Aba,POS Purchase,Pending,Active
+CUST00650,Ngozi Nwosu,Port Harcourt,Withdrawal,17473.4,Active
+CUST00741,Kelechi Balogun,Ibadan,Withdrawal,36449.28,Active
+CUST00162,Ngozi Olawale,Lagos,POS Purchase,29508.29,Active
+CUST00938,Amina Danjuma,Abuja,ATM Withdrawal,20905.94,Active
+CUST00823,Amaka Okeke,Port Harcourt,Payment,25247.22,Active
+CUST00280,Maryam Nnamdi,Kaduna,Deposit,21763.34,Active
+CUST00391,Amaka Adebayo,Abuja,Deposit,32614.83,Active
+CUST00672,Zainab Danjuma,Enugu,Transfer,121960.41,Active
+CUST00015,Daniel Ojo,Ibadan,ATM Withdrawal,2150.17,Active
+CUST00900,Ada Ojo,Lagos,Transfer,22095.06,Active
+CUST00309,Daniel Yusuf,Abuja,Deposit,33405.38,Active
+CUST00083,Ada Sule,Lagos,Withdrawal,37644.94,Active
+CUST00364,Ifeoma Balogun,Port Harcourt,Payment,19303.57,Active
+CUST00920,Amaka Abubakar,Ibadan,ATM Withdrawal,4833.07,Closed
+CUST00302,Maryam Ekanem,Port Harcourt,Deposit,38869.12,Active
+CUST00594,Kelechi Yusuf,Abuja,Deposit,157520.36,Active
+CUST00894,Kelechi Musa,Ibadan,Withdrawal,6039.63,Dormant
+CUST00038,Amaka Yusuf,Kano,Deposit,66422.28,Active
+CUST00836,Ada Balogun,Port Harcourt,Payment,20159.57,Closed
+CUST00318,Seyi Balogun,Kano,Deposit,26334.51,Active
+CUST00766,Emeka Nnamdi,Lagos,Payment,9769.9,Active
+CUST00207,Ngozi Ekanem,Ibadan,POS Purchase,20040.36,Active
+CUST00153,Maryam Okafor,Abuja,Online Transfer,102744.89,Active
+CUST00868,Daniel Ojo,Abuja,Online Transfer,50142.04,Active
+CUST00889,Chika Okafor,Lagos,Withdrawal,158303.82,Active
+CUST01080,Amina Danjuma,Kano,Deposit,90886.95,Dormant
+CUST00745,Ngozi Nnamdi,Kano,Withdrawal,43436.11,Active
+CUST00513,Emeka Adebayo,Abuja,ATM Withdrawal,160154.51,Dormant
+CUST00215,Bola Balogun,Kaduna,Deposit,43432.05,Dormant
+CUST00325,Seyi Olawale,Benin City,Transfer,,Active
+CUST00713,Musa Okeke,Lagos,Withdrawal,20814.16,Active
+CUST00381,Seyi Balogun,Ibadan,Withdrawal,29926.68,Dormant
+CUST00532,Bola Danjuma,Abuja,ATM Withdrawal,13940.25,Active
+CUST00185,Bola Bello,Jos,ATM Withdrawal,75323.22,Active
+CUST00484,Tomi Okafor,Lagos,Payment,8618.41,Active
+CUST00262,Maryam Adebayo,Abuja,Online Transfer,61224.95,Active
+CUST00124,Fatima Uche,Port Harcourt,Deposit,23139.79,Dormant
+CUST00146,Amina Adebayo,Abuja,Deposit,Error,Active
+CUST00571,Ada Uche,Ibadan,Transfer,59327.53,Active
+CUST00404,Zainab Okafor,Port Harcourt,ATM Withdrawal,172923.74,Restricted
+CUST00110,Femi Nwosu,Lagos,Payment,N/A,Active
+CUST00566,Kelechi Nwosu,Port Harcourt,Deposit,5813.39,Active
+CUST00181,Tomi Eze,Kaduna,Online Transfer,26186.69,Active
+CUST00017,Chika Olawale,Benin City,Withdrawal,8672.85,Active
+CUST00146,Musa Musa,Port Harcourt,Transfer,16675.23,Active
+CUST00494,Fatima Ibrahim,Abuja,Payment,126904.26,Active
+CUST01050,Femi Ekanem,Lagos,Online Transfer,52970.67,Active
+CUST00266,Tunde Ibrahim,Kaduna,ATM Withdrawal,13919.27,Active
+CUST00314,Ifeoma Eze,Ibadan,Online Transfer,10160.29,Active
+CUST00267,Chika Okafor,Kano,Withdrawal,28933.11,Active
+CUST00391,Ifeoma Ojo,Kaduna,Payment,8294.93,Active
+CUST00790,Daniel Balogun,Lagos,POS Purchase,14311.51,Active
+CUST00355,Zainab Bello,Ibadan,Transfer,38252.69,Dormant
+CUST00724,Chika Uche,Lagos,Transfer,88900.39,Restricted
+CUST00989,Tunde Adeyemi,Lagos,Online Transfer,51468.29,Active
+CUST01041,Femi Eze,Port Harcourt,Deposit,2831.81,Active
+CUST00620,Chika Adebayo,Abuja,Transfer,37961.45,Active
+CUST00785,Fatima Abubakar,Aba,,30091.36,Active
+CUST01012,Amaka Sule,Abuja,Online Transfer,42355.35,Restricted
+CUST00866,Amina Onyeka,Benin City,Online Transfer,140951.26,Restricted
+CUST00330,Seyi Okafor,Enugu,POS Purchase,3557.17,Active
+CUST00146,Amaka Yusuf,Ibadan,Deposit,15504.05,Active
+CUST00127,Tunde Danjuma,Aba,Online Transfer,50557.48,Dormant
+CUST00971,Fatima Nnamdi,Port Harcourt,Transfer,5758.11,Active
+CUST00612,Ngozi Danjuma,Abuja,ATM Withdrawal,122505.21,Active
+CUST00326,Emeka Onyeka,Lagos,Transfer,40470.01,Active
+CUST00381,Bola Ekanem,Abuja,POS Purchase,65286.71,Active
+CUST00310,Maryam Yusuf,Kaduna,Payment,15819.78,Active
+CUST00883,Musa Danjuma,Port Harcourt,POS Purchase,63178.76,Active
+CUST00674,Chika Musa,Abuja,Withdrawal,81505.95,Active
+CUST00968,Seyi Uche,Lagos,Withdrawal,35342.37,Active
+CUST00332,Amina Musa,Port Harcourt,Transfer,35396.23,Restricted
+CUST00520,Musa Uche,Ibadan,Deposit,36691.6,Dormant
+CUST00134,Musa Ojo,Abuja,ATM Withdrawal,11808.97,Active
+CUST01069,Femi Balogun,Enugu,Withdrawal,24159.46,Active
+CUST00564,Seyi Okafor,Ibadan,Payment,24039.11,Dormant
+CUST00609,Tomi Okeke,Enugu,Deposit,41083.16,Active
+CUST00456,Emeka Yusuf,Abuja,Withdrawal,76098.52,Active
+CUST00299,Zainab Sule,Ibadan,Payment,Pending,Active
+CUST01044,Bola Okeke,Lagos,Withdrawal,24709.69,Active
+CUST00538,Bola Ekanem,Abuja,Withdrawal,123181.65,Dormant
+CUST00743,Bola Abubakar,Enugu,Withdrawal,13311.34,Active
+CUST00042,Ada Onyeka,Ibadan,Withdrawal,,Active
+CUST00304,Zainab Bello,Lagos,Payment,34278.24,Restricted
+CUST00885,Kelechi Danjuma,Kaduna,Deposit,65143.32,Active
+CUST00097,Tomi Abubakar,Lagos,,28321.76,Restricted
+CUST00112,Kelechi Yusuf,Kano,ATM Withdrawal,105759.23,Active
+CUST00891,Tomi Nnamdi,Jos,Transfer,65956.7,Active
+CUST00340,Ada Bello,Kano,Payment,64976.43,Restricted
+CUST00302,Ifeoma Uche,Benin City,Withdrawal,Unknown,Restricted
+CUST00622,Daniel Uche,Kano,Online Transfer,287107.76,Restricted
+CUST00215,Ifeoma Ojo,Enugu,Transfer,22806.44,Dormant
+CUST00048,Fatima Yusuf,Ibadan,Withdrawal,3776.06,Active
+CUST00005,Maryam Onyeka,Ibadan,Online Transfer,Not Available,Active
+CUST00088,Fatima Danjuma,Lagos,ATM Withdrawal,17716.65,Active
+CUST00175,Maryam Okeke,Enugu,Payment,31189.61,Restricted
+CUST00766,Fatima Nnamdi,Lagos,POS Purchase,103726.25,Active
+CUST00328,Bola Adeyemi,Jos,Deposit,5640.34,Active
+CUST00079,Bola Uche,Lagos,POS Purchase,8008.93,Restricted
+CUST00016,Tunde Olawale,Lagos,ATM Withdrawal,Not Available,Closed
+CUST00525,Seyi Eze,Kaduna,Transfer,12655.2,Restricted
+CUST00925,Maryam Ibrahim,Abuja,Withdrawal,43460.01,Active
+CUST00373,Zainab Olawale,Abuja,Deposit,,Active
+CUST00071,Tomi Musa,Ibadan,Online Transfer,36909.86,Closed
+CUST00251,Chika Onyeka,Lagos,Deposit,6817.13,Active
+CUST00550,Femi Adeyemi,Lagos,Withdrawal,2779.03,Active
+CUST00208,Tunde Olawale,Port Harcourt,ATM Withdrawal,29564.02,Restricted
+CUST01077,Ifeoma Uche,Abuja,ATM Withdrawal,17469.01,Active
+CUST00840,Fatima Ibrahim,Lagos,Deposit,44326.84,Active
+CUST00380,Ifeoma Okafor,Lagos,POS Purchase,56495.34,Active
+CUST01047,Maryam Nwosu,Abuja,Transfer,32151.08,Active
+CUST00358,Bola Adebayo,Abuja,POS Purchase,59879.7,Restricted
+CUST00155,Chinedu Abubakar,Lagos,Deposit,35213.02,Active
+CUST01033,Ifeoma Nwosu,Ibadan,Deposit,47573.18,Active
+CUST01056,Tomi Eze,Ibadan,Payment,13839.56,Active
+CUST00344,Ada Ojo,Lagos,Deposit,23396.66,Dormant
+CUST00655,Ifeoma Yusuf,Abuja,Payment,34089.2,Restricted
+CUST00191,Tomi Nnamdi,Kaduna,Deposit,63607.6,Active
+CUST00706,Seyi Ibrahim,Kano,POS Purchase,18886.8,Active
+CUST00760,Chinedu Musa,Port Harcourt,POS Purchase,47151.78,Active
+CUST00781,Tomi Eze,Port Harcourt,POS Purchase,21463.76,Active
+CUST00626,Amina Balogun,Lagos,Online Transfer,24894.88,Active
+CUST00775,Tomi Bello,Benin City,Online Transfer,64182.05,Active
+CUST00611,Chika Adebayo,Aba,Transfer,3815.78,Active
+CUST00902,Ngozi Nwosu,Aba,Transfer,7657.86,Active
+CUST00198,Chika Adeyemi,Lagos,POS Purchase,6359.94,Active
+CUST00532,Amina Uche,Abuja,Online Transfer,2714.45,Active
+CUST00459,Tunde Abubakar,Lagos,Online Transfer,14209.92,Active
+CUST00587,Amaka Ekanem,Abuja,ATM Withdrawal,59242.45,Active
+CUST00157,Femi Ekanem,Abuja,Withdrawal,Pending,Active
+CUST00357,Kelechi Onyeka,Ibadan,Online Transfer,34123.78,Active
+CUST01050,Daniel Nnamdi,Lagos,Online Transfer,83214.53,Closed
+CUST00116,Musa Adeyemi,Aba,ATM Withdrawal,105624.53,Active
+CUST00699,Chika Danjuma,Lagos,POS Purchase,26129.54,Dormant
+CUST00732,Ifeoma Ojo,Lagos,Payment,108395.91,Active
+CUST00522,Femi Adebayo,Kaduna,Online Transfer,30702.1,Active
+CUST00037,Femi Eze,Ibadan,Deposit,12119.39,Active
+CUST00038,Zainab Olawale,Abuja,POS Purchase,15453.02,Active
+CUST00304,Bola Bello,Kano,Deposit,6370.44,Dormant
+CUST00113,Emeka Uche,Lagos,Transfer,11519.84,Dormant
+CUST00104,Emeka Abubakar,Lagos,Deposit,19573.72,Active
+CUST00177,Amina Ibrahim,Port Harcourt,Transfer,62538.95,Active
+CUST00210,Ada Danjuma,Abuja,Withdrawal,156487.22,Active
+CUST00923,Musa Ekanem,Kano,Online Transfer,7028.85,Restricted
+CUST00703,Tomi Adeyemi,Lagos,Payment,41472.56,Dormant
+CUST00034,Chinedu Uche,Ibadan,POS Purchase,9891.35,Active
+CUST00692,Ifeoma Adeyemi,Enugu,Withdrawal,45010.76,Dormant
+CUST00151,Musa Bello,Lagos,Deposit,Not Available,Restricted
+CUST00464,Kelechi Musa,Lagos,POS Purchase,4487.51,Active
+CUST00042,Chika Olawale,Port Harcourt,ATM Withdrawal,70845.5,Active
+CUST00100,Amaka Eze,Enugu,Payment,15290.07,Dormant
+CUST00146,Maryam Uche,Ibadan,POS Purchase,16416.78,Active
+CUST00477,Ngozi Musa,Ibadan,POS Purchase,9606.62,Active
+CUST00510,Ngozi Bello,Port Harcourt,Payment,14554.81,Dormant
+CUST00389,Chinedu Ibrahim,Lagos,Online Transfer,42952.5,Active
+CUST00683,Ifeoma Ekanem,Kano,ATM Withdrawal,23172.36,Dormant
+CUST00793,Chika Adeyemi,Lagos,ATM Withdrawal,38895.03,Active
+CUST00802,Musa Eze,Enugu,Transfer,40210.43,Active
+CUST00637,Musa Adeyemi,Lagos,Deposit,104885.17,Closed
+CUST00601,Daniel Musa,Abuja,Withdrawal,19874.12,Active
+CUST00541,Obinna Abubakar,Port Harcourt,ATM Withdrawal,6393.91,Active
+CUST00262,Tomi Nnamdi,Port Harcourt,ATM Withdrawal,81404.2,Active
+CUST00536,Amina Ekanem,Kano,Transfer,20099.93,Active
+CUST00012,Chinedu Danjuma,Port Harcourt,Payment,85353.12,Active
+CUST01063,Seyi Ekanem,Aba,Withdrawal,41082.47,Active
+CUST00408,Bola Okafor,Benin City,Withdrawal,24558.72,Restricted
+CUST00832,Amina Uche,Kaduna,Online Transfer,39685.28,Restricted
+CUST01053,Chika Ojo,Ibadan,Transfer,197002.63,Active
+CUST00547,Ada Musa,Ibadan,Withdrawal,223449.41,Active
+CUST00949,Chika Adebayo,Kano,Transfer,30011.65,Active
+CUST00528,Emeka Yusuf,Port Harcourt,Transfer,32864.57,Active
+CUST00146,Obinna Nnamdi,Abuja,ATM Withdrawal,Error,Dormant
+CUST00030,Bola Ibrahim,Kano,Online Transfer,12019.66,Active
+CUST00150,Chika Danjuma,Lagos,Payment,39066.87,Restricted
+CUST01037,Tomi Bello,Lagos,Payment,27285.12,Active
+CUST00523,Tomi Sule,Kaduna,Transfer,38325.39,Active
+CUST00352,Amaka Okeke,Lagos,Payment,12168.32,Closed
+CUST00491,Seyi Eze,Kano,Withdrawal,5712.39,Active
+CUST00282,Emeka Okeke,Kano,Deposit,3522.68,Dormant
+CUST00958,Amaka Yusuf,Lagos,POS Purchase,9159.76,Restricted
+CUST01100,Ifeoma Balogun,Kaduna,Transfer,17699.37,Active
+CUST00094,Maryam Adebayo,Lagos,Transfer,20884.62,Active
+CUST00791,Musa Bello,Kaduna,Deposit,194306.28,Active
+CUST00370,Seyi Musa,Enugu,POS Purchase,84622.3,Dormant
+CUST00053,Seyi Eze,Abuja,Withdrawal,Not Available,Restricted
+CUST01015,Daniel Onyeka,Lagos,Transfer,Not Available,Active
+CUST00069,Ada Abubakar,Abuja,POS Purchase,18636.58,Active
+CUST00227,Musa Danjuma,Abuja,Transfer,21069.8,Active
+CUST00029,Chinedu Olawale,Abuja,Online Transfer,33701.09,Active
+CUST00519,Obinna Sule,Jos,Withdrawal,52006.86,Dormant
+CUST00660,Femi Yusuf,Lagos,ATM Withdrawal,19944.35,Dormant
+CUST00353,Musa Adebayo,Benin City,Online Transfer,81130.26,Active
+CUST00079,Zainab Musa,Lagos,Payment,8937.59,Active
+CUST00128,Maryam Nwosu,Jos,ATM Withdrawal,28178.06,Active
+CUST01027,Ifeoma Nnamdi,Lagos,Transfer,376108.71,Active
+CUST00887,Tomi Eze,,ATM Withdrawal,34997.77,Active
+CUST01031,Ada Ekanem,Kano,Online Transfer,117380.29,Dormant
+CUST00584,Kelechi Ibrahim,Lagos,ATM Withdrawal,30683.49,Active
+CUST00601,Ifeoma Abubakar,Benin City,Online Transfer,50047.95,Active
+CUST00865,Ada Abubakar,Abuja,Payment,26454.37,Active
+CUST00679,Amaka Bello,Kano,Payment,23612.99,Active
+CUST00481,Kelechi Eze,Kano,Withdrawal,12842.01,Active
+CUST00322,Musa Eze,Kano,ATM Withdrawal,43056.18,Restricted
+CUST00535,Ngozi Yusuf,Lagos,POS Purchase,11949.24,Active
+CUST00071,Ifeoma Onyeka,Lagos,Payment,Not Available,Active
+CUST00212,Bola Danjuma,Lagos,Withdrawal,82888.1,Active
+CUST00812,Tomi Yusuf,Abuja,Payment,40396.21,Active
+CUST00955,Kelechi Nnamdi,Lagos,ATM Withdrawal,21030.12,Active
+CUST00112,Maryam Nwosu,Aba,Online Transfer,##VALUE!,Active
+CUST00107,Daniel Olawale,Port Harcourt,Deposit,20563.78,Active
+CUST00095,Femi Onyeka,Ibadan,Deposit,71361.01,Dormant
+CUST00871,Ngozi Bello,Abuja,Transfer,4485.27,Active
+CUST00343,Bola Danjuma,Abuja,Deposit,20017.3,Active
+CUST00360,Seyi Onyeka,Port Harcourt,Online Transfer,3824.37,Active
+CUST00014,Bola Okafor,Abuja,Transfer,6278.58,Restricted
+CUST01070,Ifeoma Adeyemi,Abuja,Payment,109515.57,Active
+CUST00478,Chika Ojo,Port Harcourt,Withdrawal,68538.08,Dormant
+CUST00878,Tomi Nwosu,Port Harcourt,Transfer,13636.15,Active
+CUST00779,Musa Abubakar,Jos,Online Transfer,6232.02,Restricted
+CUST00156,Tomi Sule,Lagos,Transfer,1444.37,Active
+CUST00882,Seyi Abubakar,Port Harcourt,Deposit,16260.01,Active
+CUST00606,Maryam Balogun,Lagos,Withdrawal,315014.77,Active
+CUST00665,Musa Okeke,Abuja,Online Transfer,43253.96,Active
+CUST00221,Zainab Uche,Ibadan,Online Transfer,,Active
+CUST00932,Chika Balogun,Lagos,Withdrawal,44579.97,Active
+CUST01025,Kelechi Danjuma,Kano,Payment,5878.17,Active
+CUST00448,Chinedu Okeke,Port Harcourt,Deposit,20798.51,Active
+CUST00102,Tomi Balogun,Lagos,Payment,30928.62,Active
+CUST00934,Daniel Nwosu,Aba,Deposit,Pending,Active
+CUST00977,Tomi Adebayo,Port Harcourt,POS Purchase,61744.85,Closed
+CUST00558,Ngozi Onyeka,Enugu,,39521.69,Active
+CUST00638,Chika Okeke,Port Harcourt,Withdrawal,54627.12,Active
+CUST00246,Tunde Nnamdi,Aba,Transfer,14067.01,Dormant
+CUST00075,Tunde Onyeka,Abuja,Deposit,68718.6,Active
+CUST01039,Musa Okafor,Port Harcourt,Transfer,142756.65,Active
+CUST00532,Ngozi Danjuma,Enugu,Deposit,10612.74,Active
+CUST00303,Ngozi Bello,Abuja,Withdrawal,11524.89,Active
+CUST00763,Tomi Musa,Abuja,Online Transfer,106483.37,Active
+CUST00029,Seyi Ekanem,Jos,Deposit,23123.76,Active
+CUST00088,Daniel Bello,Kano,POS Purchase,113980.33,Dormant
+CUST00267,Seyi Abubakar,Ibadan,Deposit,17987.35,Active
+CUST00496,Daniel Okeke,Ibadan,Payment,119971.0,Active
+CUST00404,Tomi Abubakar,Benin City,Transfer,31934.61,Active
+CUST00207,Chinedu Ekanem,Kaduna,Online Transfer,36249.78,Active
+CUST00387,Amina Uche,Kano,Withdrawal,133877.14,Dormant
+CUST00368,Ifeoma Uche,Abuja,Withdrawal,19500.38,Active
+CUST00578,Amina Danjuma,Lagos,ATM Withdrawal,10925.31,Active
+CUST00620,Tunde Eze,Kano,ATM Withdrawal,17879.24,Active
+CUST00972,Musa Ibrahim,Benin City,ATM Withdrawal,44015.35,Dormant
+CUST00888,Ifeoma Okafor,Port Harcourt,Deposit,5850.02,Active
+CUST00322,Chinedu Okeke,Lagos,Withdrawal,52967.34,Dormant
+CUST00993,Chinedu Adeyemi,Abuja,POS Purchase,,Active
+CUST00573,Fatima Sule,Port Harcourt,Payment,88236.19,Active
+CUST00207,Amaka Nwosu,Benin City,Payment,2554.72,Active
+CUST00375,Kelechi Onyeka,Lagos,Withdrawal,12751.37,Active
+CUST00816,Amaka Ojo,Kano,Withdrawal,5184.83,Active
+CUST00904,Emeka Ibrahim,Enugu,Online Transfer,12255.5,Active
+CUST00412,Emeka Bello,Aba,ATM Withdrawal,35868.89,Active
+CUST00174,Femi Balogun,Lagos,Deposit,,Active
+CUST00212,Femi Uche,Aba,Online Transfer,21732.89,Active
+CUST00114,Tomi Ojo,Kano,Payment,23879.48,Active
+CUST00769,Ngozi Uche,Enugu,Transfer,34315.35,Active
+CUST00554,Musa Musa,Lagos,Transfer,,Active
+CUST00497,Musa Musa,Port Harcourt,ATM Withdrawal,56772.62,Active
+CUST00740,Ada Nnamdi,Ibadan,Transfer,54318.8,Restricted
+CUST00912,Ifeoma Abubakar,Abuja,Payment,41150.76,Active
+CUST00876,Emeka Bello,Port Harcourt,ATM Withdrawal,48849.2,Active
+CUST00151,Musa Sule,Kano,Withdrawal,37660.9,Active
+CUST00649,Chika Adeyemi,Kano,Online Transfer,214278.77,Restricted
+CUST00971,Amaka Musa,Lagos,Transfer,25664.54,Active
+CUST00852,Musa Adeyemi,Port Harcourt,Transfer,20596.5,Active
+CUST00363,Zainab Balogun,Lagos,ATM Withdrawal,13179.69,Active
+CUST00432,Tomi Eze,Aba,Payment,9973.6,Active
+CUST00980,Kelechi Balogun,Jos,Transfer,8066.61,Dormant
+CUST00037,Chika Sule,Abuja,Payment,Unknown,Active
+CUST00578,Chika Adeyemi,Lagos,Online Transfer,26089.27,Active
+CUST00128,Ifeoma Okafor,Lagos,POS Purchase,39114.75,Active
+CUST00985,Daniel Musa,Port Harcourt,POS Purchase,29469.23,Closed
+CUST00043,Ada Ojo,Kaduna,Withdrawal,13022.38,Dormant
+CUST00026,Chinedu Ekanem,Port Harcourt,Transfer,68881.6,Restricted
+CUST00362,Tomi Adeyemi,Lagos,Payment,58651.74,Dormant
+CUST00221,Kelechi Ekanem,Lagos,Deposit,23868.42,Restricted
+CUST00546,Fatima Uche,Lagos,ATM Withdrawal,14574.72,Active
+CUST00330,Zainab Ekanem,Benin City,Withdrawal,48454.85,Active
+CUST00392,Bola Nwosu,Ibadan,Withdrawal,33790.45,Active
+CUST00622,Tunde Adebayo,Kano,Withdrawal,6580.28,Active
+CUST00617,Ifeoma Nnamdi,Abuja,Withdrawal,26159.81,Active
+CUST01029,Chinedu Ojo,Aba,Transfer,36388.05,Active
+CUST00529,Fatima Nwosu,Abuja,Payment,11387.43,Active
+CUST00621,Amina Adeyemi,Benin City,Payment,33853.69,Active
+CUST00746,Seyi Danjuma,Kaduna,Withdrawal,6536.37,Active
+CUST00192,Emeka Olawale,Port Harcourt,Withdrawal,106526.16,Active
+CUST00734,Ngozi Abubakar,Kaduna,POS Purchase,97529.46,Active
+CUST00949,Fatima Onyeka,Abuja,Deposit,21751.6,Active
+CUST00350,Obinna Musa,Ibadan,Transfer,1O000,Active
+CUST00197,Emeka Musa,Lagos,Payment,2515.02,Active
+CUST00381,Tomi Adeyemi,Port Harcourt,Payment,8809.73,Active
+CUST00303,Seyi Eze,Lagos,POS Purchase,20872.36,Active
+CUST00644,Musa Bello,Lagos,Payment,9583.77,Active
+CUST00951,Ngozi Uche,Lagos,Online Transfer,57202.69,Active
+CUST00657,Daniel Abubakar,Abuja,POS Purchase,206335.0,Restricted
+CUST00139,Fatima Bello,Kano,Withdrawal,8632.98,Dormant
+CUST00347,Daniel Okafor,Port Harcourt,Withdrawal,12118.6,Active
+CUST00759,Bola Abubakar,Abuja,Transfer,35433.33,Active
+CUST00364,Tunde Nnamdi,Jos,Transfer,,Active
+CUST00646,Fatima Musa,Aba,Payment,8246.84,Active
+CUST00764,Chika Balogun,Lagos,Withdrawal,,Active
+CUST00363,Fatima Eze,Port Harcourt,Withdrawal,173036.64,Restricted
+CUST00713,Kelechi Yusuf,Ibadan,Transfer,5367.95,Dormant
+CUST00438,Ada Ekanem,Enugu,ATM Withdrawal,7776.73,Active
+CUST00149,Maryam Okeke,Abuja,ATM Withdrawal,18331.08,Active
+CUST00410,Femi Uche,Enugu,Online Transfer,,Dormant
+CUST00486,Amina Nnamdi,Lagos,Withdrawal,63105.37,Active
+CUST00003,Ifeoma Danjuma,Abuja,Transfer,35654.1,Dormant
+CUST00982,Tunde Nwosu,Ibadan,Online Transfer,4745.72,Active
+CUST00581,Chinedu Adebayo,Ibadan,ATM Withdrawal,N/A,Active
+CUST00040,Ifeoma Yusuf,Benin City,Payment,15715.79,Dormant
+CUST00955,Tunde Eze,Lagos,Payment,100148.26,Restricted
+CUST00941,Kelechi Abubakar,Lagos,Deposit,14948.59,Active
+CUST00014,Ngozi Balogun,Lagos,POS Purchase,14814.25,Active
+CUST00180,Musa Sule,Lagos,Payment,48102.59,Active
+CUST00401,Maryam Danjuma,Lagos,Payment,60047.2,Active
+CUST00558,Chika Nwosu,Port Harcourt,Payment,43829.36,Restricted
+CUST00799,Amaka Eze,Kano,Transfer,5189.34,Active
+CUST00467,Tomi Ekanem,Ibadan,Withdrawal,47953.84,Active
+CUST00673,Amaka Musa,Abuja,ATM Withdrawal,9953.22,Active
+CUST00012,Chinedu Sule,Lagos,Transfer,35427.23,Active
+CUST00725,Zainab Nnamdi,Ibadan,Deposit,N/A,Dormant
+CUST01007,Musa Uche,Lagos,Transfer,43751.53,Active
+CUST00579,Fatima Eze,Kaduna,Online Transfer,12498.46,Active
+CUST00501,Fatima Abubakar,Lagos,Transfer,7764.56,Restricted
+CUST00327,Fatima Adebayo,Kano,Transfer,57169.73,Active
+CUST01050,Daniel Musa,Kaduna,Payment,35653.56,Active
+CUST00037,Zainab Eze,Kano,POS Purchase,15153.44,Active
+CUST00316,Musa Bello,Kano,ATM Withdrawal,119508.01,Active
+CUST00153,Zainab Ekanem,Ibadan,POS Purchase,18021.26,Active
+CUST00953,Ada Adebayo,Lagos,Deposit,28913.6,Active
+CUST00531,Seyi Uche,Ibadan,Online Transfer,36639.17,Active
+CUST01015,Ngozi Ojo,Kaduna,Online Transfer,15067.48,Active
+CUST00732,Zainab Bello,Jos,Transfer,44850.77,Active
+CUST00613,Maryam Olawale,Port Harcourt,Payment,16424.14,Active
+CUST00570,Chika Olawale,Abuja,Withdrawal,18551.79,Active
+CUST00223,Kelechi Okeke,Enugu,Transfer,109382.09,Active
+CUST00619,Ngozi Ekanem,Kano,Withdrawal,9890.93,Active
+CUST00754,Ada Musa,Abuja,Deposit,2507.85,Active
+CUST01062,Ngozi Nwosu,Lagos,Online Transfer,140210.03,Active
+CUST00604,Maryam Musa,Lagos,Withdrawal,358357.99,Active
+CUST01033,Emeka Eze,Port Harcourt,Payment,18670.32,Active
+CUST01039,Ada Nwosu,Lagos,Withdrawal,4036.45,Active
+CUST00575,Ada Sule,Lagos,Transfer,20526.58,Active
+CUST00484,Kelechi Ojo,Lagos,Transfer,,Active
+CUST00157,Seyi Okafor,Aba,Transfer,23156.62,Active
+CUST00296,Emeka Musa,Lagos,Payment,9196.44,Dormant
+CUST00968,Chinedu Nwosu,Lagos,Online Transfer,49987.13,Active
+CUST00153,Amaka Onyeka,Port Harcourt,Transfer,"₦12,500",Active
+CUST00437,Tunde Bello,Abuja,Online Transfer,6282.69,Active
+CUST00769,Tomi Nnamdi,Jos,ATM Withdrawal,56339.8,Active
+CUST00265,Fatima Onyeka,Aba,Payment,218086.0,Active
+CUST01072,Chika Eze,Port Harcourt,Withdrawal,33253.66,Active
+CUST00715,Musa Onyeka,Port Harcourt,Deposit,19982.95,Active
+CUST00032,Kelechi Ekanem,Abuja,POS Purchase,N/A,Dormant
+CUST00272,Chinedu Onyeka,Lagos,Payment,51803.68,Active
+CUST00815,Ifeoma Nnamdi,Abuja,Transfer,4960.63,Active
+CUST00950,Ada Adebayo,Lagos,POS Purchase,33002.89,Active
+CUST01020,Tomi Balogun,Lagos,Withdrawal,18948.8,Active
+CUST00937,Amaka Eze,Kano,POS Purchase,177688.06,Active
+CUST00083,Tomi Nnamdi,Lagos,Withdrawal,,Active
+CUST00803,Amina Bello,Lagos,Online Transfer,148426.83,Active
+CUST00122,Seyi Ekanem,Port Harcourt,Withdrawal,9285.59,Active
+CUST00085,Ngozi Bello,Port Harcourt,Deposit,50373.42,Active
+CUST00762,Ngozi Musa,Lagos,ATM Withdrawal,38536.46,Active
+CUST00526,Femi Ojo,Lagos,Deposit,11741.83,Active
+CUST00713,Maryam Okeke,Lagos,Online Transfer,33434.91,Active
+CUST00937,Daniel Ekanem,Lagos,ATM Withdrawal,94134.38,Active
+CUST00076,Obinna Adeyemi,Benin City,Withdrawal,,Active
+CUST00581,Musa Onyeka,Aba,Withdrawal,5156.42,Closed
+CUST00918,Femi Danjuma,Port Harcourt,Online Transfer,27512.53,Active
+CUST00485,Tunde Eze,Port Harcourt,Payment,11356.4,Dormant
+CUST00576,Maryam Olawale,Ibadan,POS Purchase,19882.97,Active
+CUST00548,Amaka Nnamdi,Ibadan,Deposit,,Active
+CUST00998,Kelechi Danjuma,Lagos,Online Transfer,5086.31,Active
+CUST00055,Seyi Nnamdi,Lagos,Payment,5565.27,Active
+CUST00966,Daniel Danjuma,Port Harcourt,ATM Withdrawal,45343.7,Active
+CUST00899,Tunde Okeke,Kano,Transfer,16601.38,Active
+CUST00894,Amaka Okeke,Lagos,Deposit,2154.29,Dormant
+CUST00454,Bola Sule,Abuja,Online Transfer,61377.82,Active
+CUST00568,Ngozi Yusuf,Abuja,Online Transfer,36766.03,Active
+CUST00406,Amina Bello,Abuja,Transfer,13712.8,Active
+CUST00277,Amina Bello,Port Harcourt,Online Transfer,7503.54,Dormant
+CUST00963,Amaka Eze,Ibadan,Deposit,64586.95,Active
+CUST00557,Fatima Nwosu,Port Harcourt,Deposit,39708.1,Active
+CUST00796,Maryam Adebayo,Lagos,Deposit,303325.59,Active
+CUST00111,Chika Abubakar,Lagos,Transfer,42622.96,Active
+CUST00868,Maryam Okeke,Benin City,,41260.58,Active
+CUST00725,Tunde Danjuma,Port Harcourt,Transfer,23695.3,Active
+CUST01098,Fatima Danjuma,Lagos,Deposit,63369.35,Dormant
+CUST00148,Chinedu Adeyemi,Abuja,ATM Withdrawal,52315.34,Active
+CUST00595,Femi Adeyemi,Benin City,POS Purchase,97898.33,Active
+CUST00563,Fatima Eze,Enugu,ATM Withdrawal,16624.57,Active
+CUST00593,Chika Onyeka,Kaduna,Withdrawal,18116.03,Active
+CUST00060,Zainab Nwosu,Kano,ATM Withdrawal,17341.48,Active
+CUST00521,Tomi Uche,Port Harcourt,Withdrawal,61744.58,Active
+CUST00330,Tunde Sule,Port Harcourt,ATM Withdrawal,125283.47,Active
+CUST00680,Maryam Sule,Lagos,Payment,17696.45,Active
+CUST00256,Tunde Musa,Ibadan,Transfer,18309.7,Active
+CUST00479,Chika Uche,Kano,Deposit,38331.87,Dormant
+CUST00683,Amaka Abubakar,Lagos,POS Purchase,21899.04,Active
+CUST00071,Femi Ekanem,Kaduna,Online Transfer,72548.71,Active
+CUST00866,,,ATM Withdrawal,2945.94,Active
+CUST00788,Femi Musa,Lagos,Online Transfer,12249.68,Active
+CUST00064,Ada Ibrahim,Abuja,Online Transfer,12804.39,Active
+CUST00072,Bola Adeyemi,Kaduna,Withdrawal,2750.68,Active
+CUST00936,Seyi Sule,Aba,ATM Withdrawal,10682.06,Active
+CUST00312,Ada Ibrahim,Port Harcourt,Transfer,11212.71,Active
+CUST00947,Ngozi Ojo,Aba,Transfer,22899.15,Active
+CUST00550,Daniel Bello,Kaduna,Deposit,85214.4,Active
+CUST00377,Ngozi Okafor,Benin City,Online Transfer,21914.4,Restricted
+CUST00301,Amina Onyeka,Kaduna,ATM Withdrawal,9988.06,Active
+CUST00725,Zainab Balogun,Abuja,Withdrawal,,Active
+CUST00121,Amaka Nnamdi,Enugu,Transfer,79948.14,Active
+CUST00443,Seyi Ibrahim,Kano,Transfer,10551.26,Active
+CUST00381,Fatima Adeyemi,Ibadan,ATM Withdrawal,11264.2,Active
+CUST00170,Seyi Ojo,Lagos,Online Transfer,48947.75,
+CUST00389,Femi Bello,Enugu,Withdrawal,22436.04,Active
+CUST00582,Chinedu Nwosu,Aba,Transfer,53500.4,Active
+CUST00746,Emeka Ekanem,Abuja,Payment,27620.49,Active
+CUST00095,Chinedu Bello,Jos,Transfer,56478.96,Active
+CUST00960,Bola Nnamdi,Abuja,Transfer,9945.56,Active
+CUST00967,Amaka Yusuf,Lagos,Deposit,27663.67,Dormant
+CUST00762,Femi Nnamdi,Lagos,Deposit,22680.7,Active
+CUST01017,Amaka Musa,Enugu,Transfer,Error,Restricted
+CUST00471,Zainab Onyeka,Kano,Online Transfer,5863.38,Restricted
+CUST00904,Tunde Sule,Abuja,Transfer,55587.23,Active
+CUST00800,Amaka Eze,Kano,Withdrawal,19712.48,Active
+CUST00619,Ifeoma Ojo,Abuja,ATM Withdrawal,10073.66,Dormant
+CUST00198,Tomi Onyeka,Port Harcourt,Online Transfer,Not Available,Active
+CUST00614,Ifeoma Adebayo,Kaduna,Transfer,86506.83,Active
+CUST00992,Kelechi Balogun,Ibadan,Deposit,2861.85,Active
+CUST01084,Femi Adebayo,Enugu,ATM Withdrawal,6268.68,Active
+CUST00493,Ada Olawale,Kano,Transfer,11126.37,Dormant
+CUST00273,Ifeoma Olawale,Jos,ATM Withdrawal,120709.08,Active
+CUST00823,Ngozi Musa,Abuja,Withdrawal,37143.6,Dormant
+CUST00084,Ifeoma Okeke,Abuja,Deposit,60311.44,Active
+CUST00167,Tunde Okafor,Lagos,Transfer,8953.49,Active
+CUST00619,Tomi Danjuma,Kano,ATM Withdrawal,9140.08,Active
+CUST01090,Emeka Nwosu,Kano,Transfer,43816.84,Closed
+CUST00362,Daniel Abubakar,Enugu,Withdrawal,29680.16,Restricted
+CUST00488,Kelechi Onyeka,Abuja,Transfer,48469.92,Dormant
+CUST00355,Maryam Sule,Lagos,ATM Withdrawal,23208.85,Active
+CUST00485,Amina Balogun,Ibadan,Deposit,36978.93,Active
+CUST00008,Chinedu Danjuma,Jos,ATM Withdrawal,32796.56,Active
+CUST00655,Ada Nnamdi,Abuja,ATM Withdrawal,60945.0,Dormant
+CUST00656,Amina Okeke,Lagos,Transfer,62753.4,Active
+CUST00348,Chika Danjuma,Abuja,Online Transfer,5541.87,Active
+CUST00291,Chika Balogun,Port Harcourt,POS Purchase,2959.25,Active
+CUST00838,Amaka Adeyemi,Abuja,Withdrawal,76244.85,Active
+CUST00207,Tunde Balogun,Abuja,Deposit,91829.13,Active
+CUST00052,Ada Okeke,Ibadan,Withdrawal,10090.37,Active
+CUST00045,Emeka Ekanem,Abuja,Withdrawal,4359.55,Active
+CUST00970,Musa Sule,,Payment,30914.93,Active
+CUST00401,Amina Danjuma,Lagos,Online Transfer,71025.77,Active
+CUST00113,Tunde Uche,Aba,POS Purchase,168983.15,Active
+CUST00967,Amaka Ojo,Port Harcourt,Withdrawal,46922.72,Active
+CUST00164,Daniel Onyeka,Abuja,Transfer,19307.39,Active
+CUST00371,Amina Balogun,Lagos,Deposit,11462.42,Active
+CUST00023,Ifeoma Okeke,Ibadan,Payment,28322.48,Active
+CUST00747,Kelechi Okeke,Kaduna,Deposit,20758.17,Active
+CUST00770,Emeka Bello,Lagos,Online Transfer,10146.58,Dormant
+CUST00833,Obinna Eze,Lagos,POS Purchase,217230.75,Active
+CUST00290,Obinna Onyeka,Lagos,Withdrawal,166896.34,Active
+CUST00361,Zainab Sule,Kano,ATM Withdrawal,87204.26,Active
+CUST01032,Fatima Nwosu,Aba,Payment,11149.05,Active
+CUST00904,Kelechi Eze,Port Harcourt,POS Purchase,65839.75,Dormant
+CUST00041,Ngozi Musa,Abuja,Transfer,53081.63,Restricted
+CUST00762,Zainab Ibrahim,Enugu,Withdrawal,43586.62,Active
+CUST00895,Femi Nwosu,Enugu,Payment,97696.89,Restricted
+CUST00616,Amina Ibrahim,Abuja,Deposit,52856.23,Active
+CUST00704,Tomi Nnamdi,Lagos,Payment,58687.03,Active
+CUST00002,Chika Ojo,Abuja,Withdrawal,52937.44,Active
+CUST00034,Musa Ojo,Enugu,ATM Withdrawal,39369.68,Active
+CUST00039,Femi Okeke,Ibadan,POS Purchase,4704.85,Active
+CUST00175,Seyi Nwosu,Ibadan,Deposit,30442.07,Active
+CUST01090,Musa Bello,,Transfer,16054.88,Active
+CUST00698,Tomi Nnamdi,Abuja,ATM Withdrawal,7786.28,Active
+CUST00861,Ifeoma Musa,Abuja,Deposit,150508.74,Active
+CUST00326,Chika Adebayo,Lagos,Payment,157779.71,Active
+CUST01032,Fatima Onyeka,Kaduna,ATM Withdrawal,109008.42,Active
+CUST00219,Amina Adeyemi,Kano,Transfer,36140.64,Active
+CUST00993,Musa Nnamdi,Abuja,POS Purchase,108075.45,Active
+CUST00034,Chinedu Adebayo,Lagos,Transfer,28339.53,Active
+CUST00023,Fatima Adeyemi,Enugu,Payment,34295.08,Active
+CUST00087,Amina Bello,Enugu,Deposit,9381.44,Active
+CUST00872,Femi Ekanem,Ibadan,Deposit,,Active
+CUST00284,Obinna Balogun,Lagos,Deposit,29742.9,Restricted
+CUST00497,Musa Ojo,Aba,Online Transfer,7610.68,Active
+CUST00519,Maryam Adebayo,Enugu,POS Purchase,26602.56,Active
+CUST00869,Musa Ojo,Ibadan,POS Purchase,25854.25,Active
+CUST00384,Zainab Okeke,Ibadan,Withdrawal,168977.52,Active
+CUST00008,Femi Yusuf,Kaduna,Payment,Error,Active
+CUST00426,Obinna Nwosu,Aba,POS Purchase,28322.31,Active
+CUST00318,Chinedu Nnamdi,Kano,ATM Withdrawal,35909.14,Active
+CUST00804,Tunde Okeke,Port Harcourt,Deposit,29265.72,
+CUST00827,Amina Onyeka,Abuja,POS Purchase,22857.76,Active
+CUST00102,Emeka Adebayo,Benin City,Deposit,9485.62,Active
+CUST00873,Kelechi Nnamdi,Ibadan,Withdrawal,24074.49,Dormant
+CUST00078,Musa Onyeka,,Online Transfer,13277.97,Active
+CUST00682,Obinna Ekanem,Lagos,Transfer,8019.6,Dormant
+CUST00429,Emeka Sule,Kaduna,Transfer,46685.16,Active
+CUST00332,Fatima Adeyemi,Kaduna,Payment,41407.8,Active
+CUST00532,Daniel Danjuma,Aba,Online Transfer,4690.3,Restricted
+CUST00342,Seyi Ekanem,Port Harcourt,Deposit,24767.19,Active
+CUST00874,Chinedu Okeke,Enugu,ATM Withdrawal,75785.42,Dormant
+CUST01064,Amina Okeke,Benin City,Transfer,80755.68,Active
+CUST00898,Tunde Abubakar,Abuja,Deposit,78104.01,Dormant
+CUST00484,Daniel Adeyemi,Lagos,Transfer,29111.05,Active
+CUST00554,Bola Ekanem,Jos,Payment,12027.06,Active
+CUST00492,Ngozi Okeke,Lagos,Withdrawal,9473.57,Active
+CUST00873,Amina Ojo,Kano,Transfer,39520.1,Restricted
+CUST00608,Ngozi Sule,Ibadan,Payment,40914.5,Active
+CUST00515,Ifeoma Balogun,Ibadan,Payment,,Active
+CUST00451,Ngozi Ekanem,Abuja,ATM Withdrawal,84114.94,Dormant
+CUST00413,Amina Adeyemi,Enugu,POS Purchase,24531.94,Active
+CUST00608,Maryam Balogun,Lagos,Transfer,8068.75,Active
+CUST00758,Seyi Nwosu,Benin City,Transfer,20350.35,Active
+CUST00476,Obinna Bello,Lagos,Transfer,34793.68,Active
+CUST00888,Amaka Onyeka,Ibadan,Payment,22876.75,Active
+CUST00910,Fatima Okafor,Enugu,Deposit,15710.2,Active
+CUST00472,Fatima Adeyemi,Lagos,Withdrawal,36056.58,Active
+CUST01000,Emeka Olawale,Lagos,Withdrawal,16915.78,Active
+CUST00191,Seyi Yusuf,Enugu,Transfer,14941.44,Active
+CUST01026,Zainab Uche,Lagos,Online Transfer,38231.41,Active
+CUST00324,Ngozi Nwosu,Lagos,Payment,18731.6,Active
+CUST00621,Amina Adeyemi,Port Harcourt,Transfer,,Active
+CUST00312,Tunde Onyeka,Aba,Payment,36796.71,Active
+CUST00487,Maryam Onyeka,Kano,ATM Withdrawal,8960.05,Active
+CUST00375,Chinedu Okeke,Abuja,Transfer,17304.44,Active
+CUST00776,Femi Nwosu,Jos,Transfer,117917.05,Active
+CUST00090,Femi Balogun,Port Harcourt,ATM Withdrawal,8759.38,Active
+CUST00923,Ngozi Ibrahim,Port Harcourt,Deposit,3372.15,Dormant
+CUST00995,Emeka Ekanem,Port Harcourt,Payment,4350.8,Active
+CUST00620,Emeka Nnamdi,Abuja,Payment,28827.06,Dormant
+CUST00603,Chinedu Danjuma,Abuja,ATM Withdrawal,28879.21,Active
+CUST00770,Fatima Uche,Ibadan,Online Transfer,24893.17,Active
+CUST00219,Musa Ekanem,Lagos,POS Purchase,94291.81,Closed
+CUST00825,Ifeoma Nnamdi,Ibadan,Transfer,1933.57,Dormant
+CUST00241,Kelechi Abubakar,Lagos,Deposit,41601.59,Active
+CUST00745,Kelechi Adeyemi,Abuja,Payment,133438.77,Active
+CUST00337,Tomi Olawale,Lagos,POS Purchase,9065.03,Active
+CUST00821,Fatima Ojo,Kano,Online Transfer,19151.82,Active
+CUST00871,Musa Nnamdi,Enugu,POS Purchase,13188.07,Active
+CUST00230,Ifeoma Balogun,Abuja,Withdrawal,11448.5,Active
+CUST00680,Obinna Onyeka,Lagos,ATM Withdrawal,20205.25,Active
+CUST00549,Amaka Ibrahim,Lagos,POS Purchase,116709.72,Active
+CUST00324,Zainab Ekanem,Benin City,ATM Withdrawal,175842.94,Active
+CUST00648,Ngozi Musa,Abuja,ATM Withdrawal,20010.66,Active
+CUST01092,Chinedu Yusuf,Enugu,Transfer,188154.74,Active
+CUST00003,Fatima Abubakar,Abuja,Payment,29014.07,Dormant
+CUST01053,Tunde Onyeka,Lagos,Withdrawal,161724.7,Active
+CUST00942,Tunde Adeyemi,Enugu,Deposit,25505.8,Restricted
+CUST00583,Amina Ibrahim,Port Harcourt,POS Purchase,31920.94,Active
+CUST00672,Bola Nnamdi,Lagos,Online Transfer,40353.53,Active
+CUST00407,Obinna Nwosu,Aba,POS Purchase,672537.71,Active
+CUST00143,Amaka Bello,Lagos,Transfer,65594.38,Dormant
+CUST00629,Kelechi Nnamdi,Abuja,Deposit,13803.75,Restricted
+CUST00898,Fatima Okafor,Abuja,Withdrawal,73788.46,Active
+CUST00255,Amaka Adebayo,Port Harcourt,POS Purchase,19499.17,Active
+CUST00789,Daniel Onyeka,Enugu,ATM Withdrawal,17157.82,Active
+CUST00823,Fatima Uche,Lagos,Online Transfer,69463.81,Active
+CUST00835,Daniel Bello,Aba,Transfer,28884.07,Active
+CUST00375,Fatima Uche,Ibadan,Payment,36994.91,Active
+CUST00432,Ada Okeke,Aba,POS Purchase,28394.34,Dormant
+CUST00458,Tunde Okeke,Benin City,Withdrawal,39204.35,Active
+CUST00940,Ngozi Nwosu,Aba,Online Transfer,42827.07,Active
+CUST00991,Chinedu Adeyemi,Kano,Payment,4035.93,Dormant
+CUST00456,Tomi Nwosu,Abuja,Deposit,54531.43,Active
+CUST01067,Tomi Nnamdi,Port Harcourt,Deposit,10487.51,Active
+CUST00628,Femi Okafor,Ibadan,POS Purchase,1O000,Active
+CUST00424,Amina Okafor,Port Harcourt,Payment,26411.33,Dormant
+CUST00001,Bola Olawale,Enugu,ATM Withdrawal,30453.03,Active
+CUST00673,Ngozi Abubakar,Lagos,POS Purchase,13994.98,Active
+CUST00710,Femi Onyeka,Benin City,Transfer,64279.22,Active
+CUST01066,Amaka Eze,Lagos,POS Purchase,7315.75,Active
+CUST00790,Ifeoma Uche,Aba,Online Transfer,18639.09,Active
+CUST00033,Ifeoma Eze,Lagos,Withdrawal,15600.93,Dormant
+CUST00624,Chinedu Uche,Lagos,ATM Withdrawal,26725.48,Active
+CUST00818,Amaka Ekanem,Benin City,Withdrawal,37005.58,Active
+CUST00547,Musa Bello,Benin City,Withdrawal,10219.64,Active
+CUST00473,Tunde Yusuf,Enugu,Transfer,,Active
+CUST00891,Femi Abubakar,Jos,POS Purchase,29820.82,Active
+CUST00673,Ada Onyeka,Abuja,Deposit,4221.79,Active
+CUST00750,Chika Uche,Benin City,Transfer,3949.6,Dormant
+CUST00511,Ngozi Adeyemi,Abuja,ATM Withdrawal,27657.18,Active
+CUST00306,Amaka Okafor,Kano,Deposit,22448.8,Active
+CUST00572,Femi Sule,Port Harcourt,POS Purchase,25248.95,Active
+CUST01055,Kelechi Ojo,Lagos,Online Transfer,27227.35,Dormant
+CUST00663,Amaka Ibrahim,Kano,Deposit,35084.67,Restricted
+CUST00778,Amina Onyeka,Enugu,Deposit,72229.9,Active
+CUST00137,Fatima Bello,Lagos,Online Transfer,9217.46,Active
+CUST01087,Obinna Abubakar,Aba,Withdrawal,8673.16,Active
+CUST00270,Obinna Onyeka,Kano,Deposit,9382.82,Active
+CUST01069,Maryam Okafor,Lagos,Online Transfer,37379.45,Active
+CUST00491,Daniel Yusuf,Ibadan,POS Purchase,97237.06,Active
+CUST01011,Chinedu Balogun,Lagos,ATM Withdrawal,18189.87,Dormant
+CUST00981,Fatima Musa,Lagos,Payment,,Active
+CUST00831,Ada Sule,Ibadan,Online Transfer,5094.76,Active
+CUST01009,Amina Sule,Lagos,ATM Withdrawal,12172.36,Active
+CUST00671,Kelechi Eze,Lagos,ATM Withdrawal,16030.22,Active
+CUST00934,Chika Okeke,Enugu,POS Purchase,18612.17,Active
+CUST00190,Ngozi Adebayo,Lagos,ATM Withdrawal,29101.38,Dormant
+CUST00078,Fatima Abubakar,Benin City,Transfer,20500.68,Active
+CUST00598,Seyi Ibrahim,Benin City,Transfer,79961.41,Active
+CUST00891,Musa Yusuf,Lagos,Transfer,14241.88,Active
+CUST00842,Emeka Nwosu,,Payment,11821.11,Dormant
+CUST00581,Amina Nnamdi,Lagos,Transfer,45199.23,Active
+CUST00573,Chinedu Adeyemi,Ibadan,Transfer,6028.89,Active
+CUST00671,Zainab Adebayo,Lagos,POS Purchase,41342.71,Active
+CUST00956,Zainab Adebayo,Aba,Transfer,31023.89,Active
+CUST00926,Seyi Adeyemi,Lagos,Deposit,24161.54,Active
+CUST00121,Obinna Balogun,Ibadan,Withdrawal,137068.47,Active
+CUST00656,Maryam Yusuf,Lagos,Withdrawal,15029.23,Active
+CUST00420,Bola Adebayo,Lagos,POS Purchase,Error,Active
+CUST00880,Zainab Adeyemi,Port Harcourt,Transfer,22348.81,Dormant
+CUST00557,Fatima Adebayo,Kano,Withdrawal,7808.31,Dormant
+CUST01091,Seyi Musa,Jos,POS Purchase,30027.81,Dormant
+CUST00476,Tunde Sule,Lagos,Deposit,9544.44,Active
+CUST00748,Amaka Balogun,Lagos,Withdrawal,13203.06,Active
+CUST00120,Musa Balogun,Abuja,POS Purchase,41647.35,Active
+CUST01026,Seyi Ibrahim,Abuja,Payment,48802.75,Active
+CUST00169,Tomi Yusuf,Kaduna,POS Purchase,15029.83,Active
+CUST00417,Fatima Onyeka,Aba,POS Purchase,75159.28,Active
+CUST00922,Bola Bello,Kaduna,Online Transfer,89095.81,Restricted
+CUST01065,Amaka Bello,Lagos,Deposit,117743.23,Dormant
+CUST00533,Amaka Ekanem,Port Harcourt,POS Purchase,47542.21,Active
+CUST00534,Emeka Abubakar,Enugu,ATM Withdrawal,109468.1,Active
+CUST00054,Ifeoma Okeke,Abuja,Withdrawal,4269.11,Active
+CUST01077,Tunde Bello,Ibadan,Online Transfer,20374.78,Active
+CUST00019,Seyi Adeyemi,Lagos,Transfer,11765.83,Active
+CUST00029,Ifeoma Nnamdi,Abuja,POS Purchase,31545.48,Active
+CUST00521,Femi Danjuma,Kaduna,Payment,15811.78,Active
+CUST00004,Emeka Nnamdi,Abuja,Payment,23713.55,Active
+CUST00181,Fatima Nnamdi,Jos,Deposit,183897.66,Active
+CUST00691,Chinedu Sule,Abuja,Online Transfer,Unknown,Closed
+CUST00776,Femi Danjuma,Lagos,Payment,42351.2,Active
+CUST00328,Bola Adebayo,Abuja,Deposit,22196.51,Active
+CUST00875,Amina Balogun,Lagos,Deposit,30202.29,Active
+CUST00669,Fatima Onyeka,Port Harcourt,POS Purchase,28168.97,Active
+CUST00252,Emeka Okafor,Lagos,Deposit,43839.21,Active
+CUST00784,Ngozi Ekanem,Ibadan,Payment,89793.45,Active
+CUST00652,Musa Adebayo,Kaduna,ATM Withdrawal,145415.99,Dormant
+CUST00894,Ngozi Bello,Abuja,Withdrawal,38161.4,Active
+CUST00170,Kelechi Sule,Lagos,Payment,50488.79,Active
+CUST00254,Fatima Balogun,Port Harcourt,Withdrawal,8858.17,Active
+CUST00334,Chika Adebayo,Enugu,Online Transfer,25644.47,Dormant
+CUST00376,Femi Nwosu,Kano,,71700.23,Active
+CUST00978,Musa Sule,Lagos,Withdrawal,66564.62,Active
+CUST00806,Fatima Nnamdi,Kano,Payment,34598.64,Closed
+CUST00599,Amina Ojo,Port Harcourt,Transfer,67938.2,Active
+CUST00595,Ngozi Onyeka,,Online Transfer,45739.91,Active
+CUST00975,Fatima Balogun,Lagos,Transfer,92991.75,Active
+CUST00492,Seyi Musa,Jos,Payment,37396.0,Active
+CUST00248,Kelechi Eze,Lagos,Online Transfer,19619.15,Closed
+CUST00151,Ada Ibrahim,Lagos,,39175.27,Active
+CUST00364,Tomi Onyeka,Lagos,Payment,1494.23,Active
+CUST00719,Daniel Abubakar,Kano,Deposit,Unknown,Active
+CUST00519,Tunde Musa,Port Harcourt,Payment,728.91,Active
+CUST00464,Bola Nnamdi,Abuja,Transfer,4996.52,Active
+CUST00529,Zainab Ekanem,Port Harcourt,Online Transfer,Pending,Dormant
+CUST01073,Ifeoma Yusuf,Ibadan,Transfer,Pending,Active
+CUST01098,Zainab Eze,Abuja,Deposit,8756.32,Dormant
+CUST00178,Ngozi Bello,Aba,POS Purchase,13737.13,Dormant
+CUST00126,Musa Ibrahim,Abuja,POS Purchase,,Active
+CUST00269,Musa Bello,Lagos,ATM Withdrawal,17256.25,Active
+CUST00938,Seyi Sule,Aba,ATM Withdrawal,263782.48,Active
+CUST00506,Amina Abubakar,Benin City,Withdrawal,27946.3,Active
+CUST00951,Maryam Adeyemi,Abuja,Payment,42108.12,Active
+CUST00712,Ifeoma Ibrahim,Benin City,Deposit,141044.99,Active
+CUST00609,Emeka Sule,Port Harcourt,Withdrawal,31919.96,Active
+CUST00310,Obinna Uche,Abuja,Online Transfer,10276.51,Active
+CUST00379,Tunde Olawale,Benin City,ATM Withdrawal,Error,Active
+CUST00163,Ngozi Uche,Enugu,Withdrawal,27020.44,Active
+CUST00572,Tomi Okafor,Abuja,Deposit,7152.51,Active
+CUST00309,Fatima Abubakar,Kano,Online Transfer,21679.62,Active
+CUST00322,Chika Sule,Abuja,Deposit,13329.94,Dormant
+CUST00044,Musa Abubakar,Lagos,Withdrawal,70566.98,Dormant
+CUST00880,Ngozi Ekanem,Jos,Withdrawal,28986.1,Dormant
+CUST01034,Amina Bello,Kano,Deposit,21102.86,Active
+CUST00549,Ifeoma Balogun,Kano,Withdrawal,25179.31,Active
+CUST00590,Tomi Onyeka,Kano,Online Transfer,34999.25,Dormant
+CUST01019,Amaka Danjuma,Kano,Transfer,51884.43,Active
+CUST00563,Chika Bello,Abuja,Transfer,10303.59,Active
+CUST00685,Ngozi Okeke,Jos,ATM Withdrawal,,Active
+CUST00471,Amina Nnamdi,Ibadan,Payment,84511.17,Active
+CUST00566,Musa Onyeka,Ibadan,ATM Withdrawal,18538.83,Active
+CUST00575,Fatima Nwosu,Port Harcourt,ATM Withdrawal,Error,Active
+CUST00783,Maryam Ojo,Abuja,Payment,43641.88,Active
+CUST00665,Emeka Nwosu,Lagos,Payment,Pending,Dormant
+CUST00555,Amaka Onyeka,Abuja,POS Purchase,6058.66,Active
+CUST00084,Chinedu Eze,Lagos,ATM Withdrawal,35222.54,Active
+CUST00995,Obinna Nwosu,Ibadan,POS Purchase,58427.55,Active
+CUST00978,Ifeoma Ibrahim,Kaduna,Deposit,40714.77,Active
+CUST00203,Emeka Okeke,Abuja,ATM Withdrawal,52677.37,Active
+CUST00323,Kelechi Sule,Abuja,ATM Withdrawal,6875.3,Restricted
+CUST01071,Obinna Adeyemi,Ibadan,Withdrawal,38987.64,Active
+CUST00354,Amina Musa,Lagos,POS Purchase,20688.64,Active
+CUST00894,Zainab Abubakar,Aba,Withdrawal,17277.66,Dormant
+CUST00865,Bola Nwosu,Abuja,Withdrawal,,Active
+CUST00947,Ifeoma Ekanem,Lagos,POS Purchase,122913.27,Active
+CUST00018,Maryam Bello,Lagos,Withdrawal,168439.15,Active
+CUST00532,Obinna Ibrahim,Aba,Transfer,104272.99,Active
+CUST00623,Chika Ojo,Abuja,Transfer,25090.02,Active
+CUST00921,Ngozi Ibrahim,Ibadan,POS Purchase,39842.12,Active
+CUST00247,Femi Ekanem,Lagos,Transfer,60281.63,Active
+CUST00338,Seyi Ojo,Lagos,ATM Withdrawal,31607.12,Active
+CUST00198,Chinedu Okafor,Kaduna,POS Purchase,31911.57,Active
+CUST00839,Amina Adebayo,Lagos,Payment,63813.05,Dormant
+CUST01099,Chika Musa,Lagos,Online Transfer,26388.33,Closed
+CUST00155,Zainab Ojo,Port Harcourt,POS Purchase,13503.08,Active
+CUST00257,Amaka Ekanem,Kaduna,Transfer,18499.27,Restricted
+CUST00338,Ada Yusuf,Abuja,Online Transfer,52779.08,Dormant
+CUST00978,Maryam Adeyemi,Lagos,Payment,28083.94,Active
+CUST00491,Ifeoma Yusuf,Jos,Deposit,39346.79,Active
+CUST00311,Kelechi Balogun,Ibadan,Withdrawal,54722.98,Active
+CUST00355,Ifeoma Nnamdi,Kaduna,Payment,19247.15,Active
+CUST00658,Amina Adebayo,Enugu,Deposit,59647.53,Active
+CUST00426,Emeka Nnamdi,Ibadan,Payment,40896.61,Active
+CUST00155,Amaka Yusuf,Abuja,Transfer,8144.9,Active
+CUST00903,Musa Olawale,Abuja,Payment,118452.18,Active
+CUST00465,Seyi Ekanem,Ibadan,Deposit,16970.22,Active
+CUST00283,Ngozi Okeke,Ibadan,POS Purchase,,Dormant
+CUST00802,Seyi Sule,Aba,Transfer,9846.94,Closed
+CUST00820,Daniel Nwosu,Kano,Deposit,10086.11,Active
+CUST00171,Fatima Onyeka,Abuja,Transfer,29499.63,Active
+CUST00082,Maryam Eze,Port Harcourt,Transfer,21292.48,Active
+CUST00050,Seyi Uche,Kano,Payment,19992.81,Active
+CUST00843,Musa Eze,Port Harcourt,Payment,Pending,Active
+CUST00689,Bola Nnamdi,Benin City,Deposit,39333.63,Active
+CUST00872,Kelechi Nwosu,Kano,POS Purchase,38407.49,Restricted
+CUST00690,Tunde Adebayo,Lagos,Transfer,42183.66,Active
+CUST00442,Ifeoma Balogun,Kano,Deposit,51849.18,Active
+CUST00649,Femi Danjuma,Ibadan,POS Purchase,3401.62,Active
+CUST00795,Kelechi Ibrahim,Aba,ATM Withdrawal,19448.43,Active
+CUST00439,Seyi Ojo,Port Harcourt,Payment,Error,Active
+CUST01007,Seyi Olawale,Kano,Transfer,29028.1,Active
+CUST00990,Emeka Yusuf,Port Harcourt,Transfer,27870.58,Active
+CUST00881,Obinna Nnamdi,Kano,Payment,79657.55,Dormant
+CUST01092,Tomi Adeyemi,Lagos,Deposit,91820.8,Active
+CUST00430,Tomi Okafor,Kaduna,Withdrawal,34294.31,Active
+CUST00126,Amina Balogun,Aba,Online Transfer,16976.73,Closed
+CUST00533,Obinna Nnamdi,Kano,ATM Withdrawal,45484.23,Active
+CUST00821,Kelechi Olawale,Kano,Transfer,16515.29,Active
+CUST00858,Chika Sule,Lagos,Withdrawal,27961.03,Active
+CUST00428,Chinedu Adebayo,Kano,ATM Withdrawal,75063.98,Active
+CUST00322,Ifeoma Yusuf,Port Harcourt,Withdrawal,16029.54,Active
+CUST00491,Femi Yusuf,Ibadan,Deposit,62670.02,Active
+CUST00885,Ifeoma Abubakar,Lagos,Deposit,55125.14,Active
+CUST00067,Ada Eze,Ibadan,ATM Withdrawal,10776.98,Active
+CUST00361,Amaka Nwosu,Abuja,Payment,74150.64,Active
+CUST00253,Bola Sule,Ibadan,Deposit,56304.3,Active
+CUST00887,Daniel Sule,Ibadan,Deposit,31004.44,Dormant
+CUST00517,Chinedu Balogun,Lagos,Payment,13064.27,Active
+CUST00096,Chinedu Ojo,Port Harcourt,Payment,11857.95,Active
+CUST00288,Maryam Olawale,Benin City,ATM Withdrawal,16355.14,Active
+CUST00049,Fatima Abubakar,Kano,Withdrawal,48173.01,Active
+CUST00524,Ifeoma Bello,Lagos,ATM Withdrawal,10768.01,Active
+CUST01098,Daniel Onyeka,Port Harcourt,Online Transfer,43367.78,Dormant
+CUST00624,Musa Abubakar,Abuja,Payment,8088.55,Active
+CUST00957,Bola Ekanem,Ibadan,Withdrawal,22831.38,Active
+CUST00817,Femi Eze,Kano,ATM Withdrawal,31244.78,Active
+CUST00972,Ngozi Eze,Lagos,Transfer,322897.41,Dormant
+CUST00343,Daniel Sule,Kano,Deposit,7063.13,Active
+CUST01047,Seyi Abubakar,Enugu,,122024.16,Active
+CUST00263,Fatima Nwosu,Enugu,Online Transfer,32526.23,Closed
+CUST00483,Zainab Ekanem,Lagos,Transfer,Unknown,Active
+CUST00750,Obinna Balogun,Abuja,POS Purchase,31517.8,Active
+CUST00316,Obinna Adebayo,Port Harcourt,Transfer,43681.79,Active
+CUST00291,Chinedu Adebayo,Lagos,Transfer,24011.18,Active
+CUST00144,Ngozi Okeke,Port Harcourt,Deposit,119851.65,Active
+CUST00005,Tomi Onyeka,Lagos,Payment,17738.43,Active
+CUST00552,Musa Nwosu,Lagos,Deposit,86872.29,Active
+CUST01086,Femi Onyeka,Ibadan,Transfer,14699.85,Active
+CUST00243,Ngozi Okeke,Abuja,Withdrawal,26362.77,Active
+CUST00485,Femi Okeke,Ibadan,Transfer,9585.41,Active
+CUST01030,Emeka Balogun,Lagos,Payment,44133.9,Restricted
+CUST00850,Femi Adeyemi,Kano,Deposit,118786.82,Closed
+CUST00005,Chika Okeke,Abuja,Withdrawal,25915.68,Active
+CUST00551,Obinna Onyeka,Benin City,Online Transfer,22995.97,Active
+CUST00158,Maryam Yusuf,Enugu,Deposit,9185.15,Active
+CUST00272,Chika Adeyemi,Abuja,Withdrawal,22262.68,Active
+CUST00272,Tomi Okafor,Ibadan,Withdrawal,5693.98,Active
+CUST00674,Fatima Okeke,Lagos,Transfer,11238.29,Active
+CUST00219,Tunde Danjuma,Kano,ATM Withdrawal,35127.72,Active
+CUST00278,Chika Adeyemi,Lagos,Withdrawal,104712.42,Active
+CUST00249,Ada Ekanem,Port Harcourt,Transfer,464710.84,Active
+CUST00393,Tomi Musa,Lagos,Payment,15574.26,Dormant
+CUST00722,Chika Ojo,Kaduna,Withdrawal,117625.36,Active
+CUST00440,Kelechi Adebayo,Port Harcourt,Online Transfer,35728.8,Active
+CUST00361,Chika Yusuf,Kano,Online Transfer,,Active
+CUST00570,Emeka Onyeka,Abuja,Deposit,43155.03,Active
+CUST00677,Femi Balogun,Abuja,Transfer,29788.46,Active
+CUST00017,,Lagos,Withdrawal,31268.16,Active
+CUST00980,Chinedu Ojo,Aba,Withdrawal,18613.21,Active
+CUST01009,Tunde Olawale,Benin City,Transfer,,Active
+CUST00663,Ada Nnamdi,Lagos,Payment,5980.95,Active
+CUST00633,Seyi Danjuma,Enugu,Transfer,53809.47,Closed
+CUST00764,Ngozi Danjuma,Port Harcourt,Withdrawal,21231.89,Active
+CUST00485,Zainab Danjuma,Lagos,Withdrawal,15426.94,Active
+CUST00403,Obinna Ekanem,Kano,Online Transfer,28239.17,Active
+CUST00388,Tomi Adebayo,Lagos,Online Transfer,62000.15,Active
+CUST00176,Ngozi Onyeka,Lagos,Deposit,33534.29,Active
+CUST00926,Zainab Abubakar,Ibadan,ATM Withdrawal,14529.04,Active
+CUST00353,Seyi Yusuf,Abuja,Transfer,95439.97,Active
+CUST00313,Obinna Balogun,Kaduna,ATM Withdrawal,135828.09,Dormant
+CUST01061,Seyi Ibrahim,Ibadan,Payment,45913.59,Active
+CUST00558,Musa Abubakar,Benin City,POS Purchase,74133.54,Active
+CUST00684,Seyi Abubakar,,Deposit,96947.01,Active
+CUST00270,Fatima Musa,Kaduna,Transfer,Not Available,Active
+CUST00306,Femi Yusuf,Abuja,Online Transfer,51743.75,Active
+CUST00802,Zainab Uche,Kano,Withdrawal,50935.06,Active
+CUST00497,Bola Abubakar,Port Harcourt,Deposit,47080.79,Active
+CUST00163,Ifeoma Uche,Kaduna,ATM Withdrawal,9345.24,Active
+CUST00920,Ifeoma Adeyemi,Lagos,POS Purchase,56425.87,Active
+CUST00444,Zainab Yusuf,Kano,ATM Withdrawal,7216.65,Restricted
+CUST00736,Seyi Yusuf,Enugu,POS Purchase,12649.34,Active
+CUST00376,Fatima Abubakar,Abuja,ATM Withdrawal,103107.24,Active
+CUST00617,Bola Adeyemi,Kaduna,Deposit,64872.56,Active
+CUST00854,Tunde Ojo,Abuja,Payment,123915.86,Active
+CUST00974,Maryam Balogun,Lagos,POS Purchase,21338.87,Dormant
+CUST00229,Daniel Sule,Kano,POS Purchase,8845.91,Restricted
+CUST00740,Ngozi Adeyemi,Port Harcourt,Withdrawal,22015.95,Dormant
+CUST01007,Chinedu Adeyemi,Lagos,Deposit,31007.71,Dormant
+CUST00708,Amina Sule,Lagos,POS Purchase,30301.38,Active
+CUST00158,Musa Musa,Lagos,Withdrawal,86997.99,Active
+CUST00209,Tomi Olawale,Enugu,Deposit,19510.14,Active
+CUST00224,Zainab Abubakar,Kaduna,POS Purchase,39814.81,Active
+CUST00118,Bola Abubakar,Kano,Transfer,10418.44,Active
+CUST00830,Bola Nwosu,Lagos,Withdrawal,43926.68,Active
+CUST01062,Tunde Ekanem,Kano,Deposit,28087.17,Active
+CUST00569,Chika Uche,Kaduna,Deposit,13228.73,Active
+CUST00659,Kelechi Adebayo,Enugu,POS Purchase,22117.63,Active
+CUST00852,Obinna Uche,Abuja,Transfer,23290.11,Dormant
+CUST00458,Kelechi Adebayo,Lagos,Deposit,21371.31,Active
+CUST00520,Tunde Danjuma,Kaduna,Transfer,164604.52,Active
+CUST00648,Seyi Yusuf,Kaduna,Deposit,25374.85,Dormant
+CUST00336,Tunde Nwosu,Lagos,Deposit,21939.93,Dormant
+CUST00068,Ada Abubakar,Benin City,Withdrawal,3437.53,Active
+CUST00625,Emeka Danjuma,Lagos,Payment,11450.09,Dormant
+CUST00905,Tomi Yusuf,Lagos,Withdrawal,21523.19,Active
+CUST00081,Zainab Adeyemi,Enugu,Transfer,14102.5,Active
+CUST00239,Seyi Adeyemi,Kano,Transfer,111487.46,Active
+CUST00290,Chinedu Bello,Port Harcourt,Transfer,23742.5,Active
+CUST00886,Chika Uche,Kaduna,Deposit,101559.9,Active
+CUST00556,Maryam Adebayo,Benin City,Deposit,29782.15,Active
+CUST00588,Emeka Danjuma,Lagos,Deposit,29062.03,Active
+CUST00710,Emeka Adebayo,Kano,Transfer,25620.89,Active
+CUST00305,Daniel Yusuf,Enugu,ATM Withdrawal,,Active
+CUST00785,Emeka Adeyemi,Kano,Deposit,156178.49,Active
+CUST00034,Chinedu Okafor,Jos,POS Purchase,2752.73,Active
+CUST00126,Ifeoma Ojo,Ibadan,ATM Withdrawal,3783.54,Active
+CUST00898,Femi Eze,Lagos,Deposit,16265.29,Dormant
+CUST00725,Seyi Adeyemi,Lagos,Deposit,28409.75,Dormant
+CUST00195,Musa Abubakar,Benin City,Withdrawal,55829.86,Active
+CUST00483,Obinna Yusuf,Jos,Deposit,44938.36,Active
+CUST00057,Ngozi Onyeka,Lagos,Payment,19066.99,Active
+CUST00740,Musa Musa,Lagos,Deposit,77575.23,Closed
+CUST00832,Zainab Eze,Enugu,POS Purchase,78445.17,Active
+CUST00307,Seyi Ibrahim,Lagos,Transfer,33658.39,Active
+CUST00386,Musa Musa,Lagos,ATM Withdrawal,73322.1,Active
+CUST00261,Emeka Okafor,Kaduna,ATM Withdrawal,36776.16,Active
+CUST00429,Seyi Adeyemi,Benin City,Transfer,Pending,Active
+CUST00300,Chika Olawale,Kaduna,Online Transfer,56262.11,Active
+CUST00272,Emeka Ekanem,Ibadan,Online Transfer,31274.96,Active
+CUST00474,Daniel Danjuma,Abuja,Transfer,28037.54,Active
+CUST00946,Obinna Okeke,Kaduna,Deposit,122138.8,Active
+CUST00840,Amina Balogun,Abuja,Transfer,2414.11,Active
+CUST00328,Tunde Ibrahim,Abuja,Withdrawal,6783.68,Dormant
+CUST01038,Ngozi Yusuf,Kaduna,Payment,8543.19,Active
+CUST00232,Seyi Uche,Ibadan,Transfer,19471.34,Restricted
+CUST01002,Ada Musa,Kaduna,Transfer,21706.17,Active
+CUST00341,Daniel Uche,Lagos,ATM Withdrawal,6202.04,Dormant
+CUST00595,Musa Musa,Aba,Withdrawal,10454.65,Restricted
+CUST00224,Seyi Adeyemi,Kano,Payment,11838.57,Dormant
+CUST00839,Chika Ojo,Ibadan,Transfer,326891.6,Dormant
+CUST00350,Ada Musa,Aba,POS Purchase,169685.45,Active
+CUST00960,Fatima Uche,Abuja,Payment,18549.73,Active
+CUST00092,Chinedu Eze,Ibadan,Deposit,19465.06,Active
+CUST00553,Musa Adeyemi,Ibadan,ATM Withdrawal,8872.89,Active
+CUST00175,Emeka Balogun,Enugu,Withdrawal,4154.01,Closed
+CUST00978,Obinna Adeyemi,Kaduna,ATM Withdrawal,24911.37,Active
+CUST00459,Tunde Adeyemi,Ibadan,Payment,10322.77,Active
+CUST00742,Fatima Ekanem,Lagos,Transfer,,Restricted
+CUST00968,Kelechi Uche,Lagos,ATM Withdrawal,5651.94,Active
+CUST00590,Ngozi Yusuf,Aba,POS Purchase,13068.83,Active
+CUST00064,Ngozi Nnamdi,Jos,POS Purchase,32486.73,Active
+CUST00243,Femi Sule,Jos,Payment,40383.21,Active
+CUST00234,Amaka Abubakar,Lagos,ATM Withdrawal,42507.33,Dormant
+CUST01006,Tomi Abubakar,Abuja,Transfer,7476.13,Active
+CUST01000,Zainab Uche,Enugu,POS Purchase,65817.79,Active
+CUST00525,Femi Bello,Enugu,POS Purchase,12578.55,Active
+CUST00980,Obinna Nnamdi,Lagos,Deposit,52723.56,Active
+CUST00271,Obinna Sule,Kano,Withdrawal,1O000,Active
+CUST00748,Amina Ojo,Lagos,Withdrawal,7069.69,Restricted
+CUST00432,Tunde Adebayo,Port Harcourt,Deposit,20409.63,Active
+CUST00265,Maryam Onyeka,Lagos,Transfer,40349.07,Active
+CUST00276,Zainab Ojo,Lagos,Withdrawal,51685.12,Active
+CUST00462,Maryam Nwosu,Lagos,Payment,24318.0,Active
+CUST00374,Emeka Okeke,Aba,Deposit,129539.18,Active
+CUST00233,Obinna Nnamdi,Enugu,Withdrawal,76685.7,Active
+CUST00368,Tunde Olawale,Aba,ATM Withdrawal,21661.8,Active
+CUST00142,Chika Yusuf,Port Harcourt,Transfer,59283.22,Restricted
+CUST01067,Amina Onyeka,Port Harcourt,Transfer,193639.46,Active
+CUST00418,Musa Adebayo,,POS Purchase,,Active
+CUST00119,Musa Nwosu,Kano,Online Transfer,8200.58,Active
+CUST00634,Obinna Danjuma,Abuja,Payment,11085.87,Active
+CUST00972,Musa Ojo,Enugu,Deposit,123608.99,Active
+CUST00396,Chinedu Abubakar,Benin City,Deposit,9717.45,Active
+CUST00930,Musa Adeyemi,Kaduna,Online Transfer,7460.81,Active
+CUST00672,Ada Balogun,Abuja,ATM Withdrawal,17218.95,Active
+CUST00814,Bola Okafor,Kano,ATM Withdrawal,42624.59,Active
+CUST00326,Zainab Ojo,Lagos,ATM Withdrawal,25274.8,Active
+CUST00041,Amina Adebayo,Lagos,Withdrawal,14609.05,Active
+CUST00381,Amaka Sule,Ibadan,Transfer,14267.61,Active
+CUST01017,Amina Abubakar,Kano,POS Purchase,13733.9,Active
+CUST00870,Chinedu Bello,Enugu,POS Purchase,11619.62,Active
+CUST00863,Tomi Adebayo,Lagos,Withdrawal,274194.41,Restricted
+CUST00967,Ifeoma Danjuma,Jos,Payment,37702.09,Active
+CUST00411,Emeka Nwosu,Jos,Deposit,67963.01,Active
+CUST00355,Amaka Sule,Port Harcourt,Online Transfer,17169.37,Active
+CUST01018,Daniel Nnamdi,Kaduna,Withdrawal,23248.67,Active
+CUST00629,Daniel Balogun,Abuja,ATM Withdrawal,13717.2,Active
+CUST00328,Amina Abubakar,Enugu,,1974.86,Active
+CUST00306,Ngozi Sule,Kaduna,Payment,7058.24,Active
+CUST00966,Tunde Ibrahim,Benin City,ATM Withdrawal,4579.48,Active
+CUST00059,Maryam Balogun,Benin City,Withdrawal,2951.82,Active
+CUST00068,Obinna Nwosu,Port Harcourt,POS Purchase,8472.67,Active
+CUST00812,Kelechi Okafor,Benin City,POS Purchase,105336.52,Active
+CUST00002,Ada Adeyemi,Ibadan,POS Purchase,26783.03,Active
+CUST00189,Musa Abubakar,Lagos,Transfer,101775.38,Active
+CUST01090,Amaka Abubakar,Lagos,ATM Withdrawal,42232.37,Active
+CUST00469,Daniel Uche,Enugu,Payment,61237.72,Active
+CUST00801,Kelechi Nnamdi,Ibadan,Payment,11373.74,Active
+CUST00536,Fatima Nwosu,Port Harcourt,Transfer,47283.22,Active
+CUST00100,Bola Olawale,Kaduna,Payment,58027.6,Active
+CUST00203,Tunde Adebayo,Ibadan,Deposit,15729.8,Active
+CUST00838,Amaka Ekanem,Abuja,Transfer,48996.3,Active
+CUST00105,Ada Uche,Port Harcourt,Withdrawal,49323.09,Active
+CUST00655,Zainab Bello,Kano,Withdrawal,16161.82,Active
+CUST00383,Tunde Ekanem,Enugu,Deposit,9110.58,Active
+CUST00408,Chinedu Nnamdi,Kano,Withdrawal,8568.36,Active
+CUST01048,Femi Adebayo,Port Harcourt,POS Purchase,30530.01,Active
+CUST00667,,Enugu,Payment,38830.82,Active
+CUST00677,Daniel Nnamdi,Ibadan,Deposit,12675.6,Active
+CUST00386,Kelechi Abubakar,Benin City,POS Purchase,28754.37,Active
+CUST00420,Zainab Adebayo,Lagos,Online Transfer,49538.07,Active
+CUST00755,Ngozi Onyeka,Enugu,POS Purchase,51955.9,Dormant
+CUST00043,Ifeoma Uche,Port Harcourt,POS Purchase,132169.43,Restricted
+CUST00262,Chika Okeke,Lagos,Online Transfer,100402.32,Active
+CUST00661,Chika Ekanem,Ibadan,Payment,10287.33,Restricted
+CUST00686,Seyi Uche,Ibadan,Online Transfer,150775.31,Closed
+CUST00102,Ifeoma Nwosu,Kano,Online Transfer,16464.85,Active
+CUST00867,Obinna Uche,Benin City,Withdrawal,79605.03,Active
+CUST00597,Amaka Adeyemi,Abuja,POS Purchase,29969.83,Active
+CUST00262,Bola Adebayo,Lagos,POS Purchase,18542.31,Active
+CUST00828,Maryam Ojo,Abuja,POS Purchase,4592.88,Active
+CUST01090,Emeka Danjuma,Port Harcourt,POS Purchase,23585.69,Active
+CUST00466,Maryam Yusuf,Ibadan,Transfer,5887.44,Dormant
+CUST00312,Chinedu Sule,Benin City,Transfer,73663.23,Active
+CUST00330,Daniel Onyeka,Enugu,Payment,,Dormant
+CUST00652,Seyi Danjuma,Lagos,ATM Withdrawal,12620.13,Active
+CUST00053,Amaka Nwosu,Abuja,POS Purchase,37870.61,Active
+CUST00532,Ifeoma Balogun,Lagos,POS Purchase,13555.78,Active
+CUST00028,Emeka Abubakar,Ibadan,ATM Withdrawal,14935.18,Active
+CUST00043,Tomi Uche,Abuja,Online Transfer,60745.88,Active
+CUST00474,Kelechi Adeyemi,Kano,Withdrawal,26941.46,Active
+CUST00821,Ngozi Nnamdi,Benin City,Online Transfer,159469.48,Active
+CUST00972,Chinedu Abubakar,Ibadan,Deposit,17287.3,Active
+CUST00097,Amaka Danjuma,Abuja,Payment,76061.39,Active
+CUST00269,Maryam Onyeka,Abuja,Deposit,30864.85,Active
+CUST00464,Ngozi Balogun,Ibadan,Payment,62052.61,Active
+CUST00632,Kelechi Musa,Kano,Transfer,0,Active
+CUST01086,Zainab Okeke,Lagos,Deposit,,Dormant
+CUST00753,Amina Nnamdi,Kaduna,Payment,24945.8,Active
+CUST00593,Fatima Bello,Port Harcourt,ATM Withdrawal,12135.65,Restricted
+CUST00067,Maryam Olawale,Port Harcourt,Withdrawal,54287.07,Active
+CUST00089,Chinedu Musa,Lagos,ATM Withdrawal,53648.5,Active
+CUST00169,Daniel Ekanem,Abuja,Withdrawal,50691.55,Restricted
+CUST00727,Femi Adebayo,Abuja,Deposit,130212.82,Dormant
+CUST00365,Amina Olawale,Abuja,Deposit,119289.02,Active
+CUST00266,Chika Abubakar,Kano,Payment,19245.16,Active
+CUST00738,Zainab Yusuf,Port Harcourt,POS Purchase,40660.49,Active
+CUST00897,Zainab Okeke,Kaduna,Payment,15008.31,Active
+CUST00483,Ifeoma Okafor,Aba,POS Purchase,28661.65,Active
+CUST00971,Zainab Olawale,Lagos,Payment,15370.58,Active
+CUST00808,Tunde Yusuf,Lagos,POS Purchase,141496.48,Active
+CUST00788,Kelechi Ekanem,Enugu,Online Transfer,-2500,Active
+CUST00955,Zainab Balogun,Jos,Transfer,22514.86,Active
+CUST00203,Kelechi Abubakar,Kaduna,Deposit,92371.92,Active
+CUST00835,Seyi Adeyemi,Lagos,Deposit,3195.01,Active
+CUST01054,Daniel Nnamdi,Abuja,Payment,3736.32,Dormant
+CUST01092,Maryam Sule,Lagos,Payment,62056.37,Active
+CUST00636,Ifeoma Musa,Benin City,Withdrawal,29745.35,Active
+CUST00830,Fatima Onyeka,Kano,POS Purchase,35968.76,Active
+CUST00978,Tomi Nnamdi,Port Harcourt,Online Transfer,7432.1,Active
+CUST00938,Tunde Yusuf,Kano,Withdrawal,27356.96,Active
+CUST00988,Seyi Olawale,Abuja,Withdrawal,207620.92,Active
+CUST00916,Fatima Okeke,Kano,Withdrawal,63841.54,Restricted
+CUST00420,Amaka Adebayo,Lagos,Transfer,33178.8,Closed
+CUST00804,Chika Uche,Ibadan,POS Purchase,18050.09,Dormant
+CUST00452,Ngozi Okafor,Enugu,Payment,18871.1,Dormant
+CUST00882,Bola Abubakar,Ibadan,Deposit,3330.11,Active
+CUST00892,Chika Ojo,,Transfer,36228.46,Active
+CUST01029,Amaka Adeyemi,Benin City,Deposit,,Active
+CUST00648,Ngozi Olawale,Ibadan,Transfer,5792.62,Dormant
+CUST00523,Seyi Uche,Lagos,Transfer,14451.35,Active
+CUST00183,Daniel Ojo,Lagos,Payment,8799.9,Active
+CUST00703,Kelechi Yusuf,Ibadan,Payment,,Active
+CUST00624,Maryam Okeke,Abuja,POS Purchase,29538.25,Active
+CUST00567,Bola Yusuf,Lagos,Deposit,3482.68,Active
+CUST00744,Tomi Nnamdi,Lagos,POS Purchase,51752.61,Active
+CUST00937,Emeka Sule,Lagos,Deposit,59504.95,Active
+CUST00164,Emeka Nwosu,Port Harcourt,Withdrawal,21782.39,Active
+CUST00475,Maryam Yusuf,Kano,POS Purchase,2343.15,Dormant
+CUST00795,Emeka Abubakar,Lagos,ATM Withdrawal,10337.58,Active
+CUST00902,Chinedu Onyeka,Ibadan,Withdrawal,96072.82,Active
+CUST00857,Chinedu Bello,Abuja,Transfer,1740.57,Active
+CUST00880,Chinedu Okafor,Abuja,ATM Withdrawal,19780.19,Active
+CUST00941,Amaka Nwosu,Lagos,Online Transfer,8603.8,Dormant
+CUST01059,Kelechi Bello,Enugu,Payment,62600.6,Active
+CUST00669,Ngozi Okafor,Aba,Deposit,14254.76,Restricted
+CUST00274,Zainab Onyeka,Port Harcourt,Transfer,41936.58,Active
+CUST00620,Musa Sule,Lagos,Deposit,49287.23,Active
+CUST00781,Chinedu Ekanem,Abuja,Deposit,175638.93,Closed
+CUST00111,Femi Yusuf,Lagos,Payment,22857.12,Active
+CUST00833,Tomi Okafor,Benin City,POS Purchase,40782.33,Dormant
+CUST00599,Ada Abubakar,Lagos,Deposit,6341.71,Active
+CUST01030,Maryam Danjuma,Jos,POS Purchase,92076.35,Active
+CUST00234,Ada Okafor,Kano,ATM Withdrawal,13088.0,Active
+CUST00998,Obinna Musa,Port Harcourt,ATM Withdrawal,15981.8,Active
+CUST00493,Maryam Adeyemi,Benin City,Withdrawal,27383.94,Dormant
+CUST00631,Ada Onyeka,Lagos,Transfer,5866.86,Active
+CUST00727,Amaka Ibrahim,Enugu,Deposit,35197.48,Active
+CUST00638,Tunde Eze,Lagos,Withdrawal,73675.53,Active
+CUST00995,Obinna Nwosu,Benin City,Withdrawal,37529.91,Active
+CUST00185,Kelechi Olawale,Kano,Withdrawal,5716.22,Active
+CUST00803,Femi Onyeka,Lagos,Withdrawal,24739.35,Restricted
+CUST01073,Bola Sule,Benin City,Withdrawal,58805.38,Active
+CUST00243,Bola Balogun,Lagos,Online Transfer,4281.12,Active
+CUST00281,Amina Sule,Lagos,POS Purchase,9558.57,Active
+CUST00523,Daniel Nnamdi,Benin City,Transfer,67272.27,Active
+CUST00798,Chika Uche,Port Harcourt,Online Transfer,36682.51,Active
+CUST01055,Kelechi Adeyemi,Kaduna,Withdrawal,42274.16,Active
+CUST00876,Amina Adebayo,Ibadan,Transfer,179773.79,Active
+CUST00874,Amina Balogun,Ibadan,POS Purchase,44735.05,Dormant
+CUST00486,Daniel Balogun,Abuja,Transfer,54059.89,Active
+CUST00710,Maryam Yusuf,Lagos,Withdrawal,421133.56,Active
+CUST00233,Chinedu Okafor,Jos,Transfer,,Dormant
+CUST00510,Emeka Bello,Lagos,Transfer,12607.88,Dormant
+CUST00208,Tomi Danjuma,Kano,Payment,42948.46,Restricted
+CUST00030,Seyi Ojo,Abuja,Transfer,43431.96,Active
+CUST00943,Tunde Onyeka,Abuja,Transfer,16535.16,Closed
+CUST00886,Chinedu Uche,Kano,Withdrawal,9972.26,Dormant
+CUST00562,Zainab Ojo,Benin City,Payment,282040.01,Dormant
+CUST00016,Tomi Musa,Enugu,Withdrawal,38824.36,Active
+CUST00100,Chinedu Bello,Kaduna,POS Purchase,13462.65,Closed
+CUST00123,Bola Abubakar,Abuja,ATM Withdrawal,69974.77,Active
+CUST00789,Chika Adebayo,Port Harcourt,Transfer,25104.81,Active
+CUST00224,Emeka Okeke,Lagos,ATM Withdrawal,21743.68,Active
+CUST00276,Ada Olawale,Enugu,Deposit,49130.37,Active
+CUST00948,Chika Nwosu,Abuja,Transfer,7693.09,Active
+CUST00965,Daniel Bello,Kano,Transfer,39838.42,Active
+CUST00840,Ifeoma Ibrahim,Lagos,Transfer,189646.03,Active
+CUST00341,Chika Uche,Benin City,ATM Withdrawal,44628.92,Active
+CUST00638,Chika Balogun,Benin City,Online Transfer,19220.79,Active
+CUST00221,Maryam Okeke,Kaduna,Transfer,16862.62,Active
+CUST00944,Daniel Nwosu,Lagos,Transfer,18575.89,Dormant
+CUST00094,Amina Onyeka,Jos,Payment,21720.18,Dormant
+CUST00819,Fatima Adebayo,Abuja,Withdrawal,19190.17,Active
+CUST00563,Tunde Danjuma,Abuja,Deposit,70001.45,Active
+CUST00834,Kelechi Bello,Abuja,Online Transfer,4948.06,Active
+CUST00496,Seyi Ekanem,Abuja,POS Purchase,66300.97,Dormant
+CUST00174,Femi Ekanem,Kano,Online Transfer,19154.12,Active
+CUST00827,Daniel Okeke,Lagos,Withdrawal,40819.19,Dormant
+CUST00695,Ada Musa,Abuja,Deposit,9072.22,Closed
+CUST00512,Musa Yusuf,Ibadan,Transfer,105724.39,Active
+CUST00410,Kelechi Sule,Benin City,Online Transfer,97303.94,Active
+CUST00379,Maryam Balogun,Ibadan,Deposit,0,Active
+CUST00530,Amaka Ibrahim,Kano,Deposit,6156.14,Active
+CUST00288,Chika Balogun,Lagos,Deposit,64156.51,Active
+CUST00311,Amina Ekanem,Benin City,ATM Withdrawal,41974.39,Active
+CUST00306,Ifeoma Uche,Lagos,POS Purchase,5623.38,Active
+CUST00014,Amina Bello,Abuja,ATM Withdrawal,27327.87,Active
+CUST01021,Bola Nwosu,Lagos,Deposit,,Active
+CUST00261,Daniel Nwosu,Ibadan,ATM Withdrawal,48826.82,Active
+CUST00182,Daniel Okeke,Abuja,Transfer,33430.41,Active
+CUST00167,Fatima Eze,Ibadan,Deposit,37466.08,Active
+CUST01087,Amina Okafor,Abuja,Withdrawal,122219.17,Dormant
+CUST00525,Ifeoma Nnamdi,Port Harcourt,Transfer,95415.25,Active
+CUST00360,Fatima Musa,Port Harcourt,Withdrawal,1592.25,Active
+CUST00445,Tunde Nwosu,Lagos,Online Transfer,,Closed
+CUST00098,Amina Ibrahim,Port Harcourt,Transfer,23749.31,Dormant
+CUST00346,Amaka Nnamdi,Ibadan,Transfer,Not Available,Active
+CUST00274,Maryam Abubakar,Kano,ATM Withdrawal,30765.3,Active
+CUST00884,Obinna Danjuma,Lagos,ATM Withdrawal,97608.28,Active
+CUST00065,Tunde Okafor,Ibadan,Deposit,9446.43,Active
+CUST00468,Amina Sule,Abuja,Payment,39197.21,Active
+CUST00870,Maryam Bello,Lagos,Withdrawal,,Active
+CUST00917,Femi Ekanem,Lagos,Transfer,14300.47,Active
+CUST00564,Seyi Balogun,Port Harcourt,ATM Withdrawal,122682.31,Active
+CUST00245,Ada Adeyemi,Abuja,Payment,16275.27,Active
+CUST00371,Amaka Balogun,Ibadan,Transfer,44452.31,Active
+CUST00245,Amina Abubakar,Abuja,Deposit,4310.21,Active
+CUST00729,Kelechi Ojo,Enugu,Transfer,180281.96,Active
+CUST00322,Obinna Ibrahim,Abuja,Withdrawal,51154.83,Active
+CUST00694,Daniel Ibrahim,Ibadan,Online Transfer,23329.17,Active
+CUST00722,Ngozi Musa,Benin City,Payment,49786.86,Active
+CUST01034,Ifeoma Musa,Abuja,POS Purchase,6837.25,Active
+CUST00408,Tomi Nwosu,Lagos,Transfer,91353.38,Active
+CUST01058,Amina Ibrahim,Kano,POS Purchase,20251.32,Restricted
+CUST00441,Amaka Musa,Jos,Deposit,22831.36,Active
+CUST00749,Amaka Adeyemi,Jos,Withdrawal,17125.16,Active
+CUST00728,Tomi Bello,Lagos,Deposit,15666.95,Active
+CUST00900,Fatima Musa,Enugu,Deposit,56085.38,Active
+CUST00517,Kelechi Yusuf,Abuja,Online Transfer,36165.71,Active
+CUST00872,Femi Ekanem,Lagos,ATM Withdrawal,53728.99,Active
+CUST00391,Zainab Nnamdi,Ibadan,Payment,27754.83,Dormant
+CUST00541,Tunde Nwosu,Port Harcourt,Payment,46777.59,Active
+CUST00550,Ifeoma Okafor,Kano,Payment,18418.5,Active
+CUST00775,Daniel Okeke,Benin City,Payment,260326.43,Active
+CUST00681,Femi Balogun,Abuja,POS Purchase,5837.33,Active
+CUST00087,Seyi Nnamdi,Ibadan,Payment,98804.37,Active
+CUST00890,Seyi Danjuma,Abuja,ATM Withdrawal,109959.48,Active
+CUST00834,Femi Nwosu,Lagos,Withdrawal,11941.81,Active
+CUST00116,Ifeoma Okeke,Abuja,Online Transfer,260207.17,Active
+CUST01059,Femi Olawale,Aba,Deposit,75769.42,Restricted
+CUST00727,Tomi Okeke,Port Harcourt,Transfer,73946.62,Active
+CUST00094,Emeka Balogun,Lagos,POS Purchase,28795.72,Restricted
+CUST00541,Seyi Adeyemi,Ibadan,Withdrawal,22532.94,Active
+CUST00920,Tomi Ojo,Jos,Deposit,22709.78,Dormant
+CUST00308,Kelechi Okeke,Kaduna,Transfer,41377.41,Active
+CUST01027,Daniel Musa,Kano,Transfer,113680.38,Active
+CUST00461,Daniel Sule,Abuja,Online Transfer,33566.17,Dormant
+CUST00249,Tunde Ojo,Kano,POS Purchase,11254.42,Active
+CUST00393,Zainab Ojo,Benin City,Transfer,63856.07,Active
+CUST00578,Maryam Ibrahim,Kaduna,Online Transfer,70341.03,Dormant
+CUST00757,Maryam Okafor,Benin City,Payment,Not Available,Active
+CUST01021,Musa Olawale,Port Harcourt,POS Purchase,59009.79,Active
+CUST00215,Musa Adeyemi,Lagos,Withdrawal,21354.8,Active
+CUST01057,Amina Danjuma,Kano,Transfer,11058.68,Active
+CUST00581,Tomi Nwosu,Lagos,Deposit,11751.85,Closed
+CUST00141,Ifeoma Uche,Lagos,Deposit,5456.14,Active
+CUST01020,Bola Nwosu,Port Harcourt,ATM Withdrawal,35486.53,Active
+CUST00384,Amaka Balogun,Ibadan,Deposit,25758.27,Active
+CUST00683,Amina Nnamdi,Kaduna,Payment,18033.24,Restricted
+CUST00768,Femi Yusuf,Enugu,ATM Withdrawal,1457.3,Active
+CUST00015,Chika Balogun,Kaduna,Deposit,8043.68,Active
+CUST00244,Maryam Onyeka,Enugu,Transfer,85888.09,Restricted
+CUST00756,Amaka Abubakar,Ibadan,ATM Withdrawal,14405.05,Active
+CUST00358,Chinedu Sule,Lagos,POS Purchase,40156.98,Dormant
+CUST00011,Maryam Ekanem,Ibadan,Withdrawal,6969.33,Active
+CUST00026,Amina Eze,Lagos,Online Transfer,118026.6,Active
+CUST00910,Kelechi Sule,Lagos,POS Purchase,24244.19,Active
+CUST00169,Emeka Ekanem,Lagos,ATM Withdrawal,37421.48,Closed
+CUST00111,Chinedu Ojo,Benin City,Transfer,286570.42,Restricted
+CUST00619,Daniel Okeke,Enugu,ATM Withdrawal,127567.37,Active
+CUST00131,Amaka Eze,Aba,POS Purchase,,Active
+CUST00719,Ada Eze,Jos,Withdrawal,15471.26,Active
+CUST00599,Bola Uche,Kaduna,Online Transfer,20219.74,Active
+CUST00714,Obinna Onyeka,Lagos,Online Transfer,46623.41,Active
+CUST00541,Maryam Ojo,Kaduna,Transfer,25203.44,Active
+CUST00857,Chika Uche,Benin City,ATM Withdrawal,18858.44,Active
+CUST00710,Musa Sule,Kaduna,Payment,121435.8,Active
+CUST00457,Daniel Nnamdi,Lagos,ATM Withdrawal,24977.98,Restricted
+CUST00017,Chika Onyeka,Lagos,POS Purchase,279162.38,Active
+CUST00301,Ngozi Sule,Aba,Deposit,30659.64,Active
+CUST00145,Ada Yusuf,Lagos,Deposit,166921.38,Active
+CUST00018,Tunde Adeyemi,Abuja,Transfer,40025.79,Active
+CUST00301,Amaka Bello,Port Harcourt,Online Transfer,73344.32,Active
+CUST00228,Tunde Nwosu,Lagos,Transfer,13566.36,Active
+CUST00085,Fatima Adeyemi,Lagos,POS Purchase,11922.71,Active
+CUST00344,Seyi Nnamdi,Jos,Transfer,44341.03,Active
+CUST00558,Zainab Onyeka,Kaduna,Withdrawal,75245.62,Dormant
+CUST00197,Tomi Sule,Aba,Online Transfer,29150.18,Active
+CUST00301,Tomi Eze,Abuja,Payment,7735.43,Active
+CUST00023,Musa Nnamdi,Lagos,Transfer,7184.65,Active
+CUST00056,Seyi Bello,Port Harcourt,Deposit,6719.87,Active
+CUST00174,Ifeoma Adebayo,Port Harcourt,Deposit,4780.68,Active
+CUST00499,Tunde Okafor,Lagos,Deposit,31239.7,Dormant
+CUST00733,Seyi Eze,Enugu,Transfer,86249.86,Restricted
+CUST00868,Emeka Uche,Jos,Payment,27626.87,Active
+CUST00693,Obinna Ibrahim,Kano,Withdrawal,2920.6,Active
+CUST00679,Maryam Ibrahim,Abuja,Deposit,23137.25,
+CUST01030,Seyi Abubakar,Abuja,Withdrawal,23793.34,Active
+CUST00282,Amaka Nnamdi,Lagos,Transfer,227739.69,Active
+CUST00878,Kelechi Balogun,Abuja,Online Transfer,6521.25,Active
+CUST01031,Emeka Ibrahim,Port Harcourt,Transfer,18944.75,Active
+CUST00625,Amaka Balogun,Port Harcourt,Deposit,154170.2,Active
+CUST00925,Ada Ekanem,Kano,Payment,43911.79,Active
+CUST00152,Zainab Nnamdi,Benin City,Online Transfer,49181.5,Active
+CUST00967,Chika Danjuma,Lagos,POS Purchase,31399.41,Active
+CUST00621,Daniel Okafor,Lagos,POS Purchase,38944.91,Restricted
+CUST00244,Zainab Olawale,Lagos,Online Transfer,60935.38,Active
+CUST00068,Bola Bello,Lagos,Payment,12462.43,Active
+CUST00792,Chika Eze,Kano,Online Transfer,67374.26,Restricted
+CUST00474,Maryam Ibrahim,Benin City,Deposit,7093.66,Active
+CUST00342,Fatima Okeke,Kaduna,POS Purchase,38883.6,Active
+CUST00430,Zainab Nnamdi,Ibadan,POS Purchase,33479.91,Active
+CUST01091,Tunde Musa,Port Harcourt,Online Transfer,15118.38,Active
+CUST00471,Tomi Onyeka,Lagos,Transfer,27371.96,Active
+CUST00087,Seyi Ekanem,Port Harcourt,POS Purchase,15024.23,Dormant
+CUST00308,Daniel Ekanem,Abuja,Withdrawal,9587.91,Active
+CUST00160,Daniel Ojo,Kaduna,Payment,19660.07,Active
+CUST00755,Tunde Sule,Port Harcourt,Transfer,9283.29,Active
+CUST00881,Fatima Nnamdi,Lagos,Payment,38667.6,Restricted
+CUST00926,Femi Ibrahim,Abuja,ATM Withdrawal,8865.07,Active
+CUST00697,Ifeoma Ekanem,Lagos,Transfer,57064.46,Active
+CUST00846,Chika Bello,Aba,Withdrawal,8591.09,Active
+CUST00460,Ngozi Okeke,Lagos,Withdrawal,15893.49,
+CUST00691,Tunde Uche,Lagos,ATM Withdrawal,14993.27,Active
+CUST00118,Ifeoma Eze,Lagos,ATM Withdrawal,Unknown,Active
+CUST00593,Emeka Sule,Benin City,ATM Withdrawal,38958.4,Active
+CUST00614,Ngozi Onyeka,Kano,Deposit,22657.04,Closed
+CUST00035,Daniel Danjuma,Ibadan,POS Purchase,46105.12,Active
+CUST00604,Femi Nwosu,Abuja,ATM Withdrawal,3404.21,Closed
+CUST00796,Chika Balogun,Lagos,Deposit,26817.94,Active
+CUST00405,Amaka Ibrahim,Kaduna,Transfer,206379.91,Active
+CUST00600,Tomi Abubakar,Lagos,Transfer,31962.11,Restricted
+CUST00315,Emeka Abubakar,Lagos,Transfer,29967.63,Dormant
+CUST00298,Emeka Yusuf,Kano,Deposit,48440.34,Active
+CUST00143,Ifeoma Nwosu,Lagos,Withdrawal,68566.89,Active
+CUST00361,Emeka Okeke,Lagos,Deposit,3799.0,Dormant
+CUST00884,Musa Ekanem,Benin City,Deposit,5206.34,Active
+CUST01030,Chinedu Sule,Port Harcourt,Withdrawal,34553.05,Active
+CUST00700,Ada Yusuf,Abuja,POS Purchase,13699.07,Active
+CUST00687,Ngozi Olawale,Abuja,Payment,103983.24,Active
+CUST00676,Daniel Abubakar,Enugu,Transfer,20430.53,Active
+CUST00524,Obinna Yusuf,Lagos,ATM Withdrawal,,Active
+CUST00466,Amaka Yusuf,Lagos,Payment,7878.92,Active
+CUST00684,Amaka Nnamdi,Kano,Deposit,1790.56,Active
+CUST00863,Tomi Ibrahim,Kano,Withdrawal,22155.35,Active
+CUST00456,Amina Ojo,Jos,Withdrawal,23192.3,Active
+CUST00623,Ada Uche,Abuja,Payment,18315.39,Active
+CUST00518,Ifeoma Adebayo,Lagos,Transfer,82358.65,Active
+CUST00315,Bola Uche,Kano,Transfer,92825.77,Active
+CUST00320,Maryam Adeyemi,Ibadan,Payment,,Dormant
+CUST00087,Emeka Nnamdi,Lagos,Online Transfer,3311.86,Active
+CUST00484,Chika Yusuf,Kano,Withdrawal,51908.68,Active
+CUST00784,Maryam Onyeka,Lagos,Payment,48791.92,Active
+CUST00755,Tunde Ojo,Benin City,Transfer,38152.68,Active
+CUST01085,Tunde Musa,,ATM Withdrawal,74715.25,Active
+CUST00044,Maryam Sule,,ATM Withdrawal,8735.34,Active
+CUST00837,Maryam Adebayo,Jos,ATM Withdrawal,208712.96,Active
+CUST00875,Musa Abubakar,Jos,Withdrawal,10727.14,Active
+CUST00481,Zainab Danjuma,Lagos,Transfer,59229.96,Active
+CUST00312,Tunde Uche,Abuja,POS Purchase,5180.27,Active
+CUST00393,Ifeoma Adebayo,Kano,Transfer,11044.58,Active
+CUST00751,Musa Musa,Lagos,Online Transfer,127558.25,Active
+CUST00949,Fatima Bello,Abuja,Transfer,21570.03,Active
+CUST00707,Musa Eze,Abuja,Transfer,64853.26,Active
+CUST00566,Kelechi Olawale,Aba,Transfer,35486.77,Active
+CUST00718,Chika Sule,Port Harcourt,Transfer,25210.14,Active
+CUST00078,Femi Danjuma,Enugu,POS Purchase,109514.27,Active
+CUST00669,Emeka Ekanem,Abuja,Deposit,22099.29,Active
+CUST00047,Ngozi Olawale,Lagos,Payment,4718.38,Active
+CUST01056,Zainab Adebayo,Kaduna,Payment,12540.51,Active
+CUST00979,Chika Sule,Lagos,POS Purchase,Not Available,Active
+CUST00560,Maryam Musa,Lagos,Payment,41583.92,Active
+CUST00412,Femi Abubakar,Abuja,Online Transfer,5842.43,Active
+CUST00806,Emeka Okeke,Ibadan,POS Purchase,13570.01,Active
+CUST00702,Ifeoma Adeyemi,Abuja,Transfer,15650.19,Restricted
+CUST00776,Chika Musa,Lagos,POS Purchase,19428.38,Closed
+CUST00568,Obinna Eze,Abuja,Online Transfer,7073.04,Dormant
+CUST00260,Ngozi Danjuma,Abuja,Withdrawal,14936.88,Active
+CUST00081,Chinedu Musa,Lagos,Payment,13512.21,Active
+CUST00312,Ngozi Nwosu,,Withdrawal,60566.25,Active
+CUST00582,Kelechi Nwosu,Lagos,Payment,Pending,Dormant
+CUST00467,Seyi Uche,Abuja,Deposit,-2500,Active
+CUST00558,Daniel Yusuf,Ibadan,ATM Withdrawal,18918.96,Active
+CUST00306,Ngozi Ojo,Enugu,Transfer,32205.23,Active
+CUST01032,Bola Danjuma,Abuja,Payment,12374.39,Dormant
+CUST00404,Daniel Nnamdi,Abuja,Deposit,8893.96,Dormant
+CUST00931,Amina Bello,Abuja,ATM Withdrawal,10935.16,Active
+CUST00431,Daniel Onyeka,Aba,Transfer,##VALUE!,Active
+CUST00488,Bola Sule,Lagos,Payment,N/A,Active
+CUST00665,Musa Yusuf,Lagos,Withdrawal,32926.05,Dormant
+CUST00290,Seyi Ojo,Port Harcourt,Deposit,58085.74,Active
+CUST00242,Ada Bello,Lagos,Transfer,5726.51,Active
+CUST00418,Musa Sule,Lagos,Online Transfer,,Active
+CUST00885,Amina Abubakar,Lagos,Withdrawal,22471.97,Dormant
+CUST00160,Daniel Olawale,Ibadan,ATM Withdrawal,39397.93,Active
+CUST00482,Amaka Olawale,Kano,Deposit,27640.05,Active
+CUST00740,Tomi Musa,Ibadan,ATM Withdrawal,6544.37,Active
+CUST00777,Seyi Adeyemi,Enugu,Withdrawal,7923.36,Active
+CUST00478,Seyi Abubakar,Abuja,Transfer,,Active
+CUST00090,Chika Nwosu,Aba,Transfer,78334.29,Active
+CUST00018,Chika Yusuf,Enugu,Deposit,3058.78,Active
+CUST00517,Seyi Adebayo,Benin City,Transfer,39564.45,Active
+CUST00892,Chinedu Eze,Enugu,Transfer,92003.49,Dormant
+CUST00032,Musa Okafor,Abuja,Payment,24027.01,Dormant
+CUST00977,Tunde Ibrahim,Abuja,Online Transfer,48540.91,Active
+CUST00744,Musa Nnamdi,Port Harcourt,Transfer,13861.78,Active
+CUST00009,Ada Danjuma,Lagos,Online Transfer,24849.52,Active
+CUST00379,Zainab Nwosu,Port Harcourt,Transfer,5536.1,Dormant
+CUST00243,Ifeoma Ibrahim,Lagos,Deposit,2685.48,Active
+CUST01045,Bola Bello,Lagos,Withdrawal,71878.01,Active
+CUST00611,Fatima Musa,Aba,Transfer,10456.35,Closed
+CUST00357,Amina Sule,Ibadan,Withdrawal,17755.17,Active
+CUST00306,Emeka Adebayo,Kano,POS Purchase,##VALUE!,Active
+CUST00621,Daniel Adeyemi,Abuja,ATM Withdrawal,6836.22,Active
+CUST00006,Kelechi Danjuma,Kano,Payment,23532.13,Active
+CUST00284,Amina Eze,Kaduna,Transfer,13499.16,Active
+CUST00182,Ada Olawale,Ibadan,Transfer,40860.98,Active
+CUST00683,Tomi Bello,Kano,Payment,44024.35,Active
+CUST00737,Ngozi Ojo,Port Harcourt,Deposit,38592.35,Closed
+CUST00514,Kelechi Onyeka,Abuja,Deposit,35545.21,Active
+CUST00155,Musa Okafor,Ibadan,Withdrawal,135635.71,Active
+CUST00408,Ada Okeke,Jos,Withdrawal,9627.38,Active
+CUST00928,Tunde Danjuma,Port Harcourt,ATM Withdrawal,26503.31,Dormant
+CUST00225,Ngozi Yusuf,Abuja,Deposit,86911.85,Active
+CUST00180,Amina Uche,Port Harcourt,Deposit,99160.95,Active
+CUST00123,Daniel Bello,Port Harcourt,Online Transfer,6756.07,Restricted
+CUST00899,Tunde Eze,Jos,Online Transfer,20488.2,Active
+CUST00132,Seyi Sule,Ibadan,Transfer,108888.63,Active
+CUST00640,Ifeoma Nwosu,Abuja,Transfer,Pending,Dormant
+CUST01099,Daniel Nwosu,Abuja,POS Purchase,34037.66,Active
+CUST00706,Ngozi Bello,Port Harcourt,Deposit,22522.61,Active
+CUST00454,Obinna Ojo,Lagos,Transfer,19075.48,Active
+CUST00228,Ada Ekanem,Kano,Deposit,37353.39,Dormant
+CUST00003,Emeka Nnamdi,Benin City,Transfer,21754.71,Restricted
+CUST00172,Fatima Olawale,Ibadan,Online Transfer,26832.82,Active
+CUST01049,Ngozi Danjuma,Lagos,ATM Withdrawal,30289.56,Active
+CUST00158,Femi Nnamdi,Enugu,Online Transfer,14212.66,Active
+CUST00022,Zainab Bello,Ibadan,ATM Withdrawal,47671.51,Active
+CUST00898,Tunde Nwosu,Abuja,Payment,516176.71,Active
+CUST00461,Tunde Ojo,Ibadan,ATM Withdrawal,4736.12,Active
+CUST00393,Daniel Sule,Kano,ATM Withdrawal,38714.61,Active
+CUST00790,Amaka Okeke,Benin City,Transfer,13092.17,Active
+CUST00576,Ngozi Uche,Lagos,Withdrawal,49879.35,Active
+CUST01007,Bola Bello,Lagos,Payment,29334.43,Active
+CUST00515,Kelechi Abubakar,Port Harcourt,Withdrawal,59982.89,Active
+CUST00785,Femi Ekanem,Lagos,Transfer,90713.94,Active
+CUST00967,Femi Adeyemi,Port Harcourt,Deposit,33941.06,Active
+CUST00510,Ada Adeyemi,Enugu,Payment,86856.45,Active
+CUST00313,Zainab Onyeka,Lagos,Withdrawal,2685.61,Active
+CUST01072,Femi Onyeka,Port Harcourt,Withdrawal,N/A,Active
+CUST00250,Zainab Balogun,Jos,Transfer,40742.29,Active
+CUST00044,Ifeoma Adebayo,Port Harcourt,Deposit,82273.4,Dormant
+CUST00636,Kelechi Yusuf,Port Harcourt,Online Transfer,8267.47,Active
+CUST01086,Daniel Eze,Kano,Transfer,12199.98,Active
+CUST00096,Kelechi Yusuf,Lagos,Transfer,32399.49,Restricted
+CUST00935,Femi Bello,Lagos,Deposit,27526.98,Active
+CUST00914,Obinna Okafor,Ibadan,POS Purchase,37161.49,Active
+CUST01022,Fatima Okeke,Abuja,Payment,82824.15,Active
+CUST00464,Ngozi Balogun,Abuja,Transfer,4792.17,Active
+CUST00281,Chika Danjuma,Lagos,Withdrawal,74145.07,Active
+CUST00564,Fatima Abubakar,Benin City,ATM Withdrawal,28232.86,Active
+CUST00157,Emeka Yusuf,Lagos,Online Transfer,22837.93,Dormant
+CUST00928,Amina Okafor,Enugu,Transfer,,Active
+CUST00730,Chika Bello,Abuja,Deposit,46305.15,Active
+CUST00532,Ada Musa,Kano,Deposit,2504.52,Dormant
+CUST00568,Zainab Adebayo,Abuja,Deposit,53549.07,Active
+CUST00784,Chinedu Balogun,Lagos,ATM Withdrawal,6297.16,Active
+CUST00576,Obinna Adeyemi,Kano,Online Transfer,29537.55,Active
+CUST00924,Obinna Danjuma,Ibadan,Online Transfer,24854.42,Active
+CUST01018,Amaka Balogun,Lagos,POS Purchase,90174.14,Closed
+CUST01045,Amina Abubakar,Port Harcourt,Deposit,23419.04,Active
+CUST00683,Maryam Ekanem,Port Harcourt,Online Transfer,13986.13,Active
+CUST00817,Ngozi Musa,Lagos,Withdrawal,16871.1,Active
+CUST00343,Amina Adeyemi,Kano,Transfer,99991.71,Active
+CUST00042,Amina Onyeka,Lagos,ATM Withdrawal,47870.6,Active
+CUST00441,Zainab Nwosu,Port Harcourt,Deposit,19040.62,Active
+CUST00959,Maryam Okeke,Lagos,POS Purchase,-2500,Active
+CUST00147,Daniel Ojo,Port Harcourt,Online Transfer,,Active
+CUST00601,Amina Adeyemi,Abuja,POS Purchase,Unknown,Active
+CUST00212,Amaka Uche,Port Harcourt,POS Purchase,4818.14,Dormant
+CUST00473,Chinedu Uche,Port Harcourt,Transfer,59382.58,Active
+CUST00158,Amina Danjuma,Kaduna,Deposit,31843.27,Active
+CUST00809,Tunde Nnamdi,Port Harcourt,POS Purchase,304647.79,Restricted
+CUST00892,Femi Ekanem,Benin City,Payment,9319.13,Active
+CUST00835,Chinedu Adeyemi,Lagos,Online Transfer,25268.09,Active
+CUST00776,Emeka Eze,Abuja,Deposit,169100.33,Restricted
+CUST00259,Ada Nwosu,Lagos,Withdrawal,92166.26,Restricted
+CUST00584,Ada Ibrahim,Port Harcourt,,13957.16,Active
+CUST00116,Tomi Sule,Ibadan,ATM Withdrawal,35028.85,Active
+CUST00412,Obinna Onyeka,Benin City,POS Purchase,28056.04,Restricted
+CUST00557,Bola Ibrahim,Kano,Online Transfer,37120.17,Active
+CUST00736,Fatima Nwosu,Ibadan,Withdrawal,13922.75,Active
+CUST00107,Bola Eze,Lagos,Transfer,25607.47,Active
+CUST00895,Ada Okeke,Lagos,Deposit,5664.12,Active
+CUST00505,Amaka Musa,Benin City,Withdrawal,32050.99,Dormant
+CUST00970,Obinna Bello,Lagos,Transfer,43913.65,Dormant
+CUST00581,Bola Ojo,Lagos,Payment,22304.43,Active
+CUST00602,Amina Yusuf,Aba,Transfer,5568.66,Active
+CUST00762,Musa Onyeka,Jos,Transfer,75244.02,Active
+CUST00902,Fatima Adebayo,Kano,Payment,40315.24,Active
+CUST00174,Tomi Ojo,Abuja,POS Purchase,13547.33,Active
+CUST00563,Emeka Sule,Benin City,Withdrawal,,Active
+CUST00033,Emeka Musa,Lagos,Transfer,6243.46,Active
+CUST00522,Tunde Ojo,Port Harcourt,ATM Withdrawal,10042.18,Active
+CUST00895,Tunde Uche,Abuja,POS Purchase,16352.7,Active
+CUST00952,Obinna Okafor,Aba,POS Purchase,95643.27,Active
+CUST00312,Chinedu Okafor,Aba,Withdrawal,N/A,Restricted
+CUST00426,Kelechi Adebayo,Ibadan,Payment,53112.81,Active
+CUST00607,Tomi Sule,Lagos,Online Transfer,16344.45,Active
+CUST00436,Daniel Nwosu,Port Harcourt,Transfer,35879.0,Active
+CUST00196,Emeka Adebayo,Abuja,Transfer,24308.08,Active
+CUST00336,Maryam Danjuma,Kaduna,Online Transfer,67038.1,Active
+CUST00445,Kelechi Okeke,Lagos,Deposit,16401.83,Active
+CUST00571,Kelechi Danjuma,Lagos,ATM Withdrawal,5810.56,Active
+CUST01013,Seyi Musa,Ibadan,POS Purchase,7030.48,Active
+CUST00600,Amina Ojo,Port Harcourt,Deposit,16450.03,Active
+CUST00426,Fatima Eze,Benin City,ATM Withdrawal,8029.68,Active
+CUST00727,Obinna Adebayo,Lagos,Transfer,42199.84,Active
+CUST00851,Emeka Uche,Benin City,POS Purchase,17574.28,Active
+CUST00474,Obinna Adebayo,Lagos,Online Transfer,300909.95,Active
+CUST00539,Daniel Bello,Lagos,POS Purchase,4925.82,Active
+CUST00240,Musa Adeyemi,Port Harcourt,Deposit,34323.76,Dormant
+CUST00952,Ifeoma Okeke,Lagos,ATM Withdrawal,9063.46,Active
+CUST00954,Amina Abubakar,Kano,Online Transfer,17095.29,Active
+CUST00193,Musa Okafor,Lagos,Payment,32253.42,Active
+CUST00381,Fatima Olawale,Lagos,Payment,2736.92,Active
+CUST00300,Ifeoma Ojo,Enugu,Deposit,35482.18,Active
+CUST01016,Ifeoma Ekanem,Lagos,POS Purchase,187750.13,Restricted
+CUST00072,Kelechi Nnamdi,Ibadan,Deposit,17792.31,Active
+CUST00229,Fatima Ojo,Enugu,Withdrawal,36307.07,Active
+CUST00347,Tomi Olawale,Lagos,Online Transfer,78032.56,Active
+CUST00617,Maryam Uche,Enugu,Online Transfer,23765.88,Active
+CUST00274,Ngozi Okafor,Abuja,Online Transfer,15662.11,Restricted
+CUST00591,Amaka Okafor,Abuja,Transfer,2876.19,Restricted
+CUST00822,Kelechi Abubakar,Lagos,Withdrawal,53154.1,Active
+CUST00912,Fatima Okafor,Benin City,Transfer,25004.01,Active
+CUST00109,Seyi Okafor,Kano,Deposit,10170.8,Active
+CUST00153,Daniel Adeyemi,,POS Purchase,31778.86,Active
+CUST00105,Tunde Olawale,Jos,Payment,15619.56,Active
+CUST01001,Obinna Uche,Abuja,Transfer,Pending,Restricted
+CUST00718,Amaka Yusuf,Kaduna,Deposit,51341.31,Active
+CUST00585,Chinedu Nwosu,Ibadan,Transfer,7343.55,Active
+CUST00871,Bola Bello,Aba,POS Purchase,79799.7,Active
+CUST00645,Chinedu Uche,Kaduna,ATM Withdrawal,6920.71,Active
+CUST00259,Obinna Danjuma,Jos,Deposit,14432.8,Active
+CUST00562,Fatima Nnamdi,Lagos,Deposit,191550.35,Active
+CUST00774,Amina Ojo,Benin City,Transfer,86449.4,Active
+CUST00040,Tunde Onyeka,Benin City,Deposit,30870.73,Closed
+CUST00667,Ngozi Balogun,Ibadan,Online Transfer,10931.78,Active
+CUST00547,Amina Ojo,Abuja,ATM Withdrawal,16492.94,Active
+CUST00077,Chika Adebayo,Jos,Deposit,30128.75,Active
+CUST00290,Amaka Nwosu,Lagos,POS Purchase,29070.61,Active
+CUST00494,Kelechi Adeyemi,Port Harcourt,Transfer,25567.8,Active
+CUST00377,Bola Okeke,Kano,Withdrawal,27149.86,Dormant
+CUST00320,Daniel Okeke,Lagos,Payment,,Active
+CUST00715,Seyi Nnamdi,Enugu,Deposit,6620.86,Active
+CUST00445,Bola Uche,Lagos,Transfer,16704.76,Active
+CUST00548,Amina Olawale,Ibadan,POS Purchase,69883.43,Active
+CUST00879,Ngozi Ojo,Benin City,Online Transfer,7126.86,Dormant
+CUST00103,Tunde Nwosu,Abuja,Transfer,23165.15,Active
+CUST00396,Tunde Ibrahim,Ibadan,Payment,12335.12,Active
+CUST00081,Musa Nnamdi,Lagos,Withdrawal,31298.02,Restricted
+CUST01021,Seyi Danjuma,Benin City,Payment,18983.52,Active
+CUST00205,Tunde Abubakar,Aba,Withdrawal,122682.31,Active
+CUST00902,Fatima Olawale,Lagos,Payment,46469.1,Active
+CUST00210,Musa Adeyemi,Ibadan,Withdrawal,7541.35,Active
+CUST00357,Musa Musa,Port Harcourt,Online Transfer,54785.88,Active
+CUST00670,Tunde Bello,Kano,POS Purchase,12904.2,Dormant
+CUST00915,Emeka Adeyemi,Ibadan,Transfer,15724.31,Active
+CUST00196,Femi Adebayo,Port Harcourt,POS Purchase,38321.98,Active
+CUST00235,Zainab Okeke,Kano,Deposit,17123.59,Dormant
+CUST00970,Ngozi Bello,Lagos,ATM Withdrawal,68378.63,Active
+CUST00355,Kelechi Sule,Abuja,Withdrawal,12906.03,Active
+CUST00231,Daniel Onyeka,Kaduna,Deposit,15078.32,Active
+CUST00818,Chinedu Adeyemi,Lagos,ATM Withdrawal,14524.45,Active
+CUST00101,Bola Ibrahim,Kano,Transfer,15903.92,Active
+CUST00954,Ada Balogun,Lagos,Payment,84048.67,Active
+CUST00964,Musa Abubakar,Benin City,Payment,52509.85,Active
+CUST00943,Maryam Uche,Kano,Deposit,154802.25,Active
+CUST00325,Tunde Nnamdi,Port Harcourt,Deposit,270385.5,Active
+CUST00126,Tunde Nwosu,Abuja,Payment,9989.03,Active
+CUST00468,Tunde Okafor,Port Harcourt,Payment,30042.82,Active
+CUST00369,Chinedu Uche,Aba,Deposit,8636.56,Active
+CUST01055,Ngozi Olawale,Port Harcourt,Transfer,12866.13,Active
+CUST00695,Daniel Sule,Port Harcourt,Payment,14911.34,Active
+CUST01039,Amina Ojo,Enugu,ATM Withdrawal,9728.4,Active
+CUST00826,Chika Musa,Abuja,POS Purchase,9779.78,Active
+CUST00787,Amina Okafor,Port Harcourt,Transfer,24237.96,Active
+CUST00124,Amina Olawale,Abuja,Payment,8293.62,Active
+CUST00076,Musa Nwosu,Lagos,Payment,64996.37,Active
+CUST00052,Amina Okeke,Ibadan,Withdrawal,11183.63,Active
+CUST00653,Tunde Adebayo,Kaduna,Deposit,464877.29,Active
+CUST00222,Musa Adebayo,Kaduna,Deposit,17828.89,Restricted
+CUST01088,Emeka Ojo,Kaduna,POS Purchase,30090.88,Active
+CUST00146,Amaka Balogun,Port Harcourt,Withdrawal,7666.52,Dormant
+CUST01042,Tomi Okafor,Abuja,Payment,154207.06,Dormant
+CUST00735,Daniel Danjuma,Ibadan,Payment,85773.08,Active
+CUST00117,Emeka Sule,,Transfer,37679.66,Active
+CUST00065,Zainab Ibrahim,Enugu,POS Purchase,7281.97,Active
+CUST00436,Bola Musa,Port Harcourt,ATM Withdrawal,34566.03,Restricted
+CUST00373,Musa Nwosu,Ibadan,,9122.77,Active
+CUST00348,Chinedu Ekanem,Enugu,POS Purchase,,Dormant
+CUST00582,Femi Ekanem,Aba,Transfer,62890.76,Active
+CUST00143,Kelechi Adeyemi,Enugu,Transfer,30803.97,Active
+CUST00143,Tomi Danjuma,Port Harcourt,ATM Withdrawal,Pending,Active
+CUST00765,Maryam Yusuf,Abuja,ATM Withdrawal,10472.87,Active
+CUST01090,Chinedu Bello,Port Harcourt,Withdrawal,,Active
+CUST00302,Bola Balogun,Abuja,Online Transfer,94168.73,Restricted
+CUST01026,Ngozi Danjuma,Aba,Payment,84891.53,Active
+CUST00380,Zainab Onyeka,Port Harcourt,Payment,Not Available,Restricted
+CUST00370,Kelechi Abubakar,Port Harcourt,Deposit,37854.76,Closed
+CUST00100,Ada Balogun,Abuja,Withdrawal,77301.99,Active
+CUST00466,Fatima Yusuf,Ibadan,Transfer,5332.76,Active
+CUST00548,Maryam Yusuf,Kano,Payment,27779.55,Active
+CUST00731,Fatima Ojo,Lagos,Transfer,36820.21,Active
+CUST00174,Obinna Okeke,Kaduna,ATM Withdrawal,Not Available,Closed
+CUST00208,Daniel Musa,Abuja,Withdrawal,4393.13,Dormant
+CUST00476,Emeka Okafor,Port Harcourt,ATM Withdrawal,20216.65,Restricted
+CUST00077,Seyi Ekanem,Lagos,POS Purchase,20184.18,Active
+CUST00158,Kelechi Okafor,Kano,ATM Withdrawal,24146.32,Active
+CUST00692,Bola Adebayo,Ibadan,POS Purchase,15938.43,Active
+CUST01050,Tomi Onyeka,Kaduna,POS Purchase,17978.78,Dormant
+CUST00631,Fatima Ojo,Lagos,Deposit,26910.01,Active
+CUST00160,Kelechi Ibrahim,Jos,ATM Withdrawal,43582.65,Active
+CUST01091,Tunde Uche,Ibadan,Online Transfer,20651.29,Active
+CUST00575,Kelechi Musa,Abuja,Payment,18588.73,Active
+CUST00789,Maryam Adebayo,Lagos,Withdrawal,30709.09,Active
+CUST00217,Kelechi Ojo,Abuja,Online Transfer,4101.24,Active
+CUST00637,Daniel Sule,Kaduna,Withdrawal,45116.12,Dormant
+CUST00084,Emeka Ibrahim,Abuja,Transfer,27984.24,Active
+CUST00689,Kelechi Ojo,Port Harcourt,Withdrawal,29133.77,Active
+CUST00223,Seyi Sule,Ibadan,,73181.22,Dormant
+CUST01001,Chika Okafor,Kaduna,Transfer,3972.47,Active
+CUST00061,Fatima Ojo,Ibadan,Transfer,3889.85,Active
+CUST00718,Chika Nwosu,Enugu,Online Transfer,36818.79,Active
+CUST00154,Chika Olawale,Lagos,Transfer,27801.44,Active
+CUST00756,Tomi Abubakar,Kaduna,Transfer,33194.41,Active
+CUST00543,Ifeoma Ibrahim,Abuja,POS Purchase,17638.38,Active
+CUST01065,Tomi Adebayo,Lagos,POS Purchase,54410.56,Active
+CUST00717,Amina Adebayo,Jos,Withdrawal,71153.77,Active
+CUST00410,Kelechi Ekanem,Lagos,Deposit,45430.64,Active
+CUST00097,Kelechi Okafor,Lagos,Payment,21571.57,Active
+CUST00656,Obinna Yusuf,Ibadan,POS Purchase,3402.52,Active
+CUST00486,Ada Okeke,Abuja,Payment,60427.28,Active
+CUST00058,Femi Olawale,Lagos,Withdrawal,95005.35,Active
+CUST00640,Ngozi Okeke,Kano,ATM Withdrawal,53344.08,Active
+CUST00231,Emeka Okeke,Enugu,ATM Withdrawal,11618.08,Active
+CUST00258,Chinedu Okafor,Benin City,Payment,,Active
+CUST00010,Ngozi Ojo,Lagos,POS Purchase,66203.56,Active
+CUST00410,Ngozi Eze,Kano,POS Purchase,133089.36,Active
+CUST00241,Obinna Sule,Benin City,ATM Withdrawal,11659.19,Active
+CUST00080,Amina Sule,Lagos,ATM Withdrawal,22325.96,Active
+CUST00478,Daniel Ojo,Lagos,ATM Withdrawal,,Dormant
+CUST00243,Tunde Okeke,Lagos,Payment,29654.52,Active
+CUST00148,Ifeoma Okeke,Kano,Transfer,9160.28,Active
+CUST00514,Ngozi Ibrahim,Lagos,ATM Withdrawal,42386.11,Restricted
+CUST00070,Amaka Yusuf,Enugu,Payment,,Active
+CUST01090,Seyi Ibrahim,Jos,Transfer,30574.53,Active
+CUST00519,Maryam Ekanem,Lagos,Deposit,,Active
+CUST01096,Fatima Uche,Ibadan,ATM Withdrawal,21617.4,Active
+CUST00970,Chika Ibrahim,Lagos,Payment,122790.97,Active
+CUST01078,Daniel Adeyemi,Lagos,Transfer,11376.07,Active
+CUST00598,Ifeoma Nwosu,Enugu,Transfer,15562.8,Dormant
+CUST00466,Emeka Okafor,Port Harcourt,Withdrawal,28309.29,Restricted
+CUST00792,Chika Balogun,Aba,Online Transfer,67434.62,Restricted
+CUST00089,Chika Adebayo,Kano,POS Purchase,6264.08,Active
+CUST00925,Emeka Ekanem,Lagos,Payment,7552.72,Restricted
+CUST00356,Seyi Ekanem,Port Harcourt,Transfer,3649.08,Restricted
+CUST00009,Kelechi Ojo,Lagos,ATM Withdrawal,28930.6,Active
+CUST00262,Tunde Yusuf,Kaduna,Payment,9151.33,Active
+CUST00267,Ngozi Okeke,Ibadan,Online Transfer,19061.19,Active
+CUST00016,Amina Uche,Abuja,Deposit,54248.9,Active
+CUST00736,Fatima Okeke,Kano,Deposit,14741.43,Active
+CUST00105,Emeka Bello,Ibadan,Payment,35286.01,Active
+CUST00932,Seyi Nnamdi,Enugu,Withdrawal,##VALUE!,Active
+CUST00499,Ada Musa,Lagos,Payment,54834.46,Active
+CUST00791,Zainab Uche,Lagos,POS Purchase,45030.16,Active
+CUST00374,Amina Sule,Lagos,Deposit,14017.0,Active
+CUST00146,Bola Eze,Abuja,Transfer,23654.49,Dormant
+CUST00199,Ada Adebayo,Port Harcourt,ATM Withdrawal,79515.18,Closed
+CUST00711,Daniel Nnamdi,Lagos,POS Purchase,41495.35,Active
+CUST00788,Amaka Ibrahim,Port Harcourt,Transfer,6925.72,Active
+CUST00295,Amaka Yusuf,Port Harcourt,Withdrawal,53937.32,Dormant
+CUST00393,Daniel Sule,Lagos,Payment,9464.93,Active
+CUST01040,Maryam Balogun,Aba,Transfer,114975.33,Closed
+CUST00938,Tunde Yusuf,Kano,POS Purchase,77968.38,Active
+CUST00455,Chika Uche,Abuja,Payment,37415.68,Active
+CUST00266,Emeka Nnamdi,Port Harcourt,Withdrawal,32767.51,Active
+CUST00332,Amina Adebayo,Abuja,ATM Withdrawal,22718.33,Active
+CUST00593,Ifeoma Okafor,Kaduna,Transfer,,Active
+CUST00624,Seyi Musa,Kano,Withdrawal,19325.52,Active
+CUST00203,Tunde Bello,Port Harcourt,Payment,35437.63,Dormant
+CUST00073,Seyi Ibrahim,Aba,Online Transfer,66962.91,Active
+CUST00545,Daniel Ibrahim,Benin City,ATM Withdrawal,15964.99,Active
+CUST00878,Amina Abubakar,Benin City,Withdrawal,15119.9,Active
+CUST00168,Amina Okeke,Lagos,ATM Withdrawal,8481.09,Active
+CUST00450,Femi Ekanem,Lagos,Withdrawal,9657.47,Active
+CUST00178,Tomi Okafor,Ibadan,Payment,4498.79,Active
+CUST00267,Amaka Ibrahim,Port Harcourt,Payment,58092.31,Active
+CUST00674,Femi Danjuma,Ibadan,Withdrawal,170906.92,Dormant
+CUST00315,Emeka Adebayo,Enugu,Transfer,116458.32,Active
+CUST00291,Tunde Okeke,Abuja,Online Transfer,5507.55,Active
+CUST01096,Zainab Olawale,Abuja,Withdrawal,57804.07,Dormant
+CUST00190,Amaka Abubakar,Port Harcourt,POS Purchase,116083.63,Active
+CUST00209,Maryam Musa,Abuja,ATM Withdrawal,17732.42,Active
+CUST01023,Ifeoma Adeyemi,Ibadan,Payment,30989.61,Active
+CUST00606,Kelechi Eze,Enugu,Deposit,3759.6,Dormant
+CUST00048,Chinedu Balogun,Port Harcourt,Withdrawal,36559.49,Active
+CUST00468,Chika Abubakar,Enugu,Withdrawal,9666.29,Active
+CUST00622,Tomi Nwosu,Port Harcourt,Payment,34186.8,Dormant
+CUST00279,Chinedu Sule,Ibadan,,,Active
+CUST00604,Ada Danjuma,Lagos,POS Purchase,"₦12,500",Dormant
+CUST00714,Amina Adeyemi,Enugu,Deposit,78000.65,Active
+CUST00276,Femi Yusuf,Ibadan,Withdrawal,12794.62,Active
+CUST00894,Zainab Eze,Abuja,Deposit,8982.53,Active
+CUST00499,Ada Olawale,Kano,Online Transfer,3241.97,Dormant
+CUST01060,Emeka Adeyemi,Kaduna,Withdrawal,21451.42,Active
+CUST00097,Amina Yusuf,Abuja,Withdrawal,15652.19,Active
+CUST00357,Tunde Adeyemi,Enugu,Payment,5936.89,Active
+CUST00794,Daniel Yusuf,Aba,Payment,44045.5,Active
+CUST00985,Tomi Musa,Kaduna,Withdrawal,17854.12,Active
+CUST00244,Amina Abubakar,Port Harcourt,ATM Withdrawal,9549.31,Active
+CUST01079,Daniel Ibrahim,Kano,Deposit,16080.9,Active
+CUST00213,Fatima Balogun,Jos,Deposit,81737.19,Active
+CUST00458,Fatima Ibrahim,Kano,Deposit,51169.39,Active
+CUST00347,Musa Adebayo,Lagos,Transfer,24586.03,Active
+CUST00467,Bola Nnamdi,Lagos,Online Transfer,52003.42,Active
+CUST00993,Musa Musa,Benin City,Payment,8769.61,Active
+CUST00806,Kelechi Musa,Port Harcourt,ATM Withdrawal,28921.19,Active
+CUST00877,Chika Adebayo,Abuja,Withdrawal,32444.37,Restricted
+CUST00280,Ngozi Eze,Abuja,ATM Withdrawal,17502.92,Active
+CUST01042,Amina Sule,Enugu,Online Transfer,43278.8,Dormant
+CUST00480,Maryam Danjuma,Port Harcourt,Transfer,12829.81,Active
+CUST00718,Chika Uche,Kaduna,Online Transfer,46619.79,Active
+CUST00768,Maryam Adebayo,Enugu,Payment,48621.38,Dormant
+CUST00730,Daniel Onyeka,Jos,ATM Withdrawal,1514.44,Active
+CUST00662,Amaka Abubakar,Kaduna,Withdrawal,92066.41,Active
+CUST00529,Tomi Ojo,Abuja,Payment,1329.19,Active
+CUST00713,Kelechi Yusuf,Ibadan,Transfer,15122.07,Active
+CUST00996,Ifeoma Bello,Lagos,Online Transfer,78065.84,Dormant
+CUST00429,Daniel Adebayo,Jos,Online Transfer,20387.41,Active
+CUST00562,Obinna Ojo,Abuja,Transfer,6462.51,Active
+CUST00199,Obinna Ojo,Ibadan,Online Transfer,9378.95,Active
+CUST00391,Femi Nwosu,Benin City,POS Purchase,78187.54,Active
+CUST00850,Tunde Nnamdi,Lagos,Payment,4098.82,Dormant
+CUST00705,Emeka Ibrahim,Benin City,Deposit,86590.98,Active
+CUST00233,Zainab Olawale,Lagos,Deposit,,Restricted
+CUST00601,Ngozi Adebayo,Port Harcourt,Deposit,8497.82,Active
+CUST00894,Amaka Bello,Port Harcourt,Deposit,15628.39,Active
+CUST00137,Amaka Olawale,Abuja,Online Transfer,10124.72,Active
+CUST00069,Ngozi Ekanem,Kano,Withdrawal,,Active
+CUST00432,Bola Okeke,Aba,ATM Withdrawal,58243.49,Active
+CUST00723,Amina Bello,Abuja,Payment,5018.06,Active
+CUST00345,Daniel Abubakar,Kano,Payment,,Active
+CUST00904,Daniel Abubakar,Kaduna,Withdrawal,11810.85,Dormant
+CUST00932,Seyi Musa,Enugu,Payment,102075.68,Active
+CUST00586,Obinna Nnamdi,Lagos,Payment,7258.01,Active
+CUST00417,Ada Ekanem,Aba,Payment,139272.66,Active
+CUST00046,Chika Onyeka,Lagos,Withdrawal,27083.1,Active
+CUST00904,Amaka Eze,Kano,ATM Withdrawal,8760.65,Dormant
+CUST00985,Amaka Nwosu,Kano,Deposit,14223.99,Active
+CUST00487,Ngozi Ojo,Enugu,Payment,12560.86,Active
+CUST00569,Chika Ojo,Lagos,Transfer,7827.05,Active
+CUST00829,Tunde Eze,Lagos,Withdrawal,,Active
+CUST00765,Chika Eze,Enugu,POS Purchase,8201.27,Active
+CUST00149,Ifeoma Abubakar,Lagos,Withdrawal,3164.0,Active
+CUST00740,Fatima Danjuma,Port Harcourt,Online Transfer,19154.32,Active
+CUST01018,Bola Balogun,Enugu,POS Purchase,4615.17,Active
+CUST00826,Tomi Ojo,Ibadan,Transfer,13197.71,Active
+CUST00529,Femi Yusuf,Lagos,Withdrawal,11280.79,Active
+CUST00576,Chinedu Ibrahim,Abuja,Deposit,11716.39,Active
+CUST00286,Bola Balogun,Jos,Online Transfer,207092.93,Active
+CUST00727,Ngozi Ekanem,Port Harcourt,Payment,29624.93,Active
+CUST00266,Femi Balogun,Lagos,Deposit,35786.67,Restricted
+CUST00377,Chinedu Balogun,Lagos,Transfer,4738.91,Active
+CUST00292,Seyi Uche,Abuja,Deposit,14559.47,Active
+CUST00369,Chinedu Yusuf,Jos,Payment,34726.64,Active
+CUST00404,Bola Sule,Abuja,Transfer,10051.03,Active
+CUST00092,Ada Okeke,Lagos,Deposit,69426.41,Active
+CUST00790,Ifeoma Adeyemi,Port Harcourt,POS Purchase,8410.73,Active
+CUST00486,Bola Yusuf,Lagos,Withdrawal,21027.65,Active
+CUST01045,Tunde Uche,Abuja,Payment,15582.57,Active
+CUST00199,Ngozi Adeyemi,Jos,Payment,33000.58,Active
+CUST00736,Musa Okeke,Ibadan,Online Transfer,14756.95,Active
+CUST00198,Bola Danjuma,Lagos,Transfer,21355.53,Active
+CUST00602,Femi Bello,Port Harcourt,Online Transfer,22110.98,Active
+CUST00540,Zainab Nnamdi,Lagos,Transfer,13434.38,Restricted
+CUST00494,Zainab Danjuma,Lagos,POS Purchase,45481.17,Active
+CUST00721,Tomi Onyeka,Kano,Withdrawal,35537.66,Active
+CUST00912,Fatima Adebayo,Port Harcourt,ATM Withdrawal,25625.57,Dormant
+CUST00349,Obinna Ibrahim,Enugu,Deposit,18205.91,Active
+CUST00935,Amina Adeyemi,Kaduna,Online Transfer,62100.16,Active
+CUST00204,,Abuja,Online Transfer,Error,Active
+CUST00323,Ngozi Onyeka,Aba,Transfer,20604.45,Active
+CUST00342,Chika Okafor,Port Harcourt,Payment,31090.26,Active
+CUST01049,Emeka Olawale,Abuja,Payment,152748.26,Active
+CUST00131,Zainab Adebayo,Benin City,Withdrawal,,Active
+CUST00435,Kelechi Adebayo,Lagos,ATM Withdrawal,60464.8,Dormant
+CUST00467,Musa Adebayo,Kano,ATM Withdrawal,4216.62,Active
+CUST00881,Fatima Olawale,Enugu,Payment,34795.14,Active
+CUST00535,Bola Sule,Abuja,Deposit,135271.97,Active
+CUST01064,Musa Onyeka,Kaduna,Online Transfer,45644.04,Active
+CUST00815,Daniel Eze,Abuja,Deposit,Not Available,Active
+CUST00775,Ada Uche,Benin City,Payment,15986.67,Active
+CUST00829,Fatima Yusuf,Lagos,Deposit,28882.96,Active
+CUST00178,Femi Nnamdi,Lagos,Deposit,21761.49,Restricted
+CUST00494,Emeka Yusuf,Abuja,Deposit,12758.89,Active
+CUST00645,Chika Abubakar,Kaduna,Transfer,20953.99,Active
+CUST00230,Fatima Sule,Lagos,Payment,34143.96,Active
+CUST00131,Emeka Musa,Kaduna,Payment,13000.5,Active
+CUST00150,Amina Adeyemi,Lagos,ATM Withdrawal,12502.43,Active
+CUST00869,Ada Balogun,Port Harcourt,ATM Withdrawal,7184.75,Active
+CUST00723,Chinedu Ibrahim,Abuja,Deposit,41385.46,Active
+CUST00310,Chika Olawale,Lagos,Deposit,48304.65,Active
+CUST00811,Kelechi Uche,Aba,Payment,35299.36,Restricted
+CUST00765,,Port Harcourt,ATM Withdrawal,73506.59,Active
+CUST00899,Amaka Onyeka,Ibadan,Payment,30571.62,Active
+CUST01002,Ada Okafor,Kano,Withdrawal,,Active
+CUST00971,Tomi Nwosu,Port Harcourt,POS Purchase,37941.36,Active
+CUST00200,Emeka Ekanem,Kano,Deposit,25550.69,Closed
+CUST00847,Ada Uche,Kaduna,Payment,16467.4,Active
+CUST00433,Bola Ekanem,Ibadan,Deposit,256302.18,Active
+CUST00444,Ifeoma Musa,Kano,ATM Withdrawal,17818.79,Restricted
+CUST00712,Amaka Balogun,Ibadan,Transfer,14387.03,Active
+CUST00663,Fatima Nnamdi,Kano,ATM Withdrawal,43216.15,Active
+CUST00462,Bola Olawale,Port Harcourt,Deposit,36019.44,Active
+CUST01100,Musa Adeyemi,Ibadan,Payment,6871.71,Active
+CUST00193,Obinna Ekanem,Port Harcourt,Deposit,86046.06,Active
+CUST00107,Daniel Ojo,Enugu,ATM Withdrawal,25482.96,Closed
+CUST00032,Tunde Okafor,Jos,Deposit,9219.06,Active
+CUST00896,Obinna Sule,Aba,Deposit,91926.43,Active
+CUST00448,Maryam Ekanem,Benin City,ATM Withdrawal,52346.24,Active
+CUST00482,Femi Adeyemi,Kano,Deposit,7906.32,Active
+CUST00715,Ifeoma Eze,Enugu,Withdrawal,165568.89,Active
+CUST00479,Tomi Bello,Lagos,POS Purchase,54109.07,Active
+CUST00632,Seyi Musa,Port Harcourt,POS Purchase,27715.96,Active
+CUST00065,Seyi Musa,Abuja,POS Purchase,137335.02,Active
+CUST00172,Bola Adeyemi,Lagos,Withdrawal,32835.24,Active
+CUST01026,Zainab Nwosu,Jos,Payment,27224.61,Active
+CUST00496,Obinna Uche,Kaduna,POS Purchase,14467.49,Active
+CUST00185,Chinedu Ekanem,Port Harcourt,Deposit,50101.7,Active
+CUST00407,Daniel Okeke,Abuja,ATM Withdrawal,45096.63,Active
+CUST00369,Ngozi Okafor,Ibadan,Deposit,28414.08,Dormant
+CUST00302,Tomi Adeyemi,Port Harcourt,Online Transfer,12707.83,Dormant
+CUST00323,Bola Danjuma,Benin City,Payment,31884.96,Active
+CUST00803,Daniel Balogun,Jos,Transfer,26112.28,Active
+CUST00118,Chinedu Ojo,Abuja,Transfer,7379.68,Active
+CUST00341,Chika Olawale,Abuja,Withdrawal,6426.26,Restricted
+CUST00515,Seyi Uche,Abuja,Transfer,49272.09,Active
+CUST00595,Maryam Yusuf,Lagos,ATM Withdrawal,2075.74,Active
+CUST00969,Fatima Onyeka,Abuja,Payment,34384.81,Active
+CUST01016,Ifeoma Ibrahim,Lagos,Payment,17359.18,Active
+CUST00328,Maryam Ibrahim,Lagos,Withdrawal,103591.07,Restricted
+CUST00594,Ifeoma Eze,Abuja,ATM Withdrawal,Not Available,Restricted
+CUST00025,Tomi Nwosu,Lagos,Transfer,54146.25,Active
+CUST00679,Bola Abubakar,Enugu,Withdrawal,18826.97,Active
+CUST00169,Emeka Okeke,Lagos,Online Transfer,31373.16,Active
+CUST00081,Amina Uche,Kaduna,Transfer,58500.84,Active
+CUST00739,Fatima Uche,Lagos,Payment,17630.83,Restricted
+CUST00196,Ifeoma Danjuma,Lagos,Online Transfer,75850.13,Active
+CUST00526,Seyi Sule,Lagos,Transfer,10365.75,Dormant
+CUST00112,Bola Ojo,Ibadan,Online Transfer,37592.23,Active
+CUST00821,Ifeoma Nnamdi,Abuja,ATM Withdrawal,70445.84,Active
+CUST00842,Tunde Yusuf,Port Harcourt,Payment,54176.22,Active
+CUST00633,Chinedu Ojo,Lagos,Withdrawal,190309.06,Active
+CUST00920,Chika Ekanem,Jos,Deposit,13049.7,Active
+CUST00481,Amina Yusuf,Lagos,Transfer,7050.19,Dormant
+CUST00206,Zainab Onyeka,Port Harcourt,Deposit,10359.14,Active
+CUST00167,Tunde Balogun,Kaduna,Deposit,54198.17,Active
+CUST00242,Obinna Adeyemi,Abuja,Payment,46068.41,Active
+CUST00221,Amaka Adebayo,Abuja,ATM Withdrawal,31014.7,Closed
+CUST00356,Ngozi Nwosu,Benin City,Deposit,9108.86,Active
+CUST00236,Zainab Okeke,Abuja,ATM Withdrawal,60284.31,Active
+CUST00651,Amaka Ojo,Lagos,Online Transfer,8227.64,Active
+CUST00164,Musa Nwosu,Port Harcourt,ATM Withdrawal,89224.36,Active
+CUST00684,Seyi Ibrahim,Lagos,POS Purchase,487671.94,Restricted
+CUST00368,Amina Yusuf,Kaduna,ATM Withdrawal,40392.97,Active
+CUST00756,Seyi Ibrahim,Ibadan,Withdrawal,50164.75,Active
+CUST00565,Seyi Adebayo,Kano,Transfer,17104.55,Active
+CUST00996,Ada Nnamdi,Lagos,Online Transfer,4581.34,Active
+CUST00484,Bola Olawale,Ibadan,ATM Withdrawal,15324.99,Active
+CUST00325,Emeka Ojo,Ibadan,POS Purchase,9386.85,Active
+CUST00649,Emeka Yusuf,Lagos,Online Transfer,,Active
+CUST00725,Amina Nwosu,Kaduna,Withdrawal,156736.25,Restricted
+CUST00484,Femi Danjuma,Kano,Withdrawal,36784.15,Active
+CUST00616,Amaka Balogun,Benin City,Payment,40931.18,Active
+CUST00518,Amaka Yusuf,Abuja,Deposit,20556.6,Active
+CUST00337,Daniel Okafor,Lagos,Payment,23554.89,Active
+CUST00345,Chinedu Abubakar,Ibadan,POS Purchase,73461.04,Dormant
+CUST00999,Zainab Sule,Benin City,Payment,27109.04,Active
+CUST00743,Ada Okeke,Abuja,Withdrawal,47603.13,Active
+CUST00106,Obinna Olawale,Lagos,ATM Withdrawal,23016.24,Active
+CUST01059,Ada Okafor,Benin City,Deposit,19886.71,Active
+CUST00784,Kelechi Uche,Lagos,POS Purchase,6857.14,Active
+CUST00056,Fatima Adeyemi,Abuja,Deposit,3874.65,Active
+CUST00801,Ngozi Eze,Ibadan,POS Purchase,21555.75,Active
+CUST00649,Daniel Onyeka,Lagos,Transfer,,Dormant
+CUST01007,Chika Adeyemi,Lagos,Transfer,7737.47,Active
+CUST00539,Emeka Bello,Lagos,Transfer,27051.15,Active
+CUST00571,Chinedu Adeyemi,Aba,,29546.26,Active
+CUST00347,Ifeoma Nnamdi,Abuja,Transfer,3242.02,Active
+CUST00354,Obinna Ekanem,Ibadan,POS Purchase,11213.07,Active
+CUST00680,Obinna Okeke,Jos,POS Purchase,42075.62,Active
+CUST00911,Amaka Nwosu,Ibadan,Deposit,41234.0,Active
+CUST00980,Seyi Yusuf,Kano,ATM Withdrawal,8833.31,Active
+CUST00848,Fatima Olawale,Kano,POS Purchase,32807.35,Active
+CUST00671,Emeka Balogun,Abuja,POS Purchase,77836.6,Active
+CUST00551,Ada Uche,Kano,Transfer,60902.7,Active
+CUST00374,Kelechi Nwosu,Aba,Deposit,25455.17,Active
+CUST00845,Zainab Okafor,Enugu,Online Transfer,17535.51,Restricted
+CUST00350,Chika Onyeka,Port Harcourt,Transfer,14922.35,Active
+CUST00295,Emeka Eze,Abuja,Transfer,44702.27,Restricted
+CUST00955,Fatima Adebayo,Kaduna,ATM Withdrawal,34032.25,Active
+CUST00649,Daniel Musa,Lagos,Withdrawal,52541.77,Active
+CUST00390,Maryam Ekanem,Benin City,POS Purchase,31947.0,Active
+CUST00952,Chinedu Ekanem,Abuja,Deposit,63495.46,Active
+CUST01059,Chinedu Eze,Ibadan,ATM Withdrawal,30777.9,Active
+CUST00350,Ada Adebayo,Benin City,Online Transfer,61368.29,Active
+CUST00574,Tunde Danjuma,Port Harcourt,Online Transfer,66888.52,Active
+CUST00532,Musa Balogun,Lagos,Online Transfer,12524.39,Active
+CUST00772,Tunde Abubakar,Benin City,POS Purchase,4590.83,Dormant
+CUST01047,Bola Yusuf,Abuja,Withdrawal,131065.52,Active
+CUST00604,Ngozi Olawale,Abuja,Online Transfer,36192.91,Restricted
+CUST00879,Ada Adeyemi,Port Harcourt,Online Transfer,5041.58,Active
+CUST00656,Amaka Eze,Port Harcourt,Payment,13713.56,Active
+CUST00976,Obinna Musa,Ibadan,Transfer,60586.91,Active
+CUST00446,Femi Ekanem,Lagos,Deposit,21168.78,Active
+CUST00424,Ngozi Danjuma,Port Harcourt,Payment,16779.25,Active
+CUST00465,Tunde Onyeka,Kaduna,ATM Withdrawal,113645.77,Active
+CUST01097,Femi Eze,Lagos,Transfer,9824.87,Active
+CUST00673,Ifeoma Eze,,Transfer,12604.47,Active
+CUST00168,Tunde Yusuf,Ibadan,Payment,34590.91,Closed
+CUST00045,Zainab Ekanem,Kaduna,Deposit,41374.28,Active
+CUST00571,Zainab Musa,Kano,Online Transfer,45995.68,Active
+CUST00887,Obinna Olawale,Benin City,Withdrawal,69647.2,Active
+CUST00528,Fatima Danjuma,Lagos,Deposit,34150.7,Active
+CUST00617,Ifeoma Ibrahim,Abuja,Deposit,45676.71,Active
+CUST00879,Chinedu Abubakar,Aba,POS Purchase,21606.52,Active
+CUST00568,Tomi Olawale,Kaduna,POS Purchase,29811.76,Active
+CUST01000,Tomi Okeke,Kano,Deposit,31178.81,Active
+CUST00702,Kelechi Okafor,Port Harcourt,Deposit,Error,Active
+CUST00805,Ada Bello,Port Harcourt,Transfer,,Active
+CUST00860,Tunde Ojo,Lagos,Withdrawal,48781.45,Active
+CUST00690,Tomi Nwosu,Kaduna,ATM Withdrawal,29265.86,Restricted
+CUST00056,Amina Onyeka,Benin City,Deposit,12466.92,Active
+CUST00471,Amina Eze,Port Harcourt,Payment,29960.38,Active
+CUST00156,Bola Uche,Abuja,Transfer,27226.39,Dormant
+CUST00562,Musa Adeyemi,Abuja,Transfer,33966.89,Active
+CUST00158,Bola Nnamdi,Lagos,Transfer,254354.72,Active
+CUST00561,Chinedu Eze,Enugu,Deposit,16583.89,Active
+CUST00379,Emeka Adebayo,Kano,Withdrawal,42712.58,Active
+CUST00023,Ifeoma Sule,Lagos,Deposit,81505.18,Active
+CUST00138,Seyi Danjuma,Ibadan,Deposit,Error,Active
+CUST00554,Tunde Eze,Jos,Online Transfer,290048.93,Active
+CUST00087,Chinedu Okafor,Lagos,Withdrawal,19185.7,Active
+CUST00942,Ngozi Ibrahim,Port Harcourt,Withdrawal,38717.58,Active
+CUST00835,Seyi Sule,Port Harcourt,Deposit,12596.25,Dormant
+CUST00781,Musa Ekanem,Lagos,ATM Withdrawal,19701.2,Active
+CUST00190,Bola Bello,Kano,Online Transfer,35914.4,Active
+CUST00876,Fatima Okeke,Kano,POS Purchase,65268.44,Active
+CUST00699,Emeka Eze,Lagos,Payment,38524.69,Active
+CUST00430,Daniel Balogun,Lagos,POS Purchase,98624.47,Active
+CUST00001,Musa Musa,Kaduna,Transfer,25463.33,Active
+CUST00582,Daniel Yusuf,Abuja,POS Purchase,20086.26,Active
+CUST00876,Amaka Ibrahim,Ibadan,POS Purchase,418296.13,Active
+CUST00037,Tunde Nwosu,Ibadan,Deposit,41531.08,Active
+CUST00058,Chinedu Ibrahim,Benin City,Transfer,13636.13,Active
+CUST00422,Tunde Danjuma,Enugu,Withdrawal,13984.38,Active
+CUST00563,Chika Yusuf,Benin City,Deposit,10908.31,Active
+CUST00522,Chika Nnamdi,Ibadan,POS Purchase,71433.99,Active
+CUST00469,Emeka Ekanem,Port Harcourt,,19449.61,Active
+CUST00281,Daniel Sule,Abuja,ATM Withdrawal,31803.2,Active
+CUST00066,Femi Okafor,Abuja,Online Transfer,26277.05,Active
+CUST00035,Ngozi Yusuf,Port Harcourt,Transfer,58189.03,Active
+CUST00109,Tomi Eze,Lagos,Transfer,12006.65,Closed
+CUST00760,Amaka Nnamdi,Port Harcourt,Payment,9550.87,Active
+CUST00865,Chinedu Bello,Abuja,POS Purchase,35040.4,Active
+CUST00479,Bola Okeke,Lagos,Withdrawal,51068.29,Dormant
+CUST00086,Ada Onyeka,Abuja,Withdrawal,39045.86,Active
+CUST00458,Chika Ojo,Enugu,Payment,12462.83,Active
+CUST01085,Kelechi Okeke,Kano,Online Transfer,55129.74,Active
+CUST00275,Obinna Onyeka,,Withdrawal,13307.71,Restricted
+CUST00541,Femi Eze,Kano,Transfer,16620.98,Active
+CUST00592,Amaka Uche,Kaduna,Online Transfer,10894.42,Active
+CUST00363,Tomi Sule,Benin City,Withdrawal,102859.38,Dormant
+CUST00482,Daniel Nwosu,Lagos,Deposit,52753.29,Dormant
+CUST00519,Maryam Ekanem,Jos,Payment,51274.72,Closed
+CUST00522,Chinedu Okafor,Lagos,Deposit,97457.46,Active
+CUST00790,Emeka Onyeka,Kano,Withdrawal,466311.45,Restricted
+CUST00639,Tomi Yusuf,Benin City,Payment,5068.16,Active
+CUST00059,Emeka Bello,Abuja,ATM Withdrawal,13380.89,Active
+CUST00007,Tomi Okeke,Kano,Transfer,15120.17,Dormant
+CUST00452,Kelechi Okeke,Abuja,Transfer,11957.81,Active
+CUST00999,Bola Adebayo,Lagos,Payment,9531.68,Active
+CUST00041,Obinna Uche,Lagos,Payment,20750.11,Active
+CUST00079,Maryam Balogun,Lagos,POS Purchase,8294.57,Dormant
+CUST00748,Daniel Uche,Lagos,POS Purchase,39143.99,Active
+CUST00497,Amina Nnamdi,Kano,ATM Withdrawal,29485.62,Dormant
+CUST00254,Musa Ojo,Kano,POS Purchase,45296.65,Active
+CUST00229,Musa Bello,Port Harcourt,POS Purchase,46522.36,Active
+CUST00732,Tomi Nnamdi,Ibadan,Deposit,51172.96,Active
+CUST00577,Seyi Eze,Lagos,Online Transfer,19274.74,Restricted
+CUST00703,Tomi Okafor,Abuja,POS Purchase,233538.73,Active
+CUST00309,Tunde Balogun,Enugu,Withdrawal,35397.3,Active
+CUST00580,Amaka Adebayo,Kaduna,Deposit,4348.02,Active
+CUST00947,Maryam Abubakar,Port Harcourt,Payment,10276.18,Restricted
+CUST00349,Ada Bello,Lagos,Transfer,4912.1,Dormant
+CUST00436,Femi Ekanem,Benin City,ATM Withdrawal,28489.6,Active
+CUST00181,Ifeoma Onyeka,Kaduna,Payment,24788.98,Active
+CUST00703,Maryam Olawale,Port Harcourt,Deposit,17527.64,Active
+CUST00036,Musa Okeke,Abuja,Withdrawal,209166.51,Active
+CUST00274,Fatima Adebayo,Lagos,POS Purchase,48481.75,Dormant
+CUST00785,Kelechi Nnamdi,Kano,Deposit,57876.0,Active
+CUST00022,Seyi Abubakar,Kaduna,ATM Withdrawal,11035.65,Active
+CUST01088,Femi Ekanem,Ibadan,Withdrawal,10309.44,Active
+CUST00445,Tomi Sule,Abuja,Transfer,29049.75,Active
+CUST00439,Musa Eze,Ibadan,Payment,33288.49,Active
+CUST00591,Tunde Uche,Benin City,Withdrawal,4374.94,Active
+CUST00704,Ada Okeke,Port Harcourt,ATM Withdrawal,23380.39,Active
+CUST00506,Fatima Adeyemi,Benin City,ATM Withdrawal,28396.8,Active
+CUST00973,Maryam Onyeka,Abuja,Deposit,22579.79,Active
+CUST01059,Fatima Eze,Abuja,Transfer,12413.87,Active
+CUST00221,Chinedu Ibrahim,Kano,ATM Withdrawal,16324.54,Active
+CUST00778,Tomi Nwosu,Port Harcourt,ATM Withdrawal,23461.14,Active
+CUST00332,Amaka Eze,Jos,Payment,30661.4,Active
+CUST01096,Bola Ekanem,Port Harcourt,POS Purchase,51264.38,Active
+CUST00279,Zainab Olawale,Abuja,Deposit,82521.65,Active
+CUST00325,Tunde Balogun,Abuja,Deposit,20860.49,Active
+CUST00786,Zainab Nnamdi,Kano,ATM Withdrawal,17744.02,Active
+CUST00868,Zainab Okeke,Abuja,ATM Withdrawal,43374.0,Active
+CUST00142,Tunde Danjuma,Enugu,POS Purchase,51575.64,Active
+CUST00612,Chinedu Ojo,Abuja,Withdrawal,18137.91,Active
+CUST00381,Tunde Nnamdi,Abuja,Transfer,61719.38,Active
+CUST00673,Musa Ojo,Kano,ATM Withdrawal,74573.85,Active
+CUST00613,Obinna Nwosu,Lagos,Withdrawal,101889.71,Active
+CUST01085,Tomi Okafor,Ibadan,Transfer,165757.42,Active
+CUST01028,Obinna Adebayo,Port Harcourt,Payment,11772.76,Active
+CUST00720,Maryam Danjuma,Port Harcourt,Withdrawal,28391.87,Active
+CUST00748,Chika Yusuf,Ibadan,Transfer,28317.56,Active
+CUST00989,Obinna Ibrahim,Enugu,Withdrawal,25384.3,Active
+CUST00202,Chika Ibrahim,Benin City,Online Transfer,14628.06,Active
+CUST00799,Ngozi Eze,Abuja,Withdrawal,6338.5,Active
+CUST00850,Daniel Ekanem,Abuja,Deposit,30719.08,Active
+CUST00141,Femi Okeke,Ibadan,Deposit,12985.7,Active
+CUST00970,Obinna Balogun,Kano,Deposit,30514.38,Active
+CUST00770,Amaka Ekanem,Ibadan,Withdrawal,12656.37,Active
+CUST00382,Kelechi Musa,Kano,Payment,9323.58,Active
+CUST00533,Daniel Okeke,Enugu,Deposit,35392.6,Dormant
+CUST00539,Ifeoma Nnamdi,Lagos,Withdrawal,32561.35,Active
+CUST01011,Ngozi Nwosu,Kano,Deposit,49973.18,Active
+CUST01067,Amaka Ekanem,Lagos,Transfer,249153.28,Active
+CUST00888,Obinna Adeyemi,Port Harcourt,Deposit,36947.35,Restricted
+CUST00718,Maryam Okeke,Ibadan,Payment,45480.62,Active
+CUST00115,Maryam Olawale,Port Harcourt,ATM Withdrawal,9531.89,Active
+CUST01007,Zainab Olawale,Abuja,ATM Withdrawal,Error,Active
+CUST00148,Femi Adeyemi,Kaduna,Withdrawal,136323.94,Active
+CUST00184,Fatima Nwosu,Enugu,POS Purchase,11119.77,Active
+CUST00077,Emeka Onyeka,Kano,ATM Withdrawal,9857.77,Restricted
+CUST01043,Maryam Okeke,Aba,Deposit,26926.36,Restricted
+CUST00543,Tunde Sule,Port Harcourt,Transfer,25585.15,Restricted
+CUST00260,Maryam Yusuf,Enugu,ATM Withdrawal,11355.45,Active
+CUST00089,Chika Ojo,,Withdrawal,20640.01,Active
+CUST00454,Amaka Abubakar,Abuja,Transfer,95734.64,Active
+CUST00797,Ifeoma Danjuma,Abuja,Payment,12506.03,Active
+CUST01095,Ada Onyeka,Lagos,Deposit,6948.54,Active
+CUST00608,Tunde Okafor,Port Harcourt,Online Transfer,71865.63,Active
+CUST00668,Daniel Nwosu,Lagos,Withdrawal,45809.95,Active
+CUST00920,Chinedu Adebayo,Ibadan,Deposit,15054.63,Restricted
+CUST00993,Zainab Musa,Lagos,Deposit,5754.82,Dormant
+CUST00308,Emeka Adeyemi,Lagos,Transfer,13297.57,Active
+CUST01092,Bola Nwosu,Jos,POS Purchase,26509.42,Active
+CUST00572,Chinedu Adeyemi,Ibadan,POS Purchase,89826.19,Active
+CUST01024,Zainab Abubakar,Aba,Online Transfer,9930.62,Active
+CUST00130,Chinedu Sule,Port Harcourt,Payment,25730.69,Active
+CUST00108,Musa Eze,Lagos,Transfer,55000.88,Active
+CUST00974,Femi Abubakar,Kano,Transfer,2588.13,Active
+CUST00740,Kelechi Abubakar,Kano,Deposit,78727.35,Dormant
+CUST00193,Daniel Uche,Lagos,Online Transfer,8582.75,Dormant
+CUST00985,Obinna Adeyemi,Kaduna,Transfer,39024.9,
+CUST00113,Chinedu Balogun,Kano,Transfer,35833.66,Active
+CUST00751,Daniel Danjuma,Enugu,Transfer,82830.05,Active
+CUST00226,Seyi Abubakar,Port Harcourt,POS Purchase,48575.97,Active
+CUST00078,Chinedu Okafor,Kano,Withdrawal,2598.45,Active
+CUST00887,Bola Olawale,Abuja,ATM Withdrawal,12774.17,Active
+CUST00933,Femi Nnamdi,Jos,ATM Withdrawal,32149.91,Active
+CUST00117,Kelechi Sule,Port Harcourt,POS Purchase,23039.83,Active
+CUST00103,Chika Abubakar,Lagos,Deposit,45142.1,Active
+CUST00676,Femi Olawale,Lagos,Withdrawal,61656.03,Restricted
+CUST00032,Zainab Adeyemi,Ibadan,Transfer,51452.36,Active
+CUST00821,Musa Ibrahim,Jos,POS Purchase,22599.54,Active
+CUST01008,Amina Ibrahim,Kaduna,Online Transfer,4418.8,Closed
+CUST00827,Emeka Onyeka,Ibadan,Payment,17756.0,Active
+CUST00254,Tunde Balogun,Jos,Withdrawal,42460.43,Active
+CUST00210,Chinedu Danjuma,Enugu,Withdrawal,9409.85,Restricted
+CUST00749,Bola Abubakar,Abuja,Payment,52640.16,Active
+CUST00068,Bola Nwosu,Kano,Withdrawal,69449.36,Active
+CUST00592,Emeka Ojo,Lagos,Payment,31787.45,Active
+CUST00494,Bola Okafor,Lagos,POS Purchase,1307.9,Active
+CUST00820,Seyi Nnamdi,Port Harcourt,Transfer,7799.94,Dormant
+CUST00223,Ngozi Adebayo,Lagos,Transfer,184637.36,Active
+CUST00839,Ngozi Okeke,Aba,Deposit,16210.62,Active
+CUST00770,Femi Adebayo,Jos,Withdrawal,3849.95,Active
+CUST00263,Femi Adeyemi,Abuja,ATM Withdrawal,96298.42,Closed
+CUST00393,Tomi Ojo,Ibadan,Transfer,28376.46,Active
+CUST00073,Maryam Sule,Port Harcourt,Deposit,84533.25,Active
+CUST00495,Amina Okeke,Lagos,Deposit,36935.13,Restricted
+CUST00287,Obinna Uche,Abuja,Deposit,44290.21,Active
+CUST00125,Emeka Onyeka,,ATM Withdrawal,40254.18,Active
+CUST00616,Amina Onyeka,Abuja,Payment,56243.63,Active
+CUST00625,Emeka Danjuma,Lagos,Transfer,273044.55,Dormant
+CUST00095,Maryam Abubakar,Lagos,Transfer,73936.81,Active
+CUST00205,Daniel Bello,Lagos,Deposit,5765.35,Active
+CUST00091,Fatima Uche,Kaduna,Transfer,43766.38,Dormant
+CUST00747,Zainab Okeke,Lagos,Deposit,87679.25,Active
+CUST00372,Seyi Sule,Abuja,Online Transfer,93214.69,Active
+CUST00079,Ifeoma Olawale,Kano,Deposit,18276.2,Active
+CUST00211,Femi Onyeka,Abuja,Transfer,89760.85,Dormant
+CUST01074,Tomi Abubakar,Port Harcourt,Deposit,,Active
+CUST00282,Ada Eze,Lagos,POS Purchase,366765.23,Active
+CUST00753,Fatima Nnamdi,Ibadan,Deposit,13226.24,Active
+CUST00516,Kelechi Ekanem,Kano,Online Transfer,16857.64,Active
+CUST00200,Femi Uche,Ibadan,Deposit,Error,Restricted
+CUST00339,Chinedu Okeke,Kano,POS Purchase,17149.73,Active
+CUST00016,Daniel Eze,Port Harcourt,ATM Withdrawal,11498.12,Active
+CUST00822,Daniel Musa,Abuja,Withdrawal,1767.43,Active
+CUST00368,Maryam Adeyemi,Lagos,Withdrawal,18128.86,Active
+CUST00550,Ada Onyeka,Port Harcourt,Transfer,40510.56,Active
+CUST00169,Fatima Onyeka,Lagos,POS Purchase,17098.36,Dormant
+CUST00907,Obinna Nnamdi,Abuja,,193947.15,Active
+CUST00241,Tomi Adebayo,Ibadan,Withdrawal,28377.04,Active
+CUST00623,Ifeoma Olawale,Lagos,Transfer,101822.75,Active
+CUST00961,Seyi Onyeka,Lagos,Withdrawal,36365.66,Active
+CUST00785,Amina Eze,Ibadan,Deposit,63982.64,Active
+CUST00664,Emeka Abubakar,Abuja,Payment,37019.55,Active
+CUST00977,Maryam Okafor,Benin City,Transfer,,Dormant
+CUST00195,Amina Olawale,Aba,Withdrawal,29610.94,Restricted
+CUST01060,Zainab Danjuma,Aba,POS Purchase,45985.46,Dormant
+CUST00613,Tunde Olawale,Port Harcourt,ATM Withdrawal,40388.19,Active
+CUST00451,Maryam Danjuma,Abuja,POS Purchase,20987.33,Active
+CUST00282,Amina Nwosu,Kano,Deposit,41979.73,Dormant
+CUST00820,Ada Nnamdi,Ibadan,Online Transfer,261540.92,Active
+CUST01074,Seyi Adebayo,Ibadan,Payment,21366.14,Active
+CUST00760,Amina Bello,Abuja,Transfer,42592.13,Dormant
+CUST00037,Chinedu Ibrahim,Lagos,Deposit,98492.8,Active
+CUST00516,Bola Abubakar,Lagos,POS Purchase,87571.69,Active
+CUST00806,Amina Ojo,Lagos,Payment,1O000,Active
+CUST00438,Kelechi Musa,Lagos,POS Purchase,2582.65,Active
+CUST00851,Amaka Balogun,Aba,ATM Withdrawal,46941.74,Active
+CUST00779,Musa Balogun,Lagos,POS Purchase,3042.65,Active
+CUST00074,Amaka Okeke,Kano,ATM Withdrawal,121770.94,Dormant
+CUST00614,Ada Balogun,Aba,Online Transfer,33171.08,Active
+CUST00190,Tunde Abubakar,Abuja,Withdrawal,76087.08,Active
+CUST00536,Ada Ekanem,Kano,Withdrawal,11359.94,Active
+CUST00423,Amina Ojo,Ibadan,ATM Withdrawal,,Dormant
+CUST00888,Chinedu Bello,Abuja,Transfer,36341.45,Restricted
+CUST00955,Fatima Onyeka,Port Harcourt,Payment,27074.74,Active
+CUST00508,Tunde Adeyemi,Benin City,ATM Withdrawal,17127.13,Dormant
+CUST00591,Ifeoma Ekanem,Enugu,Payment,30473.75,Active
+CUST00689,Amina Adeyemi,Benin City,POS Purchase,445697.47,Active
+CUST00721,Musa Balogun,Jos,Withdrawal,##VALUE!,Active
+CUST00699,Daniel Okafor,Abuja,POS Purchase,79974.12,Active
+CUST00862,Tomi Ibrahim,Enugu,Deposit,65114.12,Active
+CUST01081,Maryam Uche,Kano,Payment,122936.34,Active
+CUST00911,Ngozi Balogun,Ibadan,POS Purchase,23153.2,Active
+CUST00149,Maryam Adeyemi,Enugu,Withdrawal,,Restricted
+CUST00524,Ngozi Adeyemi,Enugu,Withdrawal,23187.62,Active
+CUST00508,Fatima Okafor,Kaduna,Withdrawal,63050.77,Restricted
+CUST00560,Maryam Abubakar,Abuja,Payment,10616.44,Active
+CUST00582,Ngozi Eze,Ibadan,Transfer,23472.71,Dormant
+CUST00790,Chinedu Okafor,Abuja,Deposit,14019.3,Active
+CUST00464,Chika Ekanem,Kano,POS Purchase,125742.2,Active
+CUST00290,Daniel Abubakar,Enugu,Withdrawal,59243.82,Active
+CUST00504,Maryam Bello,Benin City,Payment,53717.84,Restricted
+CUST00940,Ifeoma Olawale,Port Harcourt,Payment,52133.4,Active
+CUST00343,Fatima Olawale,Port Harcourt,Deposit,Not Available,Active
+CUST00023,Amaka Onyeka,Abuja,Deposit,34115.81,Restricted
+CUST01074,Ngozi Ibrahim,Lagos,Online Transfer,8559.31,Active
+CUST00216,Emeka Uche,Abuja,ATM Withdrawal,3144.84,Active
+CUST00664,Femi Musa,Aba,Deposit,,Active
+CUST00881,Zainab Eze,Abuja,POS Purchase,38713.75,Active
+CUST00302,Emeka Ojo,Jos,Transfer,93828.54,Active
+CUST00375,Chinedu Abubakar,Abuja,Deposit,134766.05,Active
+CUST00309,Musa Abubakar,Enugu,ATM Withdrawal,134585.95,Active
+CUST00165,Amina Adeyemi,Kano,Transfer,10321.0,Active
+CUST00169,Amina Musa,Ibadan,Withdrawal,19686.63,Active
+CUST00206,Tunde Olawale,Ibadan,POS Purchase,45265.21,Closed
+CUST00504,Chika Yusuf,Ibadan,Withdrawal,352168.3,Active
+CUST00584,Seyi Sule,Kaduna,Withdrawal,123014.68,Active
+CUST00018,Ngozi Uche,Kano,Withdrawal,85764.2,Active
+CUST00931,Tunde Adeyemi,Lagos,ATM Withdrawal,18999.57,Active
+CUST00744,Femi Bello,Abuja,ATM Withdrawal,11576.82,Active
+CUST00078,Zainab Okeke,Ibadan,Online Transfer,61627.76,Active
+CUST00927,Tomi Nnamdi,Port Harcourt,Withdrawal,9314.23,Active
+CUST00034,Seyi Ekanem,Kano,POS Purchase,22060.05,Active
+CUST00617,Ifeoma Ojo,Kano,Payment,24963.79,Dormant
+CUST00512,Ngozi Ojo,Abuja,Withdrawal,137705.4,Active
+CUST00553,Chika Sule,Enugu,Deposit,19638.8,Active
+CUST01052,Seyi Danjuma,Enugu,POS Purchase,2442.34,Active
+CUST01020,Emeka Okafor,Ibadan,Withdrawal,46369.84,Active
+CUST00307,Seyi Uche,Ibadan,Payment,13918.0,Active
+CUST00638,Kelechi Danjuma,Kaduna,Payment,29219.48,Dormant
+CUST01056,Bola Sule,Kano,Deposit,25674.54,Active
+CUST00802,Ngozi Okeke,Jos,Online Transfer,21295.6,Active
+CUST00977,Tomi Nnamdi,Lagos,POS Purchase,61716.12,Active
+CUST00479,Musa Sule,Ibadan,Transfer,6045.65,Active
+CUST00312,Ifeoma Yusuf,Ibadan,ATM Withdrawal,16696.35,Restricted
+CUST00562,Maryam Eze,Port Harcourt,Transfer,55492.2,Active
+CUST00899,Emeka Ekanem,Abuja,ATM Withdrawal,15151.81,Active
+CUST01022,Amina Musa,Kano,Deposit,5603.54,Active
+CUST00755,Ngozi Abubakar,Abuja,Transfer,54639.65,Restricted
+CUST00778,Zainab Musa,Kaduna,Transfer,86081.9,Dormant
+CUST00564,Amina Bello,Abuja,Transfer,26768.06,Active
+CUST00352,Ada Onyeka,Lagos,Transfer,3940.7,Active
+CUST00466,Ada Ojo,Kano,Deposit,56722.69,Dormant
+CUST00548,Chika Balogun,Abuja,Online Transfer,5324.49,Active
+CUST00898,Chika Olawale,Lagos,Deposit,38130.09,Active
+CUST00611,Chinedu Abubakar,Kano,Deposit,11527.56,Active
+CUST00873,Bola Abubakar,Kano,Transfer,8779.02,Active
+CUST00031,Maryam Yusuf,Lagos,Payment,17998.61,Active
+CUST00833,Ngozi Sule,Kano,Withdrawal,23310.57,Active
+CUST00558,Daniel Uche,Kano,Payment,14702.19,Active
+CUST01099,Chika Adeyemi,Enugu,ATM Withdrawal,50446.22,Active
+CUST00519,Ngozi Nnamdi,Abuja,Deposit,17923.9,Active
+CUST00527,Obinna Onyeka,Abuja,Online Transfer,74619.02,Dormant
+CUST00141,Amina Balogun,Aba,Transfer,37091.12,Dormant
+CUST00888,Fatima Onyeka,Kano,Payment,13938.4,Active
+CUST00772,Ada Uche,Lagos,Deposit,11778.37,Active
+CUST00949,Femi Ibrahim,Benin City,ATM Withdrawal,5390.88,Active
+CUST00103,Obinna Nwosu,Lagos,POS Purchase,,Active
+CUST00233,Musa Ibrahim,Enugu,Deposit,19640.96,Active
+CUST00965,Emeka Ojo,Ibadan,Deposit,,Dormant
+CUST00047,Chika Nwosu,Jos,Withdrawal,16387.02,Active
+CUST00560,Tomi Sule,Jos,Deposit,11372.19,Active
+CUST00446,Chinedu Uche,Abuja,Online Transfer,135352.45,Active
+CUST01034,Tomi Uche,Enugu,Payment,5100.95,Active
+CUST00943,Amina Musa,Abuja,Payment,6625.02,Active
+CUST00987,Fatima Uche,Ibadan,Online Transfer,84959.46,Active
+CUST00319,Chinedu Olawale,Kano,POS Purchase,108740.87,Restricted
+CUST00647,Obinna Sule,Lagos,POS Purchase,13292.79,
+CUST00771,Daniel Yusuf,Lagos,Transfer,14881.5,Active
+CUST01065,Musa Adebayo,Lagos,Transfer,Error,Active
+CUST00009,Chinedu Okeke,Lagos,Withdrawal,,Active
+CUST01075,Tunde Onyeka,Abuja,Transfer,4353.63,Active
+CUST00391,Bola Musa,Kaduna,Transfer,21146.43,Active
+CUST00142,Chika Abubakar,Port Harcourt,Deposit,131906.73,Active
+CUST00678,Chika Ibrahim,Benin City,Transfer,18110.18,Dormant
+CUST00860,Daniel Balogun,Benin City,Transfer,30973.79,Active
+CUST00143,Fatima Ojo,Enugu,Withdrawal,87007.45,Dormant
+CUST00045,Amina Onyeka,Abuja,Deposit,230232.4,Active
+CUST00987,Bola Balogun,Kaduna,Transfer,15726.64,Dormant
+CUST01028,Kelechi Onyeka,Enugu,Transfer,27532.52,Active
+CUST00172,Daniel Sule,Enugu,ATM Withdrawal,,Active
+CUST00995,Fatima Yusuf,Kaduna,ATM Withdrawal,6110.48,Active
+CUST01001,Tomi Ekanem,Kano,Withdrawal,78240.36,Dormant
+CUST01098,Ada Onyeka,Kano,Deposit,,Active
+CUST00239,Ngozi Nnamdi,Kaduna,Withdrawal,31021.39,Active
+CUST00637,Emeka Uche,Port Harcourt,Deposit,21967.97,Active
+CUST01094,Amina Onyeka,Benin City,Transfer,10742.34,Active
+CUST00993,Bola Olawale,Lagos,Online Transfer,10476.16,Active
+CUST00666,Ngozi Ibrahim,Lagos,Withdrawal,36915.03,Active
+CUST00217,Emeka Sule,Kano,Withdrawal,75773.14,Active
+CUST00093,Femi Eze,Lagos,ATM Withdrawal,24593.16,Active
+CUST00286,Kelechi Danjuma,Jos,Transfer,30033.63,Active
+CUST00072,Seyi Eze,Lagos,Deposit,49569.64,Closed
+CUST00215,Tomi Yusuf,Ibadan,Deposit,10597.16,Active
+CUST00083,Tomi Olawale,Abuja,Online Transfer,58668.15,Active
+CUST00839,Chika Ibrahim,Jos,Deposit,63532.25,Active
+CUST00649,Amaka Okafor,Abuja,Payment,378354.21,Active
+CUST00570,Kelechi Adebayo,Lagos,POS Purchase,19222.86,Active
+CUST00891,Ngozi Ojo,Lagos,Withdrawal,17709.88,Active
+CUST00452,Chika Ibrahim,Kano,ATM Withdrawal,60410.95,Active
+CUST00444,Ngozi Onyeka,Jos,Deposit,63517.07,Dormant
+CUST00228,Chinedu Ojo,Jos,Withdrawal,16397.31,Active
+CUST00490,Ngozi Adebayo,Abuja,Withdrawal,18709.69,Active
+CUST00192,Emeka Musa,Port Harcourt,Online Transfer,48102.56,Active
+CUST00649,Emeka Onyeka,Lagos,Withdrawal,12238.91,Active
+CUST01098,Daniel Ekanem,Kano,Deposit,18572.29,Active
+CUST00587,Chika Okafor,Kano,Online Transfer,30624.41,Active
+CUST00329,Ifeoma Bello,Abuja,Deposit,75803.4,Active
+CUST00757,Zainab Nnamdi,Kano,POS Purchase,15296.22,Active
+CUST00903,Femi Yusuf,Kaduna,ATM Withdrawal,4436.3,Active
+CUST00519,Tomi Ibrahim,Lagos,Payment,4118.99,Active
+CUST00276,Kelechi Danjuma,Lagos,ATM Withdrawal,7946.98,Active
+CUST00786,Femi Nwosu,Lagos,ATM Withdrawal,7531.07,Active
+CUST00206,Chika Ibrahim,Lagos,Deposit,23988.96,Active
+CUST01098,Femi Onyeka,Lagos,Online Transfer,8527.74,Active
+CUST00350,Bola Ibrahim,Ibadan,Online Transfer,13866.14,Active
+CUST00386,Seyi Nnamdi,Lagos,POS Purchase,12911.5,Restricted
+CUST00800,Femi Ojo,Enugu,Payment,18023.86,Active
+CUST00014,Amina Uche,Kaduna,Payment,105078.62,Active
+CUST00224,Daniel Balogun,Aba,Payment,54279.8,Closed
+CUST00139,Ngozi Eze,Ibadan,Deposit,28455.29,Closed
+CUST00431,Ada Olawale,Lagos,Transfer,17657.81,Active
+CUST00609,Obinna Onyeka,Lagos,Payment,18155.47,Active
+CUST00198,Amaka Nwosu,Lagos,ATM Withdrawal,38859.44,Active
+CUST00379,Femi Eze,Jos,Transfer,50218.0,Restricted
+CUST00850,Emeka Yusuf,Jos,Transfer,11297.56,Active
+CUST01034,Femi Ekanem,Abuja,Payment,29040.32,Active
+CUST00016,Chinedu Abubakar,Abuja,Transfer,3671.44,Active
+CUST00691,Obinna Eze,Port Harcourt,Online Transfer,34602.24,Closed
+CUST00029,Amina Yusuf,Abuja,ATM Withdrawal,60000.55,Active
+CUST00573,Ngozi Ekanem,Jos,Deposit,21160.49,Active
+CUST00968,Maryam Okafor,Lagos,Deposit,172212.9,Dormant
+CUST00878,Amaka Onyeka,Abuja,ATM Withdrawal,11599.55,Active
+CUST00256,Amaka Sule,Port Harcourt,Transfer,34800.96,Active
+CUST00285,Chinedu Onyeka,Lagos,POS Purchase,27014.66,Active
+CUST00862,Amaka Uche,Abuja,Withdrawal,25327.91,Active
+CUST00902,Tomi Balogun,Kaduna,Deposit,24975.18,Active
+CUST00309,Fatima Ojo,Lagos,Transfer,31165.43,Active
+CUST00004,Chika Eze,Kano,ATM Withdrawal,65376.53,Active
+CUST00489,Amaka Nwosu,Port Harcourt,Online Transfer,111045.58,Active
+CUST00682,Bola Yusuf,Lagos,POS Purchase,27937.06,Active
+CUST00489,Kelechi Bello,Lagos,Transfer,63276.92,Restricted
+CUST01029,Ifeoma Ekanem,Abuja,POS Purchase,13879.84,Active
+CUST00895,Maryam Danjuma,Lagos,Deposit,60229.36,Restricted
+CUST00867,Bola Olawale,Abuja,Payment,13068.61,Active
+CUST00023,Ada Okafor,Benin City,Online Transfer,83334.65,Active
+CUST00939,Chika Onyeka,Ibadan,Transfer,255403.69,Dormant
+CUST00831,Tunde Onyeka,Aba,Online Transfer,,Dormant
+CUST00437,Ada Balogun,Port Harcourt,Withdrawal,3125.71,Active
+CUST00649,Zainab Okeke,Ibadan,Deposit,16185.76,Active
+CUST00907,Amaka Sule,Ibadan,Payment,95974.22,Active
+CUST00997,Tunde Nwosu,Lagos,Online Transfer,48680.63,Active
+CUST00606,Amaka Ojo,Abuja,Withdrawal,35913.67,Active
+CUST00046,Bola Musa,Kano,POS Purchase,76774.52,Active
+CUST00681,Maryam Danjuma,Benin City,Deposit,45452.05,Active
+CUST00749,Chika Sule,Port Harcourt,ATM Withdrawal,94625.76,Dormant
+CUST00065,Femi Musa,Lagos,Payment,Not Available,Active
+CUST00900,Daniel Olawale,Jos,Withdrawal,128240.19,Dormant
+CUST00222,Amaka Abubakar,Lagos,ATM Withdrawal,40084.94,Active
+CUST00980,Maryam Yusuf,Aba,ATM Withdrawal,69232.05,Closed
+CUST00607,Emeka Sule,Benin City,Transfer,20595.6,
+CUST00355,Maryam Abubakar,Benin City,Withdrawal,15344.29,Active
+CUST00065,Tomi Musa,Benin City,Deposit,154311.32,Active
+CUST00020,Ifeoma Ojo,Lagos,Online Transfer,34757.98,Active
+CUST00816,Fatima Balogun,Ibadan,ATM Withdrawal,62620.02,Active
+CUST00415,Ngozi Eze,,POS Purchase,31688.2,Active
+CUST00925,Kelechi Nnamdi,,ATM Withdrawal,15575.34,Active
+CUST00254,Emeka Eze,Abuja,POS Purchase,28309.22,Active
+CUST01013,Zainab Onyeka,Lagos,Deposit,117707.0,Dormant
+CUST01036,Daniel Okeke,Abuja,Transfer,48786.06,Dormant
+CUST00112,Maryam Ekanem,Port Harcourt,ATM Withdrawal,5056.79,Active
+CUST00712,Chinedu Ibrahim,Kano,Deposit,22577.64,Active
+CUST01034,Daniel Okafor,Benin City,Deposit,166417.27,Active
+CUST00356,Amina Nwosu,Enugu,Payment,22610.35,Active
+CUST00075,Tomi Ekanem,Ibadan,POS Purchase,4626.15,Active
+CUST00964,Amaka Bello,Abuja,ATM Withdrawal,,Active
+CUST00522,Amina Musa,Port Harcourt,Deposit,55400.97,Active
+CUST00030,Kelechi Sule,Abuja,Online Transfer,26106.69,Active
+CUST00925,Amina Ekanem,Lagos,Deposit,19313.16,Dormant
+CUST00747,Chinedu Balogun,Lagos,Withdrawal,82645.17,Active
+CUST00078,Daniel Ekanem,Abuja,Online Transfer,16284.62,Active
+CUST00285,Obinna Adeyemi,Abuja,POS Purchase,88275.35,Active
+CUST00021,Femi Adebayo,Kano,Online Transfer,48153.79,Active
+CUST01051,Emeka Yusuf,Lagos,POS Purchase,35762.02,Active
+CUST00028,Musa Okafor,Abuja,ATM Withdrawal,32385.78,Active
+CUST00876,Zainab Onyeka,Lagos,Withdrawal,23505.55,Active
+CUST00563,Ifeoma Olawale,Ibadan,Withdrawal,79666.14,Dormant
+CUST00642,Chinedu Ekanem,Kano,Online Transfer,11785.4,Active
+CUST00893,Obinna Onyeka,Abuja,POS Purchase,5530.51,Dormant
+CUST00985,Kelechi Ekanem,Lagos,Transfer,51761.4,Active
+CUST00141,Emeka Adebayo,Aba,Transfer,52638.24,Active
+CUST00020,Fatima Uche,Kano,Withdrawal,45261.0,Active
+CUST00138,Ada Ibrahim,Ibadan,Withdrawal,42095.16,Active
+CUST00751,Amina Musa,Kano,POS Purchase,20321.19,Active
+CUST00626,Daniel Sule,Benin City,Deposit,61539.99,Active
+CUST00093,Daniel Balogun,Kaduna,Transfer,26752.99,Dormant
+CUST00258,Chika Olawale,Abuja,Online Transfer,17203.12,Active
+CUST00591,Obinna Okafor,Ibadan,Payment,20497.71,Restricted
+CUST00804,Amina Bello,Lagos,Transfer,211208.16,Active
+CUST00378,Maryam Adeyemi,Ibadan,Withdrawal,4939.32,Active
+CUST01045,Maryam Ojo,Abuja,Deposit,46154.41,Active
+CUST01092,Fatima Sule,Lagos,Withdrawal,5223.12,Active
+CUST00843,Bola Uche,Aba,Deposit,25127.71,Active
+CUST00500,Femi Olawale,Kaduna,Deposit,18148.3,Restricted
+CUST00965,Musa Balogun,Abuja,Deposit,3480.5,Restricted
+CUST00801,Chika Okafor,Jos,Withdrawal,41315.68,Active
+CUST00572,Bola Ibrahim,Abuja,Deposit,19147.39,Active
+CUST00489,Amaka Onyeka,Port Harcourt,Online Transfer,0,Active
+CUST00916,Tunde Abubakar,Kaduna,Deposit,64830.27,Active
+CUST00613,Amina Onyeka,Abuja,Transfer,117590.79,Active
+CUST00202,Ifeoma Okeke,Port Harcourt,POS Purchase,124254.12,Active
+CUST01100,Tunde Onyeka,Ibadan,Deposit,40091.36,Dormant
+CUST00076,Bola Abubakar,Lagos,Transfer,29319.79,Active
+CUST00765,Chika Musa,Port Harcourt,POS Purchase,105674.24,Active
+CUST00722,Musa Balogun,Abuja,Payment,150594.09,Active
+CUST00645,Chika Yusuf,Ibadan,Withdrawal,86988.26,Restricted
+CUST00058,Kelechi Okeke,Lagos,ATM Withdrawal,10920.77,Active
+CUST00542,Musa Nnamdi,Lagos,ATM Withdrawal,34245.3,Active
+CUST00982,Chika Okafor,Ibadan,Transfer,43454.77,Active
+CUST00264,Tomi Eze,Lagos,Deposit,4584.07,Dormant
+CUST00761,Bola Bello,Port Harcourt,Deposit,44771.2,Active
+CUST00945,Daniel Uche,Ibadan,POS Purchase,271835.29,Active
+CUST01048,Kelechi Okeke,Enugu,Withdrawal,53098.08,Active
+CUST00568,Amaka Sule,Lagos,Deposit,122194.93,Active
+CUST00346,Obinna Abubakar,Kaduna,Transfer,33619.94,Active
+CUST00770,Ada Musa,Enugu,Online Transfer,26023.14,Active
+CUST00535,Kelechi Adeyemi,Abuja,Deposit,40996.06,Restricted
+CUST00690,Amina Balogun,Enugu,Deposit,12383.66,Active
+CUST00816,Seyi Bello,Enugu,Transfer,10680.6,Active
+CUST00782,Maryam Ibrahim,Kano,ATM Withdrawal,99336.1,Active
+CUST00268,Tomi Okeke,Kano,Transfer,1O000,Active
+CUST00832,Fatima Olawale,Enugu,POS Purchase,10392.64,Active
+CUST00597,Chika Musa,Jos,Deposit,73714.78,Active
+CUST01024,Emeka Olawale,Kano,Transfer,N/A,Active
+CUST00726,Tomi Olawale,Benin City,Transfer,39331.0,Restricted
+CUST00981,Kelechi Uche,Enugu,Transfer,44363.77,Dormant
+CUST01077,Bola Olawale,Kaduna,Transfer,75683.11,Active
+CUST01094,Kelechi Olawale,Aba,POS Purchase,30414.6,Active
+CUST00820,Kelechi Ekanem,Lagos,Withdrawal,114705.33,Dormant
+CUST00658,Fatima Nwosu,Lagos,ATM Withdrawal,38153.49,Active
+CUST00130,Tunde Eze,Kano,Deposit,52268.23,Active
+CUST00425,Amina Yusuf,Port Harcourt,Payment,12169.61,Active
+CUST00523,Femi Okafor,Kano,Transfer,242466.49,Dormant
+CUST00859,Maryam Adebayo,Benin City,Payment,44791.99,Active
+CUST00648,Tomi Sule,Aba,Deposit,57122.72,Active
+CUST00484,Femi Okeke,Port Harcourt,Online Transfer,5607.02,Active
+CUST00162,Tomi Ojo,Ibadan,Online Transfer,12298.81,Active
+CUST00788,Bola Yusuf,Lagos,POS Purchase,96552.63,Active
+CUST00476,Emeka Onyeka,Kano,POS Purchase,37303.82,Active
+CUST00040,Bola Balogun,Lagos,Deposit,4130.61,Active
+CUST00313,Kelechi Ojo,Port Harcourt,Transfer,,Closed
+CUST00968,Ngozi Adebayo,Kano,Withdrawal,16255.34,Active
+CUST00131,Obinna Danjuma,Enugu,POS Purchase,114837.89,Dormant
+CUST00447,Tomi Abubakar,Ibadan,Withdrawal,25645.52,Active
+CUST00564,Chinedu Onyeka,Abuja,Withdrawal,34360.62,Active
+CUST00093,Fatima Balogun,Lagos,ATM Withdrawal,91027.27,Active
+CUST00183,Emeka Nnamdi,Lagos,Deposit,11412.53,Active
+CUST01035,Tunde Onyeka,Jos,ATM Withdrawal,10374.57,Active
+CUST00650,Musa Okeke,Aba,Withdrawal,23004.87,Active
+CUST00232,Ada Okafor,,ATM Withdrawal,64031.64,Restricted
+CUST00187,Zainab Balogun,Abuja,POS Purchase,7398.87,Active
+CUST00469,Chika Eze,Port Harcourt,Payment,5281.29,Restricted
+CUST00796,Seyi Sule,Ibadan,Withdrawal,63810.99,Active
+CUST00804,Femi Musa,Abuja,Deposit,15321.03,Active
+CUST00215,Emeka Abubakar,Lagos,Deposit,18915.44,
+CUST00799,Bola Uche,Port Harcourt,Deposit,4372.76,Active
+CUST00986,Bola Yusuf,Abuja,Payment,14199.76,Active
+CUST00249,Femi Okeke,Abuja,Transfer,27788.92,Active
+CUST00029,Fatima Ibrahim,Lagos,Withdrawal,70993.08,Active
+CUST01055,Tomi Danjuma,Ibadan,Withdrawal,12948.43,Active
+CUST00575,Zainab Danjuma,Kano,Online Transfer,146874.82,Active
+CUST00855,Fatima Sule,Abuja,Deposit,14120.79,Closed
+CUST00353,Daniel Musa,Kano,Withdrawal,14141.49,Active
+CUST00330,Musa Ibrahim,Port Harcourt,Transfer,130263.86,Active
+CUST00248,Chika Nwosu,Benin City,Deposit,34593.46,Active
+CUST00239,Chika Uche,Aba,Online Transfer,16121.92,Active
+CUST00519,Tunde Musa,Lagos,Deposit,23976.43,Dormant
+CUST00117,Kelechi Abubakar,Kaduna,ATM Withdrawal,108340.4,Dormant
+CUST00927,Amaka Balogun,Ibadan,Payment,121317.05,Active
+CUST00563,Zainab Nwosu,Ibadan,POS Purchase,12371.7,Active
+CUST01007,Ngozi Yusuf,Abuja,ATM Withdrawal,26836.71,Dormant
+CUST00553,Ada Ibrahim,Abuja,ATM Withdrawal,30641.69,Active
+CUST00334,Amaka Yusuf,Lagos,Transfer,10443.34,Active
+CUST00567,Ngozi Onyeka,Jos,Transfer,Pending,Active
+CUST00170,Maryam Okeke,Kano,ATM Withdrawal,,Active
+CUST00907,Tomi Adeyemi,Port Harcourt,Payment,87567.86,Active
+CUST00793,Bola Abubakar,Kano,Transfer,93656.1,Active
+CUST00162,Chika Adebayo,Lagos,Withdrawal,1O000,Dormant
+CUST00641,Daniel Eze,Lagos,Withdrawal,22606.81,Active
+CUST00592,Emeka Adebayo,Ibadan,Transfer,54407.22,Restricted
+CUST00222,Zainab Musa,Port Harcourt,Deposit,15596.02,Active
+CUST00135,Tomi Eze,Enugu,Transfer,50443.03,Active
+CUST00837,Musa Okeke,Ibadan,Deposit,25643.7,Active
+CUST00291,Bola Sule,Kano,Payment,,Active
+CUST00571,Fatima Abubakar,Benin City,ATM Withdrawal,10754.97,Dormant
+CUST00273,Maryam Musa,Lagos,Payment,119016.63,Active
+CUST00719,Fatima Okafor,Ibadan,ATM Withdrawal,23945.56,Restricted
+CUST00054,Amaka Eze,Ibadan,Deposit,144395.87,Active
+CUST00396,Fatima Ekanem,Abuja,Deposit,16752.85,Active
+CUST00602,Zainab Ojo,Lagos,ATM Withdrawal,##VALUE!,Active
+CUST00484,Chika Abubakar,Lagos,POS Purchase,306396.87,Active
+CUST00674,Emeka Adeyemi,Lagos,ATM Withdrawal,9726.15,Active
+CUST00199,Fatima Okeke,Kano,ATM Withdrawal,4197.08,Active
+CUST00486,Obinna Yusuf,Lagos,ATM Withdrawal,101371.77,Active
+CUST00833,Musa Bello,Ibadan,ATM Withdrawal,12248.4,Active
+CUST00367,Daniel Ekanem,Lagos,ATM Withdrawal,27426.18,Active
+CUST00173,Ifeoma Nnamdi,Lagos,ATM Withdrawal,15584.65,Active
+CUST00933,Ngozi Ibrahim,Abuja,Deposit,36611.68,Active
+CUST00857,Seyi Danjuma,Lagos,Deposit,10822.94,Active
+CUST00749,Femi Ojo,Jos,Transfer,23388.97,Active
+CUST00878,Daniel Bello,Abuja,Payment,43904.63,Active
+CUST00857,Amina Ibrahim,Lagos,ATM Withdrawal,10215.39,Active
+CUST00822,Seyi Uche,Lagos,Transfer,13903.22,Active
+CUST00561,Seyi Okeke,Abuja,Withdrawal,19782.97,Active
+CUST00022,Ifeoma Musa,Kano,POS Purchase,6708.59,Active
+CUST00657,Femi Balogun,Enugu,Withdrawal,18350.26,Active
+CUST00301,Bola Nnamdi,Abuja,POS Purchase,31531.94,Active
+CUST00851,Fatima Ojo,Ibadan,Withdrawal,18777.43,Active
+CUST00516,Obinna Nnamdi,Port Harcourt,Transfer,21345.22,Active
+CUST00996,Amaka Ibrahim,Benin City,Transfer,27448.26,Active
+CUST00656,Emeka Okafor,Kano,Withdrawal,14533.57,Active
+CUST00606,Ngozi Uche,Abuja,Deposit,55883.38,Active
+CUST01012,Bola Bello,Ibadan,Withdrawal,117705.13,Closed
+CUST00523,Zainab Ibrahim,Benin City,Transfer,17598.68,Active
+CUST00414,Daniel Eze,Port Harcourt,Withdrawal,45485.92,Active
+CUST00409,Tunde Bello,Jos,POS Purchase,22034.01,Restricted
+CUST00963,Tomi Abubakar,Kaduna,Deposit,40354.05,Restricted
+CUST00832,Chinedu Okafor,Lagos,Transfer,134019.33,Active
+CUST00180,Daniel Onyeka,Enugu,Deposit,46565.69,Dormant
+CUST00542,Amina Eze,Kano,Online Transfer,4753.07,Active
+CUST00409,Bola Ekanem,Kano,POS Purchase,44088.55,Active
+CUST00712,Ngozi Bello,Port Harcourt,Online Transfer,96069.15,Active
+CUST00058,Daniel Adeyemi,Kaduna,Online Transfer,22434.69,Active
+CUST00786,Kelechi Uche,Kano,Withdrawal,75780.37,Active
+CUST00817,Ifeoma Nnamdi,Kano,ATM Withdrawal,14042.51,Active
+CUST00250,Ngozi Nwosu,Lagos,Withdrawal,6338.65,Active
+CUST00166,Obinna Ibrahim,Port Harcourt,POS Purchase,32245.34,Active
+CUST00691,Ada Adebayo,Kaduna,Transfer,4834.26,Active
+CUST00283,Fatima Okeke,Ibadan,Transfer,22030.62,Active
+CUST01036,Tomi Nnamdi,Lagos,Online Transfer,101397.33,Dormant
+CUST00853,Maryam Musa,Kaduna,POS Purchase,4147.23,Active
+CUST01051,Maryam Nnamdi,Benin City,Online Transfer,7788.96,Active
+CUST00589,Ngozi Abubakar,Kano,Deposit,9975.9,Active
+CUST01033,Emeka Ojo,Lagos,Withdrawal,26282.01,Active
+CUST00016,Femi Nnamdi,Kano,Withdrawal,19423.58,Active
+CUST00319,Chika Danjuma,Lagos,Transfer,113447.58,Active
+CUST00003,Obinna Abubakar,Abuja,Transfer,72715.37,Active
+CUST00746,Ifeoma Sule,Ibadan,Withdrawal,45946.49,Active
+CUST00562,Tomi Abubakar,Aba,POS Purchase,32389.52,Active
+CUST00317,Kelechi Bello,Abuja,Withdrawal,41489.25,Dormant
+CUST00336,Musa Adeyemi,Kaduna,ATM Withdrawal,11825.07,Active
+CUST00709,Fatima Danjuma,Aba,POS Purchase,65984.17,Active
+CUST00199,Bola Nwosu,Lagos,Payment,9208.81,Dormant
+CUST00567,Ifeoma Okafor,Lagos,Transfer,64559.13,Active
+CUST00675,Ada Onyeka,Ibadan,Withdrawal,91683.92,Active
+CUST00264,Ngozi Sule,Enugu,Deposit,34572.86,Restricted
+CUST00252,Ifeoma Yusuf,Abuja,ATM Withdrawal,23476.3,Active
+CUST00390,Maryam Okafor,Ibadan,Transfer,41784.04,Closed
+CUST00652,Tomi Yusuf,Kano,Deposit,1601.09,Active
+CUST00280,Ifeoma Okafor,Enugu,Online Transfer,37881.49,Active
+CUST00418,Amaka Adeyemi,Ibadan,ATM Withdrawal,24999.37,Active
+CUST00598,Femi Uche,Lagos,POS Purchase,26617.7,Active
+CUST00206,Ada Abubakar,Lagos,Transfer,56754.62,Closed
+CUST00626,Fatima Olawale,Lagos,Online Transfer,25982.82,Active
+CUST00152,Amaka Abubakar,Aba,Withdrawal,8953.08,Closed
+CUST00157,Amaka Balogun,Aba,Withdrawal,24307.91,Active
+CUST00261,Kelechi Ibrahim,Benin City,POS Purchase,29956.91,Restricted
+CUST00316,Daniel Balogun,Lagos,POS Purchase,31410.38,Restricted
+CUST00033,Kelechi Musa,Kano,Transfer,32921.43,Active
+CUST01058,Amina Danjuma,Lagos,Deposit,79168.11,Closed
+CUST00339,Kelechi Onyeka,Abuja,Withdrawal,9451.47,Active
+CUST00886,Femi Musa,Abuja,ATM Withdrawal,33378.27,Active
+CUST00993,Ifeoma Abubakar,Benin City,POS Purchase,101710.87,Active
+CUST00881,Bola Danjuma,Lagos,Transfer,4941.12,Active
+CUST00915,Zainab Bello,Ibadan,Deposit,33510.24,Active
+CUST00111,Emeka Nwosu,Jos,ATM Withdrawal,15593.06,Active
+CUST00410,Ifeoma Eze,Ibadan,ATM Withdrawal,19326.83,Active
+CUST00821,Musa Ekanem,Lagos,Transfer,11329.35,Active
+CUST00634,Musa Musa,Kaduna,Payment,23633.23,Active
+CUST00007,Femi Yusuf,Ibadan,Online Transfer,,Active
+CUST00625,Zainab Okeke,Port Harcourt,Withdrawal,7907.2,Active
+CUST00885,Ada Nwosu,Ibadan,Payment,8693.66,Dormant
+CUST00912,Chinedu Abubakar,Kaduna,Payment,7616.14,Restricted
+CUST00423,Ada Ibrahim,Port Harcourt,Payment,157531.08,Dormant
+CUST00260,Tunde Adeyemi,Kano,POS Purchase,17634.63,Active
+CUST00341,Bola Nwosu,Port Harcourt,Payment,27291.23,Active
+CUST00327,Musa Okafor,Lagos,Transfer,18716.8,Restricted
+CUST00382,Kelechi Bello,Enugu,Deposit,,Active
+CUST00332,Ngozi Okafor,Lagos,ATM Withdrawal,22132.65,Active
+CUST00503,Tomi Olawale,Abuja,Deposit,327159.6,Active
+CUST00045,Seyi Danjuma,Abuja,Deposit,112648.85,Active
+CUST00303,Ifeoma Yusuf,Abuja,Transfer,11932.51,Active
+CUST00347,Fatima Nnamdi,Port Harcourt,Payment,53505.19,Active
+CUST00169,Chinedu Okeke,Kano,Online Transfer,,Active
+CUST00966,Amina Nwosu,Abuja,ATM Withdrawal,4739.05,Active
+CUST00744,Chinedu Musa,Lagos,POS Purchase,77611.49,Active
+CUST01004,Daniel Bello,Kaduna,Transfer,89326.43,Active
+CUST00618,Maryam Yusuf,Jos,Transfer,79698.98,Active
+CUST00121,Emeka Olawale,Port Harcourt,Online Transfer,17502.42,Active
+CUST00996,Bola Balogun,Abuja,Transfer,23698.9,Active
+CUST00504,Ada Eze,Lagos,POS Purchase,59262.11,Active
+CUST00753,Kelechi Balogun,Lagos,Payment,41417.38,Active
+CUST00420,Musa Uche,Abuja,Withdrawal,18888.76,Active
+CUST00544,Chinedu Olawale,Aba,Payment,5546.31,Closed
+CUST00539,Musa Eze,Enugu,Withdrawal,31377.14,Active
+CUST00314,Obinna Olawale,Abuja,Deposit,82369.41,Active
+CUST00611,Tomi Balogun,Jos,Withdrawal,8453.8,Restricted
+CUST00808,Ifeoma Okeke,Port Harcourt,Withdrawal,53035.63,Active
+CUST00023,Emeka Adebayo,Abuja,Transfer,39007.2,Active
+CUST00145,Maryam Onyeka,Port Harcourt,POS Purchase,59284.79,Active
+CUST00927,Tunde Musa,Lagos,Transfer,66965.66,Active
+CUST00627,Tomi Adeyemi,Kaduna,POS Purchase,13981.56,Active
+CUST01072,Zainab Sule,Abuja,Payment,5558.04,Active
+CUST00666,Chinedu Olawale,Ibadan,Deposit,16423.04,Active
+CUST00719,Tunde Uche,Abuja,Withdrawal,68124.15,Active
+CUST00989,Amaka Okeke,Kaduna,Online Transfer,16284.29,Active
+CUST00727,Ada Ibrahim,Ibadan,Payment,13987.46,Active
+CUST00363,Bola Ojo,Port Harcourt,Online Transfer,4530.6,Dormant
+CUST00581,Tunde Balogun,Lagos,Withdrawal,161556.04,Active
+CUST00260,Kelechi Okafor,Kaduna,ATM Withdrawal,,Active
+CUST00368,Chinedu Ojo,Kano,POS Purchase,60467.17,Active
+CUST00749,Tomi Ekanem,Abuja,Online Transfer,73694.63,Active
+CUST00164,Ngozi Sule,Kaduna,Deposit,49844.73,Active
+CUST00740,Amina Uche,Lagos,Online Transfer,,Active
+CUST00643,Emeka Yusuf,Abuja,Transfer,23770.38,Active
+CUST00340,Amina Ekanem,Kano,POS Purchase,18258.67,Dormant
+CUST00050,Seyi Adebayo,Abuja,Payment,390311.55,Dormant
+CUST00776,Chinedu Sule,Port Harcourt,Payment,48818.85,Dormant
+CUST00907,Ngozi Abubakar,Abuja,Transfer,17608.89,Active
+CUST00804,Tunde Nwosu,Lagos,POS Purchase,44598.55,Active
+CUST00464,Tomi Uche,Lagos,Withdrawal,10189.27,Active
+CUST00719,,Lagos,Transfer,,Dormant
+CUST00457,Fatima Nnamdi,Aba,Payment,14456.37,Active
+CUST00395,Zainab Okafor,Kano,ATM Withdrawal,46214.33,Active
+CUST00360,Daniel Sule,Port Harcourt,Transfer,81302.94,Dormant
+CUST00232,Ngozi Musa,Abuja,ATM Withdrawal,41139.68,Active
+CUST01067,Chinedu Yusuf,Ibadan,Transfer,30774.13,Active
+CUST00733,Musa Abubakar,Lagos,ATM Withdrawal,28304.1,Active
+CUST00193,Ifeoma Abubakar,Abuja,ATM Withdrawal,26463.42,Active
+CUST00952,Tomi Olawale,Ibadan,ATM Withdrawal,15729.0,Active
+CUST00167,Chika Ibrahim,Port Harcourt,POS Purchase,17862.81,Active
+CUST00654,Maryam Sule,Enugu,Payment,122952.1,Active
+CUST00183,Seyi Nnamdi,Kaduna,Withdrawal,25120.09,Active
+CUST00398,Bola Ekanem,Benin City,ATM Withdrawal,12761.19,Restricted
+CUST00725,Maryam Ibrahim,Lagos,Deposit,16708.32,Active
+CUST01100,Amina Onyeka,Lagos,Withdrawal,84147.83,Active
+CUST01092,Ngozi Nnamdi,Lagos,POS Purchase,55026.29,Active
+CUST00986,Ifeoma Musa,Enugu,Transfer,49034.97,Active
+CUST00260,Maryam Sule,Aba,Transfer,21643.03,Active
+CUST00103,Musa Okafor,Aba,Online Transfer,1O000,Active
+CUST00997,Obinna Balogun,Abuja,Withdrawal,14711.7,Active
+CUST01016,Emeka Okafor,Benin City,Deposit,21597.78,Active
+CUST00307,Femi Sule,Kano,Deposit,73848.01,Active
+CUST00022,Femi Uche,Benin City,Withdrawal,67120.01,Active
+CUST00713,Seyi Bello,Kano,ATM Withdrawal,10488.66,Restricted
+CUST00084,Maryam Balogun,Lagos,POS Purchase,11901.66,Restricted
+CUST00045,Zainab Onyeka,Lagos,Payment,31215.25,Active
+CUST01031,Tomi Abubakar,Aba,Withdrawal,157328.64,Active
+CUST00546,Ngozi Ekanem,Port Harcourt,Payment,4123.24,Dormant
+CUST00124,Ifeoma Okeke,Abuja,Deposit,36985.93,Dormant
+CUST00721,Amaka Okeke,Abuja,ATM Withdrawal,7072.13,Active
+CUST00407,Tunde Eze,Abuja,Payment,14848.12,Active
+CUST00590,Obinna Bello,Aba,Deposit,19448.62,Active
+CUST00989,Chinedu Nwosu,Lagos,POS Purchase,18387.96,Active
+CUST00262,Emeka Adebayo,Lagos,ATM Withdrawal,16418.5,Active
+CUST00712,Zainab Eze,Enugu,Withdrawal,28202.53,Active
+CUST00912,Tomi Olawale,Kano,Payment,16394.55,Active
+CUST00467,Tunde Adebayo,Lagos,Payment,Error,Dormant
+CUST01068,Chika Balogun,Lagos,Deposit,61073.26,Active
+CUST00494,Tomi Onyeka,Lagos,Withdrawal,59446.5,Closed
+CUST00506,Femi Ojo,Abuja,ATM Withdrawal,-2500,Dormant
+CUST00973,Bola Adebayo,Lagos,Online Transfer,5998.26,Dormant
+CUST00700,Fatima Uche,Lagos,Payment,37755.18,Active
+CUST00956,Femi Bello,Enugu,Payment,55046.78,Active
+CUST00870,Ada Olawale,Kaduna,Payment,9984.19,Active
+CUST00784,Tomi Bello,Kaduna,Transfer,28258.03,Restricted
+CUST00266,Musa Adebayo,Abuja,Deposit,,Active
+CUST00439,Fatima Abubakar,Abuja,Transfer,176682.65,Active
+CUST00951,Amaka Sule,Jos,Online Transfer,191847.45,Active
+CUST00678,Chinedu Ekanem,Enugu,POS Purchase,5300.75,Active
+CUST00309,Bola Onyeka,Kano,Online Transfer,339044.55,Active
+CUST00361,Chinedu Bello,Abuja,Deposit,11211.93,Active
+CUST00854,Ifeoma Bello,Abuja,Transfer,74655.02,Active
+CUST00197,Zainab Onyeka,Port Harcourt,Payment,73899.24,Active
+CUST00124,Tunde Eze,Kano,Withdrawal,10345.11,Active
+CUST00842,Kelechi Abubakar,Lagos,Withdrawal,45854.45,Active
+CUST00318,Daniel Olawale,Aba,POS Purchase,25145.29,Active
+CUST00842,Zainab Onyeka,Kano,ATM Withdrawal,48741.68,Active
+CUST00587,Kelechi Ojo,Kano,Payment,Error,Active
+CUST01098,Emeka Abubakar,Lagos,Withdrawal,92623.6,Active
+CUST00578,Maryam Danjuma,Enugu,Transfer,30192.82,Dormant
+CUST00955,Tunde Ojo,Enugu,Deposit,23672.89,Active
+CUST00936,Fatima Nnamdi,Lagos,Deposit,83786.24,Active
+CUST00234,Amaka Eze,Kano,Transfer,50028.88,Active
+CUST01096,Emeka Ibrahim,Ibadan,Withdrawal,58207.71,Active
+CUST00821,Maryam Balogun,Benin City,Online Transfer,14405.61,Active
+CUST00118,Obinna Okeke,Lagos,Transfer,9844.78,Dormant
+CUST00007,Emeka Abubakar,Kaduna,Deposit,15870.82,Active
+CUST00299,Femi Nnamdi,Port Harcourt,Deposit,15050.08,Active
+CUST00018,Fatima Okeke,Lagos,ATM Withdrawal,61461.06,Active
+CUST00394,Maryam Okeke,Lagos,Withdrawal,74305.77,Active
+CUST01096,Fatima Danjuma,Lagos,Withdrawal,23976.5,Dormant
+CUST00527,Amaka Okeke,Abuja,Transfer,117111.16,Closed
+CUST00027,Femi Uche,Port Harcourt,Withdrawal,110021.29,Active
+CUST00544,Chika Abubakar,Enugu,Payment,35716.17,Active
+CUST00242,Zainab Balogun,Lagos,Transfer,12308.78,Active
+CUST00942,Maryam Musa,Jos,Deposit,135311.72,Closed
+CUST00100,Fatima Nnamdi,Lagos,POS Purchase,26342.59,Active
+CUST00848,Musa Balogun,Kano,Transfer,Unknown,Active
+CUST00491,Ada Adebayo,Aba,Payment,19937.44,Restricted
+CUST00021,Ifeoma Ekanem,Benin City,Deposit,11500.77,Restricted
+CUST00741,Ada Onyeka,Ibadan,Payment,6446.68,Active
+CUST00501,Ngozi Adeyemi,Ibadan,Withdrawal,,Active
+CUST00849,Ada Adeyemi,Lagos,Transfer,12791.79,Active
+CUST00680,Kelechi Olawale,Lagos,Withdrawal,596891.73,Dormant
+CUST00866,Seyi Okafor,Port Harcourt,Online Transfer,9451.1,Active
+CUST00507,Bola Abubakar,Lagos,Withdrawal,,Active
+CUST00009,Obinna Abubakar,Abuja,Online Transfer,46634.62,Active
+CUST00144,Chika Ojo,Lagos,Online Transfer,129220.21,Active
+CUST00505,Ngozi Eze,Aba,Transfer,29868.19,Active
+CUST00438,Chinedu Nnamdi,Kaduna,Withdrawal,49622.63,Active
+CUST00874,Fatima Nwosu,Benin City,Transfer,4431.14,Active
+CUST00453,Ngozi Musa,Ibadan,Online Transfer,14220.62,Active
+CUST00947,Fatima Ojo,Lagos,Payment,9569.57,Dormant
+CUST00207,Kelechi Uche,Lagos,Payment,4208.72,Active
+CUST00424,Bola Adeyemi,Ibadan,Deposit,31474.72,Active
+CUST00832,Amina Ojo,Ibadan,POS Purchase,2972.42,Restricted
+CUST00137,Daniel Ojo,Abuja,Deposit,7463.38,Active
+CUST00354,Zainab Bello,Port Harcourt,Deposit,,Dormant
+CUST00828,Seyi Yusuf,Port Harcourt,Withdrawal,12193.69,Active
+CUST00648,Emeka Yusuf,Lagos,Transfer,41621.34,Active
+CUST00856,Chika Eze,Abuja,POS Purchase,,Active
+CUST00568,Femi Adeyemi,Port Harcourt,POS Purchase,68443.14,Active
+CUST00946,Chinedu Ojo,Kano,Withdrawal,59417.47,Active
+CUST00966,Daniel Bello,Aba,Transfer,87620.7,Active
+CUST01073,Chinedu Okeke,Kano,POS Purchase,27946.34,Active
+CUST00135,Fatima Danjuma,Enugu,Payment,37927.31,Active
+CUST00651,Amaka Eze,Benin City,Withdrawal,46698.79,Dormant
+CUST00126,Kelechi Ekanem,Lagos,Transfer,32261.07,Active
+CUST00252,Ada Balogun,Ibadan,Payment,18821.7,Active
+CUST00331,Chinedu Adeyemi,Port Harcourt,Online Transfer,20080.76,
+CUST00711,Obinna Adebayo,Kano,ATM Withdrawal,12362.23,Active
+CUST00475,Seyi Abubakar,Lagos,Deposit,42683.88,Active
+CUST00952,Chika Nwosu,Kaduna,ATM Withdrawal,,Active
+CUST00329,Seyi Onyeka,Aba,Withdrawal,Unknown,Active
+CUST00679,Kelechi Nwosu,Lagos,POS Purchase,14439.39,Active
+CUST00840,Chinedu Balogun,Lagos,Transfer,8346.2,Active
+CUST01079,Musa Ekanem,Lagos,Withdrawal,74518.38,Active
+CUST00270,Chika Onyeka,Enugu,Transfer,30290.14,Active
+CUST00807,Amina Uche,Kano,Withdrawal,11815.41,Active
+CUST00094,,Lagos,Withdrawal,62850.08,Active
+CUST00598,Daniel Nwosu,Benin City,Payment,15986.68,Active
+CUST00456,Ngozi Okeke,Abuja,ATM Withdrawal,6859.98,Active
+CUST01055,Amina Yusuf,Port Harcourt,POS Purchase,77744.42,Active
+CUST00851,Chika Adebayo,Abuja,Transfer,N/A,Active
+CUST01020,Maryam Balogun,Kano,Deposit,18602.68,Active
+CUST00936,Bola Bello,Port Harcourt,Transfer,29177.11,Active
+CUST00452,Daniel Onyeka,Abuja,Transfer,Not Available,Active
+CUST00807,Amaka Nwosu,Port Harcourt,Withdrawal,28566.7,Active
+CUST00034,Ngozi Yusuf,Kaduna,POS Purchase,8440.89,Restricted
+CUST00614,Maryam Olawale,Port Harcourt,Online Transfer,48234.84,Active
+CUST00053,Tomi Balogun,Aba,Deposit,17239.7,Active
+CUST00797,Chika Olawale,Kano,POS Purchase,184957.95,Active
+CUST01064,Maryam Ekanem,Enugu,Payment,27968.67,Active
+CUST00750,Obinna Uche,Abuja,Withdrawal,2995.67,Active
+CUST00924,Kelechi Bello,Benin City,Payment,40027.61,Dormant
+CUST00258,Bola Danjuma,Abuja,Deposit,195742.95,Active
+CUST01094,Seyi Ojo,Lagos,Deposit,135385.3,Active
+CUST00606,Amina Eze,Lagos,Online Transfer,174715.48,Active
+CUST00742,Amaka Danjuma,Lagos,Payment,,Closed
+CUST00848,Fatima Sule,Aba,Withdrawal,69710.92,Active
+CUST00704,Zainab Okeke,Jos,Transfer,13601.91,Active
+CUST00349,Fatima Ekanem,Enugu,Online Transfer,35040.13,Dormant
+CUST00673,Ada Adeyemi,Lagos,Transfer,7840.1,Active
+CUST00720,Emeka Sule,Kaduna,Online Transfer,14698.55,Active
+CUST00944,Femi Nnamdi,Enugu,POS Purchase,14238.62,Active
+CUST00530,Femi Nwosu,Abuja,Transfer,68769.46,Active
+CUST00552,Musa Adebayo,Port Harcourt,ATM Withdrawal,,Active
+CUST00554,Kelechi Olawale,Ibadan,ATM Withdrawal,36930.0,Active
+CUST00126,Fatima Nwosu,Lagos,POS Purchase,7255.67,Active
+CUST00100,Amina Eze,Port Harcourt,Transfer,20502.87,Dormant
+CUST00023,Chinedu Uche,Enugu,Deposit,13277.73,Active
+CUST00733,Femi Nwosu,Lagos,Withdrawal,66811.84,Active
+CUST00461,Ifeoma Okafor,Port Harcourt,Payment,90957.23,Active
+CUST00953,Seyi Eze,Kano,POS Purchase,80526.8,Active
+CUST00773,Ifeoma Nnamdi,Enugu,ATM Withdrawal,13157.41,Active
+CUST00156,Tomi Okafor,Jos,Payment,1808.81,Active
+CUST00111,Seyi Olawale,Benin City,Deposit,Pending,Dormant
+CUST00403,Maryam Olawale,Ibadan,Deposit,116027.99,Active
+CUST01014,Zainab Abubakar,Kano,POS Purchase,,Dormant
+CUST00054,Obinna Musa,Kano,Payment,13216.68,Active
+CUST00207,Maryam Yusuf,Kano,POS Purchase,144729.26,Active
+CUST00033,Femi Nwosu,Lagos,Deposit,99222.47,Active
+CUST00456,Ada Balogun,Ibadan,Transfer,28693.0,Active
+CUST01089,Chika Onyeka,Ibadan,Online Transfer,20880.2,Active
+CUST00753,Chinedu Musa,Port Harcourt,Withdrawal,24535.06,Dormant
+CUST00543,Emeka Adebayo,Kaduna,Deposit,35140.96,Active
+CUST00159,Ifeoma Olawale,Ibadan,ATM Withdrawal,138691.47,Active
+CUST00392,Femi Musa,Abuja,Payment,42720.2,Active
+CUST00577,Chinedu Nnamdi,,Online Transfer,57871.99,Active
+CUST00303,Ada Bello,Lagos,Online Transfer,90149.97,Active
+CUST00776,Daniel Musa,Abuja,ATM Withdrawal,8693.09,Dormant
+CUST01079,Fatima Eze,Port Harcourt,Deposit,59564.9,Active
+CUST00227,Ada Adeyemi,Lagos,Transfer,20855.88,Active
+CUST00278,Daniel Uche,Lagos,POS Purchase,,Active
+CUST00139,Daniel Onyeka,Lagos,Transfer,3333.54,Active
+CUST00799,Tunde Okeke,Enugu,Online Transfer,10115.68,Active
+CUST00508,Tomi Ekanem,Enugu,ATM Withdrawal,47628.33,Active
+CUST00313,Maryam Bello,Abuja,Deposit,31374.77,Active
+CUST00242,Emeka Olawale,Lagos,Transfer,33668.79,Active
+CUST00078,Obinna Nnamdi,Lagos,ATM Withdrawal,196989.02,Dormant
+CUST00524,Maryam Okafor,Lagos,Deposit,7870.45,Active
+CUST00752,Chinedu Uche,Abuja,Transfer,27242.31,Active
+CUST00259,Obinna Adeyemi,Lagos,ATM Withdrawal,37964.06,Restricted
+CUST00002,Seyi Yusuf,Abuja,Deposit,13409.07,Active
+CUST00521,Daniel Ibrahim,Jos,Transfer,28804.49,Active
+CUST00744,Ada Sule,Port Harcourt,ATM Withdrawal,5653.39,Active
+CUST00380,Fatima Sule,Benin City,POS Purchase,114676.0,Restricted
+CUST00276,Ifeoma Uche,Lagos,Transfer,14162.39,Active
+CUST00170,Obinna Musa,Abuja,Online Transfer,213493.13,Restricted
+CUST00821,Chinedu Musa,Aba,Online Transfer,27105.32,Active
+CUST00948,Daniel Okafor,Abuja,Transfer,,Closed
+CUST00847,Maryam Musa,Ibadan,Deposit,26546.6,Active
+CUST00571,Kelechi Nwosu,Jos,POS Purchase,27152.27,Active
+CUST00797,Seyi Balogun,Kano,Withdrawal,15614.11,Active
+CUST00437,Ngozi Bello,Abuja,POS Purchase,31542.27,Dormant
+CUST00027,Daniel Onyeka,Kano,Payment,38482.49,Closed
+CUST00405,Femi Uche,Lagos,Transfer,12780.83,Active
+CUST00775,Amaka Uche,Lagos,Payment,24708.82,Active
+CUST00713,Chika Nwosu,Lagos,Payment,15212.32,Active
+CUST01090,Amaka Adeyemi,Kaduna,Online Transfer,279183.31,Active
+CUST01098,Femi Okeke,Ibadan,Withdrawal,25596.96,Dormant
+CUST00267,Musa Abubakar,Abuja,Online Transfer,131293.68,Active
+CUST00011,Ngozi Olawale,Lagos,Deposit,23025.04,Restricted
+CUST00302,Ngozi Ojo,Ibadan,ATM Withdrawal,36288.18,Restricted
+CUST00964,Maryam Olawale,Aba,Online Transfer,7469.59,Active
+CUST00895,Ngozi Adeyemi,Abuja,Transfer,17905.93,Active
+CUST00109,Obinna Nwosu,Abuja,Deposit,34561.46,Closed
+CUST00177,Amaka Nwosu,Kaduna,POS Purchase,,Dormant
+CUST00620,Chika Ibrahim,Kaduna,POS Purchase,34959.4,
+CUST00727,Seyi Bello,Aba,Transfer,111712.08,Active
+CUST01081,Maryam Abubakar,Abuja,Transfer,53140.2,Active
+CUST00831,Tunde Ibrahim,Lagos,POS Purchase,142537.6,Dormant
+CUST00234,Seyi Nwosu,Port Harcourt,Withdrawal,26394.68,Active
+CUST00041,Ada Okeke,Abuja,Payment,305645.89,Active
+CUST00697,Amaka Danjuma,Kaduna,Transfer,,Active
+CUST00610,Ifeoma Nnamdi,Lagos,Withdrawal,13010.32,Active
+CUST01014,Bola Nwosu,Ibadan,POS Purchase,8349.08,Active
+CUST00634,Zainab Eze,Kaduna,Withdrawal,288077.4,Active
+CUST00552,Ngozi Ibrahim,Jos,Online Transfer,1O000,Dormant
+CUST00334,Ada Ekanem,Ibadan,Payment,20047.09,Active
